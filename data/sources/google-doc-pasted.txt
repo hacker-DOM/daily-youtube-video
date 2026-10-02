@@ -1,0 +1,788 @@
+Anatomy/Medicine:
+Armando Hasudungan
+Wendy Riggs
+Medicosis Perfectionalis
+Institute of Human Anatomy
+Chubbyemu
+Ninja Nerd
+Alice Roberts - embryology
+Sam Webster
+Biology:
+Journey to the Microcosmos - microbiology, microscopy
+Deep Look
+Crime Pays But Botany Doesn't - botany
+Ze Frank
+Animalogic
+Fraser Valley Rose Farm - botany
+Natural World Facts
+Dr. Plants
+Basin79 - spiders
+Ben G Thomas
+AntsCanada - ants
+Andrew Millison - permaculture
+Anthill Art
+TierZoo
+Made in the Wild - zoology
+Stated Clearly
+MBARI - marine biology
+Anthöny Pain
+Nature on PBS
+BBC Earth
+Microbehunter - microscopy, microbiology
+Quaoar Power - entomology
+Animal Fact Files
+Cornell Lab of Ornithology
+Planet Fungi - mycology
+Atlas Pro
+Amoeba Sisters
+EVNautilus - marine biology
+InsecthausTV - insects
+Plants Insider
+Neural Academy - biology songs
+Biologybyme
+This Glorious Clockwork
+Simon Clark - climate
+OceanVizion - 4k sea life
+Mossy Earth - ecology
+Blue Collar:
+ChrisFix - automotive
+HVAC-R Videos
+Speedkar99 - automotive
+AC Service Tech LLC - HVAC
+HVAC School
+Word of Advice TV - HVAC, plumbing
+MikeHoltNEC - electrical
+Project Farm - tools, DIY
+Electrician U
+Essential Craftsman - construction
+RR Buildings - construction
+Perkins Builder Brothers - construction
+Insider Carpentry
+Fix This Build That
+Bobsdecline - lineman
+Chemistry:
+NileRed
+The Organic Chemistry Tutor - lectures
+Periodic Videos
+Tyler DeWitt
+NurdRage
+NileRed Shorts
+NileBlue
+Extractions&Ire
+Explosions&Fire
+ChemicalForce
+Thoisoi2
+Chemdelic
+Rhodanide
+Tom's Lab
+ReactiveChem
+David Sherrill - computational chemistry
+TMP Chem
+Chemistry in a Nutshell - lectures
+Chemiolis
+Chill:
+Reid Gower - feynman, sagan
+Hsinchuen Lin - ceramics
+Ingleton Pottery
+Yukikawae - sand drawing
+Macro Room
+Computer Science:
+Ben Eater
+Sebastian Lague
+Two Minute Papers
+george hotz archive
+Computerphile
+LiveOverflow
+jdh
+Kevin Fang - internet disasters
+Reducible
+PwnFunction
+CS Dojo
+sentdex
+Fireship
+javidx9
+Welch Labs
+CodeParade
+DevTips
+ExplainingComputers
+Neso Academy
+The Coding Train
+Nemean
+Brackeys
+Code Bullet
+DeepMind - applied computer science
+Creel
+Techquickie
+Linus Tech Tips
+Coding:
+Scrimba - learn how to code interactively [website]
+Mike Dane - every language
+freeCodeCamp - every language
+mCoding - python
+Programming with Mosh - java, python
+Bro Code
+Corey Schafer - mainly python, pandas, django
+TheCodex - java, SQL, python
+John Hammond
+Stephen Grider
+JavaScript Mastery
+Kevin Powell - HTML & CSS
+The Net Ninja
+Mr. P Solver - python
+Ihatetomatoes
+Coding Addict
+IAmTimCorey - C#
+Computer Science
+Alex Lee - java
+Dev Ed - react, JS, node JS, web design
+Ari Pxl - figma, HTML, CSS
+DesignCode - UI/UX, figma, swift
+Web Dev Simplified - CSS, JS, React, Node
+Comedy:
+Vlog Creations
+Casually Explained
+Incognito Mode
+Alex Ernst - apple cider vinegar
+Lessons in Meme Culture
+SomethingAboutChickens
+Kill Tony - stand up
+Just For Laughs Gags
+schmoyoho
+Berd
+Internet Comment Etiquette
+surreal entertainment
+twomad
+Jelle's Marble Runs
+Tico & the Man Frank Maglio
+Cart Narcs
+Cooking:
+Jason Farmer
+Cooking Con Claudia
+ArnieTex
+Cooking With The Blues
+SAM THE COOKING GUY
+J. Kenji López-Alt
+Chaplin's Classics
+Chinese Cooking Demystified
+Yeung Man Cooking
+Tasting History with Max Miller
+Joshua Weissman
+Babish Culinary Universe
+Adam Ragusea
+MinuteFood
+OTR Food & History
+Documentaries:
+Peter Santenello
+Soft White Underbelly
+FRONTLINE PBS | Official
+Channel 5 with Andrew Callaghan
+All Gas No Brakes
+Kimgary
+DW Documentary
+VICE
+Earth Science:
+Nick Zentner - geology
+Stefan Milo - anthropology/archeology
+PBS Eons
+History of the Earth
+Kate Tectonics - geology
+The Budget Museum
+Climate Town - climate
+Animal Origins
+Moth Light Media
+NORTH 02
+PBS Terra - earth science
+Your Dinosaurs Are Wrong
+Past Eons Productions
+GeologyHub
+GeologyUpSkill - geology
+Myron Cook - geology
+Electronics:
+Plasma Channel
+Technology Connections
+Mr Carlson's Lab
+SeanHodgins
+styropyro - lasers
+How To Mechatronics
+DiodeGoneWild
+bigclivedotcom
+GreatScott!
+Afrotechmods
+Zilipoper
+Vidduley
+ElectroBOOM
+The Signal Path
+Simply Electronics
+Esperantanaso
+Techmoan
+EEVblog
+EdisonTechCenter
+Moritz Klein
+w2aew
+CuriousMarc
+Tesla500
+Alan Yates
+Mikeselectricstuff
+Jeri Ellsworth
+Marques Brownlee - new tech
+FesZ Electronics
+Ali Hajimiri
+Electronoobs
+Marco Reps
+NorthridgeFix - electronic repair
+CNLohr
+Bitluni
+Geerling Engineering
+Engineering:
+EngineerGuy
+Aaron Witt - mining, civil
+FD Engineering - documentaries
+Real Engineering
+Practical Engineering - civil
+Branch Education
+The Efficient Engineer
+Ziroth
+The Engineering Mindset
+Engineering Explained
+Kyle.Engineers
+AgentJayZ
+Undecided with Matt Ferrell
+The B1M - civil
+Found And Explained - aerospace
+Lesics
+Dejmian XYZ Simulations
+Art of rendering - mechanical renders
+WolfShaft - mechanical renders
+Jeff Hanson - lectures
+Gregory Michaelson - statics, structural analysis
+Boston Dynamics
+Gaming:
+Frost
+Ahoy
+Hollow
+theRadBrad
+MKIceAndFire
+videogamedunkey
+ThrillSeeker
+General Explanation:
+Kurzgesagt - In a Nutshell
+Lemmino
+melodysheep
+Mike Boyd
+Wendover Productions
+Joe Scott
+D!NG
+Half as Interesting
+Tom Scott
+Primer
+New Mind
+Vsauce
+Vsauce2
+TED-Ed
+Atomic Frontier
+Facts in Motion
+Jared Owen
+Koranos
+Art of the Problem
+RealLifeLore
+Vox
+CGP Grey
+Geographics
+Biographics
+JerryRigEverything
+General Science:
+Veritasium
+Domain of Science
+Sabine Hossenfelder
+The Action Lab
+Steve Mould
+Quanta Magazine
+Be Smart
+Science Channel
+NightHawkInLight
+Science Marshall
+Sciencephile the AI
+Sci Show
+Minute Earth
+Real Science
+Alpha Phoenix
+Arxiv Insights
+Nottinghamscience
+BackstageScience
+Verge Science
+The Royal Institution
+World Science Festival
+Up and Atom
+SmarterEveryDay
+Kyle Hill
+StarTalk
+History:
+Sam O'Nella Academy
+History Matters
+toldinstone
+Dan Carlin
+Voices of the Past
+TimeGhost History
+Kings and Generals
+The History Guy
+Jay Foreman
+The Operations Room
+Historia Civilis
+ConeOfArc
+Paper Skies
+Dan Davis History
+History Buffs
+Military History Visualized
+HistoryMarche
+OverSimplified
+Fire of Learning
+The Great War
+Drachinifel
+Lindybeige
+InRangeTV
+Invicta
+Forgotten Weapons
+Fall of Civilizations
+Tasting History with Max Miller
+Weird History
+Real Crusades History
+The Chieftain
+Knowledgia
+Extra Credits
+Rex's Hangar
+Lost History with Ancient Swan
+Captivating History
+WW1 [Playlist]
+WW2 [Playlist]
+Houseplants/Terrariums:
+PLANTERINA - houseplants
+Nick Pileggi - houseplants
+SerpaDesign - terrariums
+Asu - terrariums
+Jartopia - terrariums
+MD Fish Tanks
+Iconic:
+SethEverman
+Dillon The Hacker
+bill wurtz
+Lectures:
+Crash Course
+Khan Academy
+AK Lectures
+Michel van Biezen
+MIT OpenCourseWare
+Bozeman Science - physics, biology
+YaleCourses
+Harvard Physics
+Professor Dave Explains - chemistry, anatomy
+Math:
+3Blue1Brown
+Numberphile
+PBS Infinite Series
+Eddie Woo
+Vihart
+Stand-up Maths
+Mathologer
+patrickJMT
+Tipping Point Math
+Think Twice
+blackpenredpen
+MindYourDecisions
+Richard E. BORCHERDS - advanced math
+Dr. Trefor Bazett
+Professor Leonard - lectures
+Tibees
+Michael Penn
+zhuli
+Motivation:
+Mateusz M
+Better Ideas
+Music:
+George Collier
+12tone - music theory
+Tony Ann - piano
+Frank Watkinson - guitar
+Kyle Landry - piano
+Paul Davids - guitar
+Alex Ball - synths
+Ichika Nito - guitar
+ibi - piano
+Mariana Froes - singing covers
+CharlesBerthoud - bass
+Daniel Thrasher
+The Dooo - electric guitar
+Harry Mack - freestyle rap
+Fkj
+Markus Veltri - piano
+Marc Rebillet - improv music
+DOMi & JD Beck
+Lara6683 - piano
+Majestic Casual
+MrSuicideSheep
+Steezyasfuck
+Adam Neely
+David Bruce Composer
+Sideways - music analysis
+8-bit Music Theory
+Captain Pikant
+Electrónicos Fantásticos!
+Dolomuse
+Listening In
+Tantacrul
+Charles Cornell
+David Bennett Piano
+Outdoors:
+Primitive Technology
+Self Sufficient Me - gardening
+Kraig Adams - hiking
+Alaska to Argentina on Honda 90's
+Beau Miles
+Bertram - Craft and Wilderness
+Patagonia
+AlfieAesthetics
+Learn Your Land
+Yellow Elanor
+Paul Stamets - mycology
+MCQBushcraft
+Nagualero
+Primitive Skills
+Bound For Nowhere
+Foresty Forest
+Jungle Survival - fake, but cool
+Primitive Survival Tool - fake, but cool
+Philosophy:
+Exurb1a
+Dictionary of Obscure Sorrows
+Sisyphus 55
+Pursuit of Wonder
+Physics:
+Minutephysics
+PBS Space Time
+Fermilab - quantum
+The Science Asylum
+Physics with Elliot
+Physics Girl
+Physics Videos by Eugene
+ScienceClic English
+braintruffle
+Xenosum
+DrPhysicsA
+For the Allure of Physics
+ViaScience - quantum mechanics, thermodynamics
+XylyXylyX - general relativity
+Sixty Symbols
+PhysicsHigh
+Parth G
+Looking Glass Universe
+Arvin Ash
+Physics Explained
+The Biggest Ideas in the Universe - playlist
+Eigenchris - relativity, tensors
+Flipping Physics
+Physics Explained
+Professor M does Science
+Science Experiments and Building Stuff:
+Applied Science
+Thought Emporium
+StuffMadeHere
+Saveitforparts - satellites, electronics tinkering
+Advanced Tinkering
+Jeremy Fielding
+Tech Ingredients
+Sam Zeloof
+Mark Rober
+Cody's Lab
+Michael Reeves
+colinfurze
+TheBackyardScientist
+The Post Apocalyptic Inventor
+Tom Stanton
+PeterSripol
+rctestflight
+Huygens Optics
+Teslista555 - high voltage
+Breaking Taps
+Robert Murray-Smith
+Scott Yu-Jan - 3D printing
+Space:
+AnthroFuturism - colonizing the moon
+TheSpaceBucket
+Anton Petrov
+Deep Sky Videos
+Everyday Astronaut
+John Michael Godier
+Marcus House
+SEA
+Dr. Becky
+Isaac Arthur
+Sci Show Space
+Astrum
+Cool Worlds
+Scott Manley
+David Butler
+The Space Race
+History of the Universe
+Event Horizon
+Launch Pad Astronomy
+Chandra X-ray Observatory
+Primal Space
+The Vintage Space
+ParallaxNick
+Fraser Cain
+BPS.space
+Sports:
+JxmyHighroller - basketball, NBA
+Hockey Psychology
+VLSkate - skateboarding
+Travel:
+Indigo Traveller
+Vagrant Holiday
+Gabriel Traveler
+Karl Watson
+Christoph Rehage - asia, europe
+c90adventures - north, south, and central america
+hobestobe - train hopping
+Only in Japan
+travelling the unknown
+The Tim Traveller
+Eli from Russia
+Rick Steves' Europe
+Kurt Caz
+bald and bankrupt
+Ilia Bondarev
+Luke Korns
+Hugh Abroad
+Workshop:
+Matthias Wandel - woodworking
+AvE
+Blondihacks - machining
+Dan Gelbart - machining
+Simone Giertz
+Cosmas Bauer
+This Old Tony
+Mrpete222
+Myfordboy
+Luckygen1001
+Tips from a Shipwright
+EngelsCoachShop
+The Luminary Shoppe
+Machine Thinking - machining
+MIT Machine Shop - machining
+Joe Pieczynski
+Clickspring
+Peter Brown - resin
+WhyKnot - knots
+First Class Amateur - knots
+Other:
+Internet Historian
+Steve Cutts - short films
+Bionerd23
+LockPickingLawyer - lock picking
+EdwardCurrent
+The Slow Mo Guys
+Objectivity
+Sharkee
+Mikasacus
+Thomas Schwenke
+Seeker
+BG Kumbi
+Disrupt
+Company Man
+Booking Hunter TV
+Simply Explained
+Captain Disillusion
+Robin Baumgarten
+Daily Dose Of Internet
+Sciencium
+Rare Earth
+hochelaga
+Not Just Bikes
+blancolirio
+Grand Illusions
+Biblaridion
+Fran Blanche
+Nerdwriter1
+Shawn Woods - mouse traps
+Mark Novak - firearms
+Strange Parts
+Louis Rossmann
+Calum
+RODALCO2007
+Jarett Gross - 3D printed houses
+William Osman
+Allen Pan
+I did a thing
+CNC Kitchen
+Knowing Better
+Maker's Muse
+Stewart Hicks
+Jazza
+acapellascience - science songs
+Solar Sands
+Great Art Explained
+NationSquid
+DUST - sci-fi short films
+DependableFlame - vintage lighters
+* * * * * * *
+Podcasts:
+Lex Fridman Podcast - long form discussions with the world's greatest minds
+Radiolab - investigative journalism with compelling storytelling and sexy sound design
+Invention - history and impact of different inventions
+This Podcast Will Kill You - diseases, epidemiology, and public health issues
+Hardcore History - deep dives into historical events and narratives
+Materialism - material science and its applications
+Ologies - interviewing people with different science jobs
+Big Biology - explores topics within the field of biology
+Astronomy Cast - discusses topics related to astronomy in an accessible manner
+Stuff to Blow Your Mind - random cool stuff
+Origin Stories - evolution and anthropology
+Life's Little Mysteries - general science
+The Anthropocene Reviewed - reviewing aspects of earth on a 5 star scale
+50 Things That Made the Modern Economy - explores the history and significance of inventions.
+Speaking of Bitcoin - general cryptocurrency discussion
+30 Animals That Made Us Smarter - examines animals and their influence on human innovation
+Huberman Lab Podcast - neuroscience and human performance
+After On - Rob Reid - science and technology with a focus on futurism
+Unscrypted Podcast - fundamental explanation of cryptocurrency
+TWIV (This Week in Virology) - the current state of virology
+Daniel and Jorge Explain the Universe - cosmology and particle physics
+Planetary Radio - space exploration and astronomy
+Planetary Radio: Space Policy Edition - space policy and related topics
+Safety Third - hosted by popular science YouTubers
+The Biologic Podcast - biology
+Talk Nerdy with Cara - conversations with scientists and science communicators
+The Skeptics Guide to the Universe - explores scientific topics from a skeptical perspective
+Geology on the Rocks - geology
+99% Invisible - kinda like RadioLab, cool sound design and stories
+Useful Websites:
+ChatGPT - AI assistant
+KhanAcademy - learn anything
+SciHub - remove academic paper paywalls
+ZLibrary - books/textbooks
+AudioBookBay - audiobooks
+AnnasArchive - books/textbooks
+Firmoo - buy prescription glasses for cheap ($20 USD+)
+CostPlusDrugs.com - affordably purchase medicine without insurance
+Archive.ph - bypass paywalls on anything
+FMovies - movies/shows
+TokyBook - free audiobooks
+Wikipedia Years in Science - key discoveries over the years
+EveryNoise - find new music
+Midjourney - AI art generation
+FutureMe - send emails/letters to yourself in the future
+GitHub - find and share code
+CodePen - GitHub but for web developers
+Vocabulary.com - simple definitions for hard words
+Goodreads - find/rate/review books
+Favoree - find/rate/review YouTube channels
+Clippings.io - organize all kindle notes and highlights
+SyncTube - watch YouTube videos together
+Chosic - tools for Spotify to find new music
+OneSimpleWish - charity to purchase items for foster kids
+RandomWebsite - goes to a random website
+DataCommons - fascinating global population data
+KilledByGoogle - all the projects google has killed
+AudioBookBay - free audiobooks
+CharityNavigator - find reputable charities
+Kickstarter - find/fund startups
+BibleGateway - bible; highlights and most versions
+WorldCat - global library search
+Cool Websites:
+MOTM - a new chemistry molecule is explained each month since January 1996
+SuperSplat - gaussian splat viewer
+MapsterMan - interactive map of all sunken chips during WW2
+FutureTimeline - an attempt at predicting the future
+GreenfieldMC - interactive map of a functional minecraft city
+In2White - most HD photo ever taken in the world
+JeffreyMartin - gigapixel photos
+CompArea - compare land sizes
+Project Apollo Archive - all Apollo images
+WikiTok - infinite scroll Wikipedia
+Behance - social media but for art and design
+ArchDaily - social media for architecture
+Browser Extensions:
+Toby - manage tabs and bookmarks
+uBlock Origin - ad/content/spam blocker
+Video Speed Controller - speed controller for all videos by a custom threshold
+PocketTube - manage YouTube subscriptions; groups, favorites, tags
+Shortkeys - add custom browser shortcuts
+Remove article paywalls - removes paywalls for all news articles
+Bookmark Dupes - removes duplicate bookmarks
+Dark Reader - turn any webpage dark themed
+Webtime Tracker - track how much time you spend on sites
+Distill Web Monitor - monitor websites/blogs for updates
+Image Downloader - download any image from webpage
+Earth View - google earth image for each new tab
+I don't care about cookies - auto accept cookies
+Blocksite - block distracting sites
+Unhook - remove YouTube recommended
+Enhancer for YouTube - customization for YouTube
+Return YouTube Dislike - returns dislike button
+TamperMonkey - scripting in a browser
+Online Learning:
+KhanAcademy - learn anything
+Scrimba - learn how to code interactively
+LumenLearning
+Coursera
+uDemy
+edX
+SkillShare
+MIT OpenCourseware
+Software:
+Everything - search files on computer instantaneously
+Plex - host server to watch any media from PC on TV or other devices
+LocalSend - send files quickly between computers and phones
+PowerToys - upgraded windows experience; keyboard remapping, etc.
+SyncThing - sync files and folders between computers
+HWinFO - monitor temps and power usage
+Codec Guide - better video playback on windows
+QTTabBar - add tabs to windows file explorer
+Lightshot - screenshot tool
+WizTree - visualize disk usage/mange space
+SumatraPDF - powerful PDF/EPUB/MOBI reader. Highlight, remember location, and more.
+Notepad++ - better version of notepad
+Afterburner - GPU controller
+Anki - powerful flashcard tool
+Calibre - eBook manager
+F.lux - custom screen tinting/remove blue light
+Macrium - backup computer image
+CPUID - detailed information about your computer
+Bulk Rename Utility - batch rename files
+Fontbase - font manager
+Synthesia - learn piano from MIDI files
+Obsidian - advanced note taking
+Wallpaper Engine - animated desktop/mobile wallpapers
+Google Earth - interactively view the Earth, Moon, Mars, or night sky
+Quick Access Popup - launch folders, files, programs in one click
+CrystalDiskInfo - check disk health/wear
+4KVideoDownloader - download videos from URLs
+Furmark - GPU benchmarking
+DMDE - disk recovery
+Lofi - mini spotify player
+Stable Diffusion - AI image generation
+Eagle - image and design file manager (has potential, but copies instead of indexing)
+ShareX - advanced screenshot tool
+CurseForge - play modded minecraft and host modded servers
+ImageGlass - better version of windows photo viewer
+Qalculate! - powerful calculator
+Apps:
+Strava - fitness tracking
+Boosted - productivity tracking
+DayOne - notes and journaling
+iNaturalist - identify plants and animals
+Merlin - identify birds based off sound
+Kids Science Kits:
+CircuitMess
+KiwiCo
+CrunchLabs
+Science4You
+Misc:
+FMHY - extensive list of internet things
+Games
+Piracy Megathread
+Awesome Lists
+Book List
+Developer YouTube Channels
+Find Papers, Articles, and Books
+Climate Change Info
+More Lists

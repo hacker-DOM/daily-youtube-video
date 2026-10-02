@@ -1,0 +1,11 @@
+{
+  "name": "daily-youtube-video",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A static daily YouTube picker with no backend or build step",
+  "scripts": {
+    "test": "node --test tests/*.test.cjs",
+    "catalog": "python3 tools/build_catalog.py"
+  },
+  "engines": { "node": ">=20" }
+}

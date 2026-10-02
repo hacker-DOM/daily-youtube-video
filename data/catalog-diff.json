@@ -1,0 +1,440 @@
+{
+  "scope": "User-pasted document body; other document tabs were not inspected.",
+  "counts": {
+    "github_rows": 712,
+    "pasted_rows": 746,
+    "suggestions": 590,
+    "channels": 584,
+    "playlists": 6,
+    "categories": 32,
+    "youtube_additions": 29,
+    "all_resource_additions": 65,
+    "absent_names": 2,
+    "unresolved_links": 25
+  },
+  "additions": [
+    {
+      "name": "Mossy Earth",
+      "note": "ecology",
+      "category": "Biology"
+    },
+    {
+      "name": "Bobsdecline",
+      "note": "lineman",
+      "category": "Blue Collar"
+    },
+    {
+      "name": "Thoisoi2",
+      "note": "",
+      "category": "Chemistry"
+    },
+    {
+      "name": "Chemiolis",
+      "note": "",
+      "category": "Chemistry"
+    },
+    {
+      "name": "Jason Farmer",
+      "note": "",
+      "category": "Cooking"
+    },
+    {
+      "name": "OTR Food & History",
+      "note": "",
+      "category": "Cooking"
+    },
+    {
+      "name": "Myron Cook",
+      "note": "geology",
+      "category": "Earth Science"
+    },
+    {
+      "name": "Plasma Channel",
+      "note": "",
+      "category": "Electronics"
+    },
+    {
+      "name": "CNLohr",
+      "note": "",
+      "category": "Electronics"
+    },
+    {
+      "name": "Bitluni",
+      "note": "",
+      "category": "Electronics"
+    },
+    {
+      "name": "Geerling Engineering",
+      "note": "",
+      "category": "Electronics"
+    },
+    {
+      "name": "Aaron Witt",
+      "note": "mining, civil",
+      "category": "Engineering"
+    },
+    {
+      "name": "FD Engineering",
+      "note": "documentaries",
+      "category": "Engineering"
+    },
+    {
+      "name": "Quanta Magazine",
+      "note": "",
+      "category": "General Science"
+    },
+    {
+      "name": "Voices of the Past",
+      "note": "",
+      "category": "History"
+    },
+    {
+      "name": "Lost History with Ancient Swan",
+      "note": "",
+      "category": "History"
+    },
+    {
+      "name": "Captivating History",
+      "note": "",
+      "category": "History"
+    },
+    {
+      "name": "Saveitforparts",
+      "note": "satellites, electronics tinkering",
+      "category": "Science Experiments and Building Stuff"
+    },
+    {
+      "name": "Advanced Tinkering",
+      "note": "",
+      "category": "Science Experiments and Building Stuff"
+    },
+    {
+      "name": "Scott Yu-Jan",
+      "note": "3D printing",
+      "category": "Science Experiments and Building Stuff"
+    },
+    {
+      "name": "AnthroFuturism",
+      "note": "colonizing the moon",
+      "category": "Space"
+    },
+    {
+      "name": "TheSpaceBucket",
+      "note": "",
+      "category": "Space"
+    },
+    {
+      "name": "The Space Race",
+      "note": "",
+      "category": "Space"
+    },
+    {
+      "name": "Fraser Cain",
+      "note": "",
+      "category": "Space"
+    },
+    {
+      "name": "BPS.space",
+      "note": "",
+      "category": "Space"
+    },
+    {
+      "name": "Hockey Psychology",
+      "note": "",
+      "category": "Sports"
+    },
+    {
+      "name": "Luke Korns",
+      "note": "",
+      "category": "Travel"
+    },
+    {
+      "name": "Hugh Abroad",
+      "note": "",
+      "category": "Travel"
+    },
+    {
+      "name": "DependableFlame",
+      "note": "vintage lighters",
+      "category": "Other"
+    },
+    {
+      "name": "ZLibrary",
+      "note": "books/textbooks",
+      "category": "Useful Websites"
+    },
+    {
+      "name": "FMovies",
+      "note": "movies/shows",
+      "category": "Useful Websites"
+    },
+    {
+      "name": "CharityNavigator",
+      "note": "find reputable charities",
+      "category": "Useful Websites"
+    },
+    {
+      "name": "Kickstarter",
+      "note": "find/fund startups",
+      "category": "Useful Websites"
+    },
+    {
+      "name": "BibleGateway",
+      "note": "bible; highlights and most versions",
+      "category": "Useful Websites"
+    },
+    {
+      "name": "WorldCat",
+      "note": "global library search",
+      "category": "Useful Websites"
+    },
+    {
+      "name": "MOTM",
+      "note": "a new chemistry molecule is explained each month since January 1996",
+      "category": "Cool Websites"
+    },
+    {
+      "name": "SuperSplat",
+      "note": "gaussian splat viewer",
+      "category": "Cool Websites"
+    },
+    {
+      "name": "MapsterMan",
+      "note": "interactive map of all sunken chips during WW2",
+      "category": "Cool Websites"
+    },
+    {
+      "name": "FutureTimeline",
+      "note": "an attempt at predicting the future",
+      "category": "Cool Websites"
+    },
+    {
+      "name": "GreenfieldMC",
+      "note": "interactive map of a functional minecraft city",
+      "category": "Cool Websites"
+    },
+    {
+      "name": "In2White",
+      "note": "most HD photo ever taken in the world",
+      "category": "Cool Websites"
+    },
+    {
+      "name": "JeffreyMartin",
+      "note": "gigapixel photos",
+      "category": "Cool Websites"
+    },
+    {
+      "name": "CompArea",
+      "note": "compare land sizes",
+      "category": "Cool Websites"
+    },
+    {
+      "name": "Project Apollo Archive",
+      "note": "all Apollo images",
+      "category": "Cool Websites"
+    },
+    {
+      "name": "WikiTok",
+      "note": "infinite scroll Wikipedia",
+      "category": "Cool Websites"
+    },
+    {
+      "name": "Behance",
+      "note": "social media but for art and design",
+      "category": "Cool Websites"
+    },
+    {
+      "name": "ArchDaily",
+      "note": "social media for architecture",
+      "category": "Cool Websites"
+    },
+    {
+      "name": "PocketTube",
+      "note": "manage YouTube subscriptions; groups, favorites, tags",
+      "category": "Browser Extensions"
+    },
+    {
+      "name": "Plex",
+      "note": "host server to watch any media from PC on TV or other devices",
+      "category": "Software"
+    },
+    {
+      "name": "LocalSend",
+      "note": "send files quickly between computers and phones",
+      "category": "Software"
+    },
+    {
+      "name": "PowerToys",
+      "note": "upgraded windows experience; keyboard remapping, etc.",
+      "category": "Software"
+    },
+    {
+      "name": "SyncThing",
+      "note": "sync files and folders between computers",
+      "category": "Software"
+    },
+    {
+      "name": "Codec Guide",
+      "note": "better video playback on windows",
+      "category": "Software"
+    },
+    {
+      "name": "Lightshot",
+      "note": "screenshot tool",
+      "category": "Software"
+    },
+    {
+      "name": "4KVideoDownloader",
+      "note": "download videos from URLs",
+      "category": "Software"
+    },
+    {
+      "name": "CurseForge",
+      "note": "play modded minecraft and host modded servers",
+      "category": "Software"
+    },
+    {
+      "name": "ImageGlass",
+      "note": "better version of windows photo viewer",
+      "category": "Software"
+    },
+    {
+      "name": "Qalculate!",
+      "note": "powerful calculator",
+      "category": "Software"
+    },
+    {
+      "name": "Merlin",
+      "note": "identify birds based off sound",
+      "category": "Apps"
+    },
+    {
+      "name": "CircuitMess",
+      "note": "",
+      "category": "Kids Science Kits"
+    },
+    {
+      "name": "KiwiCo",
+      "note": "",
+      "category": "Kids Science Kits"
+    },
+    {
+      "name": "CrunchLabs",
+      "note": "",
+      "category": "Kids Science Kits"
+    },
+    {
+      "name": "Science4You",
+      "note": "",
+      "category": "Kids Science Kits"
+    },
+    {
+      "name": "FMHY",
+      "note": "extensive list of internet things",
+      "category": "Misc"
+    },
+    {
+      "name": "Games",
+      "note": "",
+      "category": "Misc"
+    }
+  ],
+  "absent_from_paste": [
+    {
+      "name": "Soap2Day",
+      "url": "https://soap2day.ac/enter.html",
+      "note": "movies/shows",
+      "category": "Useful Websites"
+    },
+    {
+      "name": "Outline",
+      "url": "https://outline.com/",
+      "note": "removes some article paywalls",
+      "category": "Useful Websites"
+    }
+  ],
+  "category_changes": [
+    {
+      "name": "Branch Education",
+      "from": [
+        "General Science"
+      ],
+      "to": [
+        "Engineering"
+      ]
+    },
+    {
+      "name": "Find papers, articles, and books",
+      "from": [
+        "Useful Websites"
+      ],
+      "to": [
+        "Misc"
+      ]
+    },
+    {
+      "name": "JerryRigEverything",
+      "from": [
+        "Electronics"
+      ],
+      "to": [
+        "General Explanation"
+      ]
+    }
+  ],
+  "note_changes": [
+    {
+      "name": "AudioBookBay",
+      "from": [
+        "free audiobooks"
+      ],
+      "to": [
+        "audiobooks",
+        "free audiobooks"
+      ]
+    },
+    {
+      "name": "Chosic",
+      "from": [
+        "many tools for Spotify to find new music"
+      ],
+      "to": [
+        "tools for Spotify to find new music"
+      ]
+    },
+    {
+      "name": "Favoree",
+      "from": [
+        "find, rate, and review YouTube channels"
+      ],
+      "to": [
+        "find/rate/review YouTube channels"
+      ]
+    },
+    {
+      "name": "Goodreads",
+      "from": [
+        "find, rate, and review books"
+      ],
+      "to": [
+        "find/rate/review books"
+      ]
+    },
+    {
+      "name": "Obsidian",
+      "from": [
+        "note taking with a twist"
+      ],
+      "to": [
+        "advanced note taking"
+      ]
+    }
+  ],
+  "excluded_from_suggestions": [
+    {
+      "name": "Scrimba",
+      "note": "learn how to code interactively [website]",
+      "category": "Coding"
+    }
+  ]
+}
