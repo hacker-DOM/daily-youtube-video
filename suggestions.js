@@ -51,7 +51,11 @@
   const $ = id => document.getElementById(id);
   const pageSize = 24;
   let page = 0;
+  let loadRevision = 0;
   $("suggestion-count").textContent = catalog.items.length;
+  const readyCount = catalog.items.filter(item => root.DailyBundles?.entry(item.id)).length;
+  $("bundled-status").textContent = `${readyCount.toLocaleString()} of ${catalog.items.length.toLocaleString()} catalog libraries ready. Geography Now is included separately.`;
+  $("suggestions-dialog").addEventListener("close", () => { loadRevision++; });
   for (const category of catalog.categories) {
     const option = document.createElement("option");
     option.value = category;
@@ -60,6 +64,7 @@
   }
 
   function render() {
+    loadRevision++;
     const items = filter(catalog.items, { query: $("suggestion-search").value, category: $("suggestion-category").value, addedOnly: $("suggestion-new-only").checked });
     const pages = Math.max(1, Math.ceil(items.length / pageSize));
     page = Math.min(page, pages - 1);
@@ -94,13 +99,41 @@
       visit.textContent = item.url ? "YouTube ↗" : "Find on YouTube ↗";
       const use = document.createElement("button");
       use.className = "secondary-button";
-      use.textContent = "Use " + item.kind + " →";
-      use.addEventListener("click", () => {
-        $("suggestions-dialog").close();
-        root.dispatchEvent(new CustomEvent("daily:suggestion", { detail: item }));
+      const bundled = root.DailyBundles?.entry(item.id);
+      use.disabled = !bundled;
+      use.textContent = bundled ? "Use " + item.kind + " →" : "Not indexed yet";
+      if (bundled) {
+        const status = document.createElement("p");
+        status.className = "suggestion-index-status";
+        status.textContent = `${bundled.count.toLocaleString()} videos · ready`;
+        card.append(status);
+      }
+      const error = document.createElement("p");
+      error.className = "inline-error";
+      error.setAttribute("role", "alert");
+      error.hidden = true;
+      use.addEventListener("click", async () => {
+        const request = ++loadRevision;
+        use.disabled = true;
+        use.textContent = "Loading…";
+        error.hidden = true;
+        try {
+          const index = await root.DailyBundles.load(item.id);
+          if (request !== loadRevision || !$("suggestions-dialog").open) return;
+          $("suggestions-dialog").close();
+          root.dispatchEvent(new CustomEvent("daily:bundled-index", { detail: index }));
+        } catch (problem) {
+          if (request === loadRevision) {
+            error.textContent = problem.message;
+            error.hidden = false;
+          }
+        } finally {
+          use.disabled = false;
+          use.textContent = "Use " + item.kind + " →";
+        }
       });
       actions.append(visit, use);
-      card.append(tag, heading, category, description, actions);
+      card.append(tag, heading, category, description, actions, error);
       $("suggestion-results").append(card);
     }
   }

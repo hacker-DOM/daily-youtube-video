@@ -906,7 +906,7 @@
       "search_url": "https://www.youtube.com/results?search_query=Fix+This+Build+That"
     },
     {
-      "id": "51cd847e74ee7f38",
+      "id": "88fb64b5041d0c6c",
       "name": "Bobsdecline",
       "aliases": [],
       "categories": [
@@ -915,8 +915,8 @@
       "notes": [
         "lineman"
       ],
-      "url": null,
-      "url_source": null,
+      "url": "https://www.youtube.com/@Bobsdecline",
+      "url_source": "https://www.youtube.com/@Bobsdecline",
       "kind": "channel",
       "added_since_github": true,
       "search_url": "https://www.youtube.com/results?search_query=Bobsdecline"
@@ -1064,15 +1064,15 @@
       "search_url": "https://www.youtube.com/results?search_query=ChemicalForce"
     },
     {
-      "id": "58f403597362ca22",
+      "id": "263f40b1cb737007",
       "name": "Thoisoi2",
       "aliases": [],
       "categories": [
         "Chemistry"
       ],
       "notes": [],
-      "url": null,
-      "url_source": null,
+      "url": "https://www.youtube.com/channel/UC3j3w-oUtIAm_KI857ydvUA",
+      "url_source": "https://www.youtube.com/channel/UC3j3w-oUtIAm_KI857ydvUA",
       "kind": "channel",
       "added_since_github": true,
       "search_url": "https://www.youtube.com/results?search_query=Thoisoi2"
@@ -1180,15 +1180,15 @@
       "search_url": "https://www.youtube.com/results?search_query=Chemistry+in+a+Nutshell"
     },
     {
-      "id": "044a14d0b387b4ea",
+      "id": "91c3141f207cc6ee",
       "name": "Chemiolis",
       "aliases": [],
       "categories": [
         "Chemistry"
       ],
       "notes": [],
-      "url": null,
-      "url_source": null,
+      "url": "https://www.youtube.com/@Chemiolis",
+      "url_source": "https://www.youtube.com/@Chemiolis",
       "kind": "channel",
       "added_since_github": true,
       "search_url": "https://www.youtube.com/results?search_query=Chemiolis"
@@ -2413,15 +2413,15 @@
       "search_url": "https://www.youtube.com/results?search_query=MinuteFood"
     },
     {
-      "id": "e10a1d7900b0963e",
+      "id": "1197d4032213168d",
       "name": "OTR Food & History",
       "aliases": [],
       "categories": [
         "Cooking"
       ],
       "notes": [],
-      "url": null,
-      "url_source": null,
+      "url": "https://www.youtube.com/@OTRontheroad",
+      "url_source": "https://www.youtube.com/@OTRontheroad",
       "kind": "channel",
       "added_since_github": true,
       "search_url": "https://www.youtube.com/results?search_query=OTR+Food+%26+History"
@@ -2761,7 +2761,7 @@
       "search_url": "https://www.youtube.com/results?search_query=GeologyUpSkill"
     },
     {
-      "id": "8ce7a1e938285c28",
+      "id": "11c25563b3622ab7",
       "name": "Myron Cook",
       "aliases": [],
       "categories": [
@@ -2770,22 +2770,22 @@
       "notes": [
         "geology"
       ],
-      "url": null,
-      "url_source": null,
+      "url": "https://www.youtube.com/@myroncook",
+      "url_source": "https://www.youtube.com/@myroncook",
       "kind": "channel",
       "added_since_github": true,
       "search_url": "https://www.youtube.com/results?search_query=Myron+Cook"
     },
     {
-      "id": "9bba69c2a72bd046",
+      "id": "595b40a64a40c1a2",
       "name": "Plasma Channel",
       "aliases": [],
       "categories": [
         "Electronics"
       ],
       "notes": [],
-      "url": null,
-      "url_source": null,
+      "url": "https://www.youtube.com/@PlasmaChannel",
+      "url_source": "https://www.youtube.com/@PlasmaChannel",
       "kind": "channel",
       "added_since_github": true,
       "search_url": "https://www.youtube.com/results?search_query=Plasma+Channel"
@@ -3231,43 +3231,43 @@
       "search_url": "https://www.youtube.com/results?search_query=NorthridgeFix"
     },
     {
-      "id": "a07765610368c6fb",
+      "id": "8c502947dd75b92c",
       "name": "CNLohr",
       "aliases": [],
       "categories": [
         "Electronics"
       ],
       "notes": [],
-      "url": null,
-      "url_source": null,
+      "url": "https://www.youtube.com/cnlohr",
+      "url_source": "https://github.com/cnlohr",
       "kind": "channel",
       "added_since_github": true,
       "search_url": "https://www.youtube.com/results?search_query=CNLohr"
     },
     {
-      "id": "13799ea66df171f1",
+      "id": "810dcdd6d463902a",
       "name": "Bitluni",
       "aliases": [],
       "categories": [
         "Electronics"
       ],
       "notes": [],
-      "url": null,
-      "url_source": null,
+      "url": "https://www.youtube.com/bitlunislab",
+      "url_source": "https://github.com/bitluni",
       "kind": "channel",
       "added_since_github": true,
       "search_url": "https://www.youtube.com/results?search_query=Bitluni"
     },
     {
-      "id": "daf48201129cd89e",
+      "id": "c5216edc681104ea",
       "name": "Geerling Engineering",
       "aliases": [],
       "categories": [
         "Electronics"
       ],
       "notes": [],
-      "url": null,
-      "url_source": null,
+      "url": "https://www.youtube.com/c/GeerlingEngineering",
+      "url_source": "https://www.geerlingengineering.com/",
       "kind": "channel",
       "added_since_github": true,
       "search_url": "https://www.youtube.com/results?search_query=Geerling+Engineering"
@@ -3287,7 +3287,7 @@
       "search_url": "https://www.youtube.com/results?search_query=EngineerGuy"
     },
     {
-      "id": "a954af952788fa9d",
+      "id": "eddc2efe5ed464e6",
       "name": "Aaron Witt",
       "aliases": [],
       "categories": [
@@ -3296,14 +3296,14 @@
       "notes": [
         "mining, civil"
       ],
-      "url": null,
-      "url_source": null,
+      "url": "https://www.youtube.com/@AaronWitt",
+      "url_source": "https://www.youtube.com/@AaronWitt",
       "kind": "channel",
       "added_since_github": true,
       "search_url": "https://www.youtube.com/results?search_query=Aaron+Witt"
     },
     {
-      "id": "65928ce5ac43516c",
+      "id": "6c3fefc23d615d67",
       "name": "FD Engineering",
       "aliases": [],
       "categories": [
@@ -3312,8 +3312,8 @@
       "notes": [
         "documentaries"
       ],
-      "url": null,
-      "url_source": null,
+      "url": "https://www.youtube.com/@FD_Engineering",
+      "url_source": "https://www.youtube.com/@FD_Engineering",
       "kind": "channel",
       "added_since_github": true,
       "search_url": "https://www.youtube.com/results?search_query=FD+Engineering"
@@ -4453,15 +4453,15 @@
       "search_url": "https://www.youtube.com/results?search_query=Dan+Carlin"
     },
     {
-      "id": "771cd089ea8e36dc",
+      "id": "94c28c14cff2603a",
       "name": "Voices of the Past",
       "aliases": [],
       "categories": [
         "History"
       ],
       "notes": [],
-      "url": null,
-      "url_source": null,
+      "url": "https://www.youtube.com/@VoicesofthePast",
+      "url_source": "https://www.youtube.com/@VoicesofthePast",
       "kind": "channel",
       "added_since_github": true,
       "search_url": "https://www.youtube.com/results?search_query=Voices+of+the+Past"
@@ -4845,29 +4845,29 @@
       "search_url": "https://www.youtube.com/results?search_query=Rex%27s+Hangar"
     },
     {
-      "id": "5f7969043e1ed3a8",
+      "id": "7354c6a58affa170",
       "name": "Lost History with Ancient Swan",
       "aliases": [],
       "categories": [
         "History"
       ],
       "notes": [],
-      "url": null,
-      "url_source": null,
+      "url": "https://www.youtube.com/channel/UCz-GCeUYtCrwNeWmGMzMzYA",
+      "url_source": "https://www.youtube.com/channel/UCz-GCeUYtCrwNeWmGMzMzYA",
       "kind": "channel",
       "added_since_github": true,
       "search_url": "https://www.youtube.com/results?search_query=Lost+History+with+Ancient+Swan"
     },
     {
-      "id": "2e12130b69a52ea1",
+      "id": "ed8d91cc70caa9cf",
       "name": "Captivating History",
       "aliases": [],
       "categories": [
         "History"
       ],
       "notes": [],
-      "url": null,
-      "url_source": null,
+      "url": "https://www.youtube.com/c/CaptivatingHistory",
+      "url_source": "https://www.captivatinghistory.com/about.html",
       "kind": "channel",
       "added_since_github": true,
       "search_url": "https://www.youtube.com/results?search_query=Captivating+History"
@@ -5094,7 +5094,7 @@
     },
     {
       "id": "6c94979f992d457b",
-      "name": "MIT OpenCourseware",
+      "name": "MIT OpenCourseWare",
       "aliases": [],
       "categories": [
         "Lectures"
@@ -5104,7 +5104,7 @@
       "url_source": "https://github.com/PrejudiceNeutrino/YouTube_Channels",
       "kind": "channel",
       "added_since_github": false,
-      "search_url": "https://www.youtube.com/results?search_query=MIT+OpenCourseware"
+      "search_url": "https://www.youtube.com/results?search_query=MIT+OpenCourseWare"
     },
     {
       "id": "68a8e4d23417eaa3",
@@ -6670,7 +6670,7 @@
       "search_url": "https://www.youtube.com/results?search_query=StuffMadeHere"
     },
     {
-      "id": "d25fab05af59cfe3",
+      "id": "b9336bf6442f0fe3",
       "name": "Saveitforparts",
       "aliases": [],
       "categories": [
@@ -6679,22 +6679,22 @@
       "notes": [
         "satellites, electronics tinkering"
       ],
-      "url": null,
-      "url_source": null,
+      "url": "https://www.youtube.com/@saveitforparts",
+      "url_source": "https://www.youtube.com/@saveitforparts",
       "kind": "channel",
       "added_since_github": true,
       "search_url": "https://www.youtube.com/results?search_query=Saveitforparts"
     },
     {
-      "id": "9a2d4b9becc24d34",
+      "id": "c138551cc1f6627b",
       "name": "Advanced Tinkering",
       "aliases": [],
       "categories": [
         "Science Experiments and Building Stuff"
       ],
       "notes": [],
-      "url": null,
-      "url_source": null,
+      "url": "https://www.youtube.com/@AdvancedTinkering",
+      "url_source": "https://www.youtube.com/@AdvancedTinkering",
       "kind": "channel",
       "added_since_github": true,
       "search_url": "https://www.youtube.com/results?search_query=Advanced+Tinkering"
@@ -6926,7 +6926,7 @@
       "search_url": "https://www.youtube.com/results?search_query=Robert+Murray-Smith"
     },
     {
-      "id": "5ca1389e648ea021",
+      "id": "6fba079e9c57cdae",
       "name": "Scott Yu-Jan",
       "aliases": [],
       "categories": [
@@ -6935,14 +6935,14 @@
       "notes": [
         "3D printing"
       ],
-      "url": null,
-      "url_source": null,
+      "url": "https://www.youtube.com/@ScottYuJan",
+      "url_source": "https://www.youtube.com/@ScottYuJan",
       "kind": "channel",
       "added_since_github": true,
       "search_url": "https://www.youtube.com/results?search_query=Scott+Yu-Jan"
     },
     {
-      "id": "ed4f5edddd474d2f",
+      "id": "659f436ead07329b",
       "name": "AnthroFuturism",
       "aliases": [],
       "categories": [
@@ -6951,22 +6951,22 @@
       "notes": [
         "colonizing the moon"
       ],
-      "url": null,
-      "url_source": null,
+      "url": "https://www.youtube.com/@AnthroFuturism",
+      "url_source": "https://www.youtube.com/@AnthroFuturism",
       "kind": "channel",
       "added_since_github": true,
       "search_url": "https://www.youtube.com/results?search_query=AnthroFuturism"
     },
     {
-      "id": "01f78a67fc0c6ef8",
+      "id": "769ccbf4a989f7d9",
       "name": "TheSpaceBucket",
       "aliases": [],
       "categories": [
         "Space"
       ],
       "notes": [],
-      "url": null,
-      "url_source": null,
+      "url": "https://www.youtube.com/@thespacebucket",
+      "url_source": "https://thespacebucket.com/youtube/",
       "kind": "channel",
       "added_since_github": true,
       "search_url": "https://www.youtube.com/results?search_query=TheSpaceBucket"
@@ -7154,15 +7154,15 @@
       "search_url": "https://www.youtube.com/results?search_query=David+Butler"
     },
     {
-      "id": "4d86277474e71e94",
+      "id": "c524588abb40f2e1",
       "name": "The Space Race",
       "aliases": [],
       "categories": [
         "Space"
       ],
       "notes": [],
-      "url": null,
-      "url_source": null,
+      "url": "https://www.youtube.com/@TheSpaceRaceYT",
+      "url_source": "https://www.youtube.com/@TheSpaceRaceYT",
       "kind": "channel",
       "added_since_github": true,
       "search_url": "https://www.youtube.com/results?search_query=The+Space+Race"
@@ -7266,29 +7266,29 @@
       "search_url": "https://www.youtube.com/results?search_query=ParallaxNick"
     },
     {
-      "id": "413cef47be1982b1",
+      "id": "0e80d3f3a9d9ac7d",
       "name": "Fraser Cain",
       "aliases": [],
       "categories": [
         "Space"
       ],
       "notes": [],
-      "url": null,
-      "url_source": null,
+      "url": "https://www.youtube.com/@frasercain",
+      "url_source": "https://www.youtube.com/@frasercain",
       "kind": "channel",
       "added_since_github": true,
       "search_url": "https://www.youtube.com/results?search_query=Fraser+Cain"
     },
     {
-      "id": "5dd0d9f29f91cd3b",
+      "id": "a8552f5e0d32cabb",
       "name": "BPS.space",
       "aliases": [],
       "categories": [
         "Space"
       ],
       "notes": [],
-      "url": null,
-      "url_source": null,
+      "url": "https://www.youtube.com/@BPSspace",
+      "url_source": "https://www.youtube.com/@BPSspace",
       "kind": "channel",
       "added_since_github": true,
       "search_url": "https://www.youtube.com/results?search_query=BPS.space"
@@ -7540,29 +7540,29 @@
       "search_url": "https://www.youtube.com/results?search_query=Ilia+Bondarev"
     },
     {
-      "id": "bbfc7ce22d065a86",
+      "id": "d7ff17376727803b",
       "name": "Luke Korns",
       "aliases": [],
       "categories": [
         "Travel"
       ],
       "notes": [],
-      "url": null,
-      "url_source": null,
+      "url": "https://www.youtube.com/@LukeKorns",
+      "url_source": "https://www.youtube.com/@LukeKorns",
       "kind": "channel",
       "added_since_github": true,
       "search_url": "https://www.youtube.com/results?search_query=Luke+Korns"
     },
     {
-      "id": "d1591960e9b4589c",
+      "id": "67dfdf72b6111261",
       "name": "Hugh Abroad",
       "aliases": [],
       "categories": [
         "Travel"
       ],
       "notes": [],
-      "url": null,
-      "url_source": null,
+      "url": "https://www.youtube.com/@HughAbroad",
+      "url_source": "https://www.youtube.com/@HughAbroad",
       "kind": "channel",
       "added_since_github": true,
       "search_url": "https://www.youtube.com/results?search_query=Hugh+Abroad"
@@ -8550,7 +8550,7 @@
       "search_url": "https://www.youtube.com/results?search_query=DUST"
     },
     {
-      "id": "45eee2bd4114eab0",
+      "id": "e8115c2e0670d89a",
       "name": "DependableFlame",
       "aliases": [],
       "categories": [
@@ -8559,8 +8559,8 @@
       "notes": [
         "vintage lighters"
       ],
-      "url": null,
-      "url_source": null,
+      "url": "https://www.youtube.com/c/DependableFlame",
+      "url_source": "https://www.youtube.com/c/DependableFlame",
       "kind": "channel",
       "added_since_github": true,
       "search_url": "https://www.youtube.com/results?search_query=DependableFlame"

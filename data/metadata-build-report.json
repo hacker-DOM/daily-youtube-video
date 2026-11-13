@@ -1,0 +1,5759 @@
+{
+  "started_at": "2026-11-03T22:17:32.787101+00:00",
+  "sources": {
+    "example-geography-now": {
+      "status": "complete",
+      "name": "Geography Now",
+      "videos": 586,
+      "detailed": 586,
+      "dated": 586,
+      "playlists": 21,
+      "errors": 0
+    },
+    "c7f3531f3fc306e0": {
+      "status": "partial",
+      "name": "Armando Hasudungan",
+      "videos": 563,
+      "detailed": 563,
+      "dated": 563,
+      "playlists": 0,
+      "errors": 1
+    },
+    "ea5cdfca68f6a597": {
+      "status": "partial",
+      "name": "Wendy Riggs",
+      "videos": 973,
+      "detailed": 973,
+      "dated": 973,
+      "playlists": 0,
+      "errors": 1
+    },
+    "43ba9179425c9bbb": {
+      "status": "partial",
+      "name": "Medicosis Perfectionalis",
+      "videos": 1732,
+      "detailed": 1732,
+      "dated": 1732,
+      "playlists": 0,
+      "errors": 1
+    },
+    "f3c0dd53713071c9": {
+      "status": "complete",
+      "name": "Institute of Human Anatomy",
+      "videos": 358,
+      "detailed": 358,
+      "dated": 358,
+      "playlists": 16,
+      "errors": 0
+    },
+    "7d4e4c61a8819410": {
+      "status": "partial",
+      "name": "Chubbyemu",
+      "videos": 360,
+      "detailed": 360,
+      "dated": 360,
+      "playlists": 0,
+      "errors": 1
+    },
+    "07c83b01847d98aa": {
+      "status": "partial",
+      "name": "Ninja Nerd",
+      "videos": 659,
+      "detailed": 659,
+      "dated": 659,
+      "playlists": 0,
+      "errors": 1
+    },
+    "466ff9f922368566": {
+      "status": "complete",
+      "name": "Alice Roberts",
+      "videos": 46,
+      "detailed": 46,
+      "dated": 46,
+      "playlists": 2,
+      "errors": 0
+    },
+    "d09e47a68ac9eaf2": {
+      "status": "partial",
+      "name": "Sam Webster",
+      "videos": 1058,
+      "detailed": 1058,
+      "dated": 1058,
+      "playlists": 0,
+      "errors": 1
+    },
+    "1fb94e0f53c9d2ab": {
+      "status": "complete",
+      "name": "Journey to the Microcosmos",
+      "videos": 252,
+      "detailed": 252,
+      "dated": 252,
+      "playlists": 14,
+      "errors": 0
+    },
+    "5d234c7304497858": {
+      "status": "partial",
+      "name": "Deep Look",
+      "videos": 229,
+      "detailed": 229,
+      "dated": 229,
+      "playlists": 0,
+      "errors": 1
+    },
+    "5894e35fa72b9127": {
+      "status": "complete",
+      "name": "Crime Pays But Botany Doesn't",
+      "videos": 937,
+      "detailed": 937,
+      "dated": 937,
+      "playlists": 49,
+      "errors": 0
+    },
+    "18805e89e8c60180": {
+      "status": "complete",
+      "name": "Ze Frank",
+      "videos": 250,
+      "detailed": 250,
+      "dated": 250,
+      "playlists": 10,
+      "errors": 0
+    },
+    "84040023e34b68d1": {
+      "status": "partial",
+      "name": "Animalogic",
+      "videos": 489,
+      "detailed": 489,
+      "dated": 489,
+      "playlists": 0,
+      "errors": 1
+    },
+    "aa884ab81299282e": {
+      "status": "complete",
+      "name": "Fraser Valley Rose Farm",
+      "videos": 484,
+      "detailed": 484,
+      "dated": 484,
+      "playlists": 9,
+      "errors": 0
+    },
+    "3ac8b001667a178d": {
+      "status": "complete",
+      "name": "Natural World Facts",
+      "videos": 147,
+      "detailed": 147,
+      "dated": 147,
+      "playlists": 32,
+      "errors": 0
+    },
+    "3d0d40debd44c153": {
+      "status": "complete",
+      "name": "Dr. Plants",
+      "videos": 12,
+      "detailed": 12,
+      "dated": 12,
+      "playlists": 0,
+      "errors": 0
+    },
+    "ce17f51e1e7ea32b": {
+      "status": "complete",
+      "name": "Basin79",
+      "videos": 2528,
+      "detailed": 2528,
+      "dated": 2528,
+      "playlists": 0,
+      "errors": 0
+    },
+    "b6141eba5b16292a": {
+      "status": "complete",
+      "name": "Ben G Thomas",
+      "videos": 811,
+      "detailed": 811,
+      "dated": 811,
+      "playlists": 32,
+      "errors": 0
+    },
+    "4945b0ddad3bb2e2": {
+      "status": "complete",
+      "name": "AntsCanada",
+      "videos": 760,
+      "detailed": 760,
+      "dated": 760,
+      "playlists": 77,
+      "errors": 0
+    },
+    "45e4246c1d03e53f": {
+      "status": "complete",
+      "name": "Andrew Millison",
+      "videos": 103,
+      "detailed": 103,
+      "dated": 103,
+      "playlists": 13,
+      "errors": 0
+    },
+    "950b25de3a69f4c1": {
+      "status": "complete",
+      "name": "Anthill Art",
+      "videos": 35,
+      "detailed": 35,
+      "dated": 35,
+      "playlists": 10,
+      "errors": 0
+    },
+    "456be8b7b46c1a60": {
+      "status": "complete",
+      "name": "TierZoo",
+      "videos": 103,
+      "detailed": 103,
+      "dated": 103,
+      "playlists": 3,
+      "errors": 0
+    },
+    "4a926173efb86c52": {
+      "status": "complete",
+      "name": "Made in the Wild",
+      "videos": 122,
+      "detailed": 122,
+      "dated": 122,
+      "playlists": 8,
+      "errors": 0
+    },
+    "449dc9b01f1b0338": {
+      "status": "complete",
+      "name": "Stated Clearly",
+      "videos": 65,
+      "detailed": 65,
+      "dated": 65,
+      "playlists": 19,
+      "errors": 0
+    },
+    "2e77c77d94b2c2f8": {
+      "status": "complete",
+      "name": "MBARI",
+      "videos": 413,
+      "detailed": 413,
+      "dated": 413,
+      "playlists": 35,
+      "errors": 0
+    },
+    "4b5fa5cc6f135e3b": {
+      "status": "complete",
+      "name": "Anthöny Pain",
+      "videos": 608,
+      "detailed": 608,
+      "dated": 608,
+      "playlists": 22,
+      "errors": 0
+    },
+    "80a1761f5c2b811d": {
+      "status": "partial",
+      "name": "Nature on PBS",
+      "videos": 797,
+      "detailed": 797,
+      "dated": 797,
+      "playlists": 0,
+      "errors": 1
+    },
+    "ad1176d69624a5fb": {
+      "status": "partial",
+      "name": "BBC Earth",
+      "videos": 3057,
+      "detailed": 3056,
+      "dated": 3056,
+      "playlists": 0,
+      "errors": 2
+    },
+    "f0350b7686cea590": {
+      "status": "partial",
+      "name": "Microbehunter",
+      "videos": 331,
+      "detailed": 331,
+      "dated": 331,
+      "playlists": 0,
+      "errors": 1
+    },
+    "8dcbc24418807615": {
+      "status": "complete",
+      "name": "Quaoar Power",
+      "videos": 264,
+      "detailed": 264,
+      "dated": 264,
+      "playlists": 20,
+      "errors": 0
+    },
+    "79e823b9c4f9be5b": {
+      "status": "complete",
+      "name": "Animal Fact Files",
+      "videos": 954,
+      "detailed": 954,
+      "dated": 954,
+      "playlists": 11,
+      "errors": 0
+    },
+    "a44b00f87b61ae9b": {
+      "status": "complete",
+      "name": "Cornell Lab of Ornithology",
+      "videos": 694,
+      "detailed": 694,
+      "dated": 694,
+      "playlists": 58,
+      "errors": 0
+    },
+    "1003ef676d7301e8": {
+      "status": "complete",
+      "name": "Planet Fungi",
+      "videos": 44,
+      "detailed": 44,
+      "dated": 44,
+      "playlists": 1,
+      "errors": 0
+    },
+    "83bd2c63f0eb244e": {
+      "status": "complete",
+      "name": "Atlas Pro",
+      "videos": 151,
+      "detailed": 151,
+      "dated": 151,
+      "playlists": 17,
+      "errors": 0
+    },
+    "b53a810bfd7c0637": {
+      "status": "partial",
+      "name": "Amoeba Sisters",
+      "videos": 176,
+      "detailed": 176,
+      "dated": 176,
+      "playlists": 0,
+      "errors": 1
+    },
+    "5381f4cc39490792": {
+      "status": "complete",
+      "name": "EVNautilus",
+      "videos": 1181,
+      "detailed": 1181,
+      "dated": 1181,
+      "playlists": 50,
+      "errors": 0
+    },
+    "2c67176ec487aa64": {
+      "status": "complete",
+      "name": "InsecthausTV",
+      "videos": 271,
+      "detailed": 271,
+      "dated": 271,
+      "playlists": 0,
+      "errors": 0
+    },
+    "a65ab7c26c12366e": {
+      "status": "complete",
+      "name": "Plants Insider",
+      "videos": 282,
+      "detailed": 282,
+      "dated": 282,
+      "playlists": 15,
+      "errors": 0
+    },
+    "afcd13a9247f10c7": {
+      "status": "complete",
+      "name": "Neural Academy",
+      "videos": 186,
+      "detailed": 186,
+      "dated": 186,
+      "playlists": 7,
+      "errors": 0
+    },
+    "c23a5a56f7bc54e9": {
+      "status": "complete",
+      "name": "Biologybyme",
+      "videos": 103,
+      "detailed": 103,
+      "dated": 103,
+      "playlists": 1,
+      "errors": 0
+    },
+    "eb91899c5feea723": {
+      "status": "complete",
+      "name": "This Glorious Clockwork",
+      "videos": 29,
+      "detailed": 29,
+      "dated": 29,
+      "playlists": 10,
+      "errors": 0
+    },
+    "260fcff6048976b0": {
+      "status": "partial",
+      "name": "Simon Clark",
+      "videos": 517,
+      "detailed": 517,
+      "dated": 517,
+      "playlists": 0,
+      "errors": 1
+    },
+    "63b2af89093cc074": {
+      "status": "complete",
+      "name": "OceanVizion",
+      "videos": 87,
+      "detailed": 87,
+      "dated": 87,
+      "playlists": 1,
+      "errors": 0
+    },
+    "ac83411375fdfee3": {
+      "status": "complete",
+      "name": "Mossy Earth",
+      "videos": 118,
+      "detailed": 118,
+      "dated": 118,
+      "playlists": 18,
+      "errors": 0
+    },
+    "1d664ed743d248a5": {
+      "status": "partial",
+      "name": "ChrisFix",
+      "videos": 383,
+      "detailed": 383,
+      "dated": 383,
+      "playlists": 0,
+      "errors": 1
+    },
+    "c043e63097a8a50e": {
+      "status": "complete",
+      "name": "HVAC-R Videos",
+      "videos": 809,
+      "detailed": 809,
+      "dated": 809,
+      "playlists": 16,
+      "errors": 0
+    },
+    "a349873de69c7d6e": {
+      "status": "complete",
+      "name": "Speedkar99",
+      "videos": 466,
+      "detailed": 466,
+      "dated": 466,
+      "playlists": 11,
+      "errors": 0
+    },
+    "81f5ead3304b990e": {
+      "status": "partial",
+      "name": "AC Service Tech LLC",
+      "videos": 622,
+      "detailed": 622,
+      "dated": 622,
+      "playlists": 0,
+      "errors": 1
+    },
+    "c26d9f6164355460": {
+      "status": "complete",
+      "name": "HVAC School",
+      "videos": 989,
+      "detailed": 989,
+      "dated": 989,
+      "playlists": 60,
+      "errors": 0
+    },
+    "da245d78ce91d4e1": {
+      "status": "complete",
+      "name": "Word of Advice TV",
+      "videos": 370,
+      "detailed": 370,
+      "dated": 370,
+      "playlists": 40,
+      "errors": 0
+    },
+    "a8db0f312789fa18": {
+      "status": "complete",
+      "name": "MikeHoltNEC",
+      "videos": 224,
+      "detailed": 224,
+      "dated": 224,
+      "playlists": 31,
+      "errors": 0
+    },
+    "74990106152fdd5e": {
+      "status": "complete",
+      "name": "Project Farm",
+      "videos": 532,
+      "detailed": 532,
+      "dated": 532,
+      "playlists": 38,
+      "errors": 0
+    },
+    "5a398c2a89f7174e": {
+      "status": "complete",
+      "name": "Electrician U",
+      "videos": 463,
+      "detailed": 463,
+      "dated": 463,
+      "playlists": 12,
+      "errors": 0
+    },
+    "d27cdebbd4cbf894": {
+      "status": "complete",
+      "name": "Essential Craftsman",
+      "videos": 968,
+      "detailed": 968,
+      "dated": 968,
+      "playlists": 31,
+      "errors": 0
+    },
+    "28fd101c28d9bfad": {
+      "status": "partial",
+      "name": "RR Buildings",
+      "videos": 919,
+      "detailed": 919,
+      "dated": 919,
+      "playlists": 0,
+      "errors": 1
+    },
+    "22bca5734a8ce6e4": {
+      "status": "partial",
+      "name": "Perkins Builder Brothers",
+      "videos": 886,
+      "detailed": 886,
+      "dated": 886,
+      "playlists": 0,
+      "errors": 1
+    },
+    "a8af810847c25e71": {
+      "status": "complete",
+      "name": "Insider Carpentry",
+      "videos": 272,
+      "detailed": 272,
+      "dated": 272,
+      "playlists": 16,
+      "errors": 0
+    },
+    "432f39548d55d143": {
+      "status": "complete",
+      "name": "Fix This Build That",
+      "videos": 211,
+      "detailed": 211,
+      "dated": 211,
+      "playlists": 36,
+      "errors": 0
+    },
+    "88fb64b5041d0c6c": {
+      "status": "complete",
+      "name": "Bobsdecline",
+      "videos": 432,
+      "detailed": 432,
+      "dated": 432,
+      "playlists": 9,
+      "errors": 0
+    },
+    "add97f6d80e573c2": {
+      "status": "complete",
+      "name": "NileRed",
+      "videos": 254,
+      "detailed": 254,
+      "dated": 254,
+      "playlists": 13,
+      "errors": 0
+    },
+    "9cc0e9adbbbcd70e": {
+      "status": "complete",
+      "name": "The Organic Chemistry Tutor",
+      "videos": 2910,
+      "detailed": 2910,
+      "dated": 2910,
+      "playlists": 34,
+      "errors": 0
+    },
+    "851d60e1f36f0c86": {
+      "status": "complete",
+      "name": "Periodic Videos",
+      "videos": 749,
+      "detailed": 749,
+      "dated": 749,
+      "playlists": 39,
+      "errors": 0
+    },
+    "4dfe9ba45def4cf1": {
+      "status": "partial",
+      "name": "Tyler DeWitt",
+      "videos": 223,
+      "detailed": 223,
+      "dated": 223,
+      "playlists": 0,
+      "errors": 1
+    },
+    "3f48f88fcec0ab7d": {
+      "status": "complete",
+      "name": "NurdRage",
+      "videos": 287,
+      "detailed": 287,
+      "dated": 287,
+      "playlists": 9,
+      "errors": 0
+    },
+    "0bf74322fd57b3c9": {
+      "status": "complete",
+      "name": "NileRed Shorts",
+      "videos": 2,
+      "detailed": 2,
+      "dated": 2,
+      "playlists": 1,
+      "errors": 0
+    },
+    "91b5ededd1756990": {
+      "status": "complete",
+      "name": "NileBlue",
+      "videos": 35,
+      "detailed": 35,
+      "dated": 35,
+      "playlists": 5,
+      "errors": 0
+    },
+    "0deec447b6dd654c": {
+      "status": "complete",
+      "name": "Extractions&Ire",
+      "videos": 158,
+      "detailed": 158,
+      "dated": 158,
+      "playlists": 11,
+      "errors": 0
+    },
+    "82f51b6db0eb5a8c": {
+      "status": "complete",
+      "name": "Explosions&Fire",
+      "videos": 33,
+      "detailed": 33,
+      "dated": 33,
+      "playlists": 1,
+      "errors": 0
+    },
+    "476d4057d1b0aa3b": {
+      "status": "complete",
+      "name": "ChemicalForce",
+      "videos": 171,
+      "detailed": 171,
+      "dated": 171,
+      "playlists": 10,
+      "errors": 0
+    },
+    "263f40b1cb737007": {
+      "status": "complete",
+      "name": "Thoisoi2",
+      "videos": 212,
+      "detailed": 212,
+      "dated": 212,
+      "playlists": 10,
+      "errors": 0
+    },
+    "d1c45d5ea9fd0e8a": {
+      "status": "complete",
+      "name": "Chemdelic",
+      "videos": 42,
+      "detailed": 42,
+      "dated": 42,
+      "playlists": 7,
+      "errors": 0
+    },
+    "1258d584c423d159": {
+      "status": "complete",
+      "name": "Rhodanide",
+      "videos": 77,
+      "detailed": 77,
+      "dated": 77,
+      "playlists": 4,
+      "errors": 0
+    },
+    "2657c42d93619bfe": {
+      "status": "complete",
+      "name": "Tom's Lab",
+      "videos": 47,
+      "detailed": 47,
+      "dated": 47,
+      "playlists": 4,
+      "errors": 0
+    },
+    "2c760cdc2af4a633": {
+      "status": "complete",
+      "name": "ReactiveChem",
+      "videos": 36,
+      "detailed": 36,
+      "dated": 36,
+      "playlists": 4,
+      "errors": 0
+    },
+    "f95f937766e0b679": {
+      "status": "complete",
+      "name": "David Sherrill",
+      "videos": 33,
+      "detailed": 33,
+      "dated": 33,
+      "playlists": 2,
+      "errors": 0
+    },
+    "35694221bc7c8065": {
+      "status": "partial",
+      "name": "TMP Chem",
+      "videos": 830,
+      "detailed": 830,
+      "dated": 830,
+      "playlists": 0,
+      "errors": 1
+    },
+    "707075dcb71ff8d2": {
+      "status": "partial",
+      "name": "Chemistry in a Nutshell",
+      "videos": 113,
+      "detailed": 113,
+      "dated": 113,
+      "playlists": 0,
+      "errors": 1
+    },
+    "91c3141f207cc6ee": {
+      "status": "complete",
+      "name": "Chemiolis",
+      "videos": 75,
+      "detailed": 75,
+      "dated": 75,
+      "playlists": 8,
+      "errors": 0
+    },
+    "6a38aaa44e9e1848": {
+      "status": "complete",
+      "name": "Reid Gower",
+      "videos": 17,
+      "detailed": 17,
+      "dated": 17,
+      "playlists": 6,
+      "errors": 0
+    },
+    "9b5bfb948b480d8e": {
+      "status": "complete",
+      "name": "Hsinchuen Lin",
+      "videos": 905,
+      "detailed": 905,
+      "dated": 905,
+      "playlists": 12,
+      "errors": 0
+    },
+    "18298c5f750f59cf": {
+      "status": "complete",
+      "name": "Ingleton Pottery",
+      "videos": 567,
+      "detailed": 567,
+      "dated": 567,
+      "playlists": 25,
+      "errors": 0
+    },
+    "55c4f8593cb8e67d": {
+      "status": "complete",
+      "name": "Yukikawae",
+      "videos": 66,
+      "detailed": 66,
+      "dated": 66,
+      "playlists": 1,
+      "errors": 0
+    },
+    "b7a16dd0d543208c": {
+      "status": "complete",
+      "name": "Macro Room",
+      "videos": 23,
+      "detailed": 23,
+      "dated": 23,
+      "playlists": 2,
+      "errors": 0
+    },
+    "a645e5e69683af4d": {
+      "status": "partial",
+      "name": "Ben Eater",
+      "videos": 133,
+      "detailed": 133,
+      "dated": 133,
+      "playlists": 0,
+      "errors": 1
+    },
+    "054c3bfebeaf0738": {
+      "status": "partial",
+      "name": "Sebastian Lague",
+      "videos": 297,
+      "detailed": 297,
+      "dated": 297,
+      "playlists": 0,
+      "errors": 1
+    },
+    "2eb9175bc0d6fb71": {
+      "status": "partial",
+      "name": "Two Minute Papers",
+      "videos": 1091,
+      "detailed": 1091,
+      "dated": 1091,
+      "playlists": 0,
+      "errors": 1
+    },
+    "9e8e1d2dce2943e2": {
+      "status": "complete",
+      "name": "george hotz archive",
+      "videos": 502,
+      "detailed": 502,
+      "dated": 502,
+      "playlists": 10,
+      "errors": 0
+    },
+    "b8e07386b750f6f4": {
+      "status": "partial",
+      "name": "Computerphile",
+      "videos": 923,
+      "detailed": 923,
+      "dated": 923,
+      "playlists": 0,
+      "errors": 1
+    },
+    "81ba3739d322e804": {
+      "status": "complete",
+      "name": "LiveOverflow",
+      "videos": 419,
+      "detailed": 419,
+      "dated": 419,
+      "playlists": 27,
+      "errors": 0
+    },
+    "47cbbc301fc4c46b": {
+      "status": "complete",
+      "name": "jdh",
+      "videos": 25,
+      "detailed": 25,
+      "dated": 25,
+      "playlists": 2,
+      "errors": 0
+    },
+    "d31121b44461a447": {
+      "status": "complete",
+      "name": "Kevin Fang",
+      "videos": 30,
+      "detailed": 30,
+      "dated": 30,
+      "playlists": 0,
+      "errors": 0
+    },
+    "f930dc060e79332e": {
+      "status": "complete",
+      "name": "Reducible",
+      "videos": 23,
+      "detailed": 23,
+      "dated": 23,
+      "playlists": 5,
+      "errors": 0
+    },
+    "f063fba60e5b604a": {
+      "status": "complete",
+      "name": "PwnFunction",
+      "videos": 22,
+      "detailed": 22,
+      "dated": 22,
+      "playlists": 3,
+      "errors": 0
+    },
+    "0cb6eb2317cb3f89": {
+      "status": "partial",
+      "name": "CS Dojo",
+      "videos": 106,
+      "detailed": 106,
+      "dated": 106,
+      "playlists": 0,
+      "errors": 1
+    },
+    "65a1beaf4e88c74c": {
+      "status": "partial",
+      "name": "sentdex",
+      "videos": 1269,
+      "detailed": 1269,
+      "dated": 1269,
+      "playlists": 0,
+      "errors": 1
+    },
+    "730aad50b94d8326": {
+      "status": "partial",
+      "name": "Fireship",
+      "videos": 798,
+      "detailed": 798,
+      "dated": 798,
+      "playlists": 0,
+      "errors": 1
+    },
+    "1976197f02963115": {
+      "status": "complete",
+      "name": "javidx9",
+      "videos": 165,
+      "detailed": 165,
+      "dated": 165,
+      "playlists": 6,
+      "errors": 0
+    },
+    "eacd054d6f242398": {
+      "status": "partial",
+      "name": "Welch Labs",
+      "videos": 80,
+      "detailed": 80,
+      "dated": 80,
+      "playlists": 0,
+      "errors": 1
+    },
+    "c8b56dd5c19c15df": {
+      "status": "complete",
+      "name": "CodeParade",
+      "videos": 78,
+      "detailed": 78,
+      "dated": 78,
+      "playlists": 5,
+      "errors": 0
+    },
+    "d7f4b1e694a14197": {
+      "status": "partial",
+      "name": "DevTips",
+      "videos": 334,
+      "detailed": 334,
+      "dated": 334,
+      "playlists": 0,
+      "errors": 1
+    },
+    "1a54f26c5bd0a96e": {
+      "status": "partial",
+      "name": "ExplainingComputers",
+      "videos": 641,
+      "detailed": 641,
+      "dated": 641,
+      "playlists": 0,
+      "errors": 1
+    },
+    "89539df479541bec": {
+      "status": "partial",
+      "name": "Neso Academy",
+      "videos": 2972,
+      "detailed": 2972,
+      "dated": 2972,
+      "playlists": 0,
+      "errors": 1
+    },
+    "2b4b33be2ce84fec": {
+      "status": "partial",
+      "name": "The Coding Train",
+      "videos": 900,
+      "detailed": 900,
+      "dated": 900,
+      "playlists": 0,
+      "errors": 1
+    },
+    "00545fab7dd437af": {
+      "status": "complete",
+      "name": "Nemean",
+      "videos": 5,
+      "detailed": 5,
+      "dated": 5,
+      "playlists": 1,
+      "errors": 0
+    },
+    "fdfac0920be3e4ed": {
+      "status": "partial",
+      "name": "Brackeys",
+      "videos": 466,
+      "detailed": 466,
+      "dated": 466,
+      "playlists": 0,
+      "errors": 1
+    },
+    "7ec54c2ec5b7fbdc": {
+      "status": "complete",
+      "name": "Code Bullet",
+      "videos": 70,
+      "detailed": 70,
+      "dated": 70,
+      "playlists": 2,
+      "errors": 0
+    },
+    "4075b536f3304db1": {
+      "status": "partial",
+      "name": "DeepMind",
+      "videos": 380,
+      "detailed": 380,
+      "dated": 380,
+      "playlists": 0,
+      "errors": 1
+    },
+    "d33edb3f7cf6576a": {
+      "status": "partial",
+      "name": "Creel",
+      "videos": 243,
+      "detailed": 243,
+      "dated": 243,
+      "playlists": 0,
+      "errors": 1
+    },
+    "aee4d693505076db": {
+      "status": "complete",
+      "name": "Techquickie",
+      "videos": 1237,
+      "detailed": 1237,
+      "dated": 1237,
+      "playlists": 7,
+      "errors": 0
+    },
+    "07873ad2dea51e93": {
+      "status": "partial",
+      "name": "Linus Tech Tips",
+      "videos": 6569,
+      "detailed": 6569,
+      "dated": 6569,
+      "playlists": 0,
+      "errors": 1
+    },
+    "06f81c7503f7564a": {
+      "status": "partial",
+      "name": "Mike Dane",
+      "videos": 492,
+      "detailed": 492,
+      "dated": 492,
+      "playlists": 0,
+      "errors": 1
+    },
+    "f11ee0e9e6c4e47a": {
+      "status": "partial",
+      "name": "freeCodeCamp",
+      "videos": 1726,
+      "detailed": 1726,
+      "dated": 1726,
+      "playlists": 0,
+      "errors": 1
+    },
+    "53a52e5524d85d37": {
+      "status": "partial",
+      "name": "mCoding",
+      "videos": 121,
+      "detailed": 121,
+      "dated": 121,
+      "playlists": 0,
+      "errors": 1
+    },
+    "2d5acea676add401": {
+      "status": "partial",
+      "name": "Programming with Mosh",
+      "videos": 214,
+      "detailed": 214,
+      "dated": 214,
+      "playlists": 0,
+      "errors": 1
+    },
+    "fcc84d077bfe9198": {
+      "status": "partial",
+      "name": "Bro Code",
+      "videos": 994,
+      "detailed": 994,
+      "dated": 994,
+      "playlists": 0,
+      "errors": 1
+    },
+    "b1834991445f3079": {
+      "status": "partial",
+      "name": "Corey Schafer",
+      "videos": 267,
+      "detailed": 267,
+      "dated": 267,
+      "playlists": 0,
+      "errors": 1
+    },
+    "2bc7df9156fd4ad5": {
+      "status": "partial",
+      "name": "TheCodex",
+      "videos": 162,
+      "detailed": 162,
+      "dated": 162,
+      "playlists": 0,
+      "errors": 1
+    },
+    "609658f25f81405a": {
+      "status": "partial",
+      "name": "John Hammond",
+      "videos": 1621,
+      "detailed": 1621,
+      "dated": 1621,
+      "playlists": 0,
+      "errors": 1
+    },
+    "89f6305ad0d80f0a": {
+      "status": "complete",
+      "name": "Stephen Grider",
+      "videos": 23,
+      "detailed": 23,
+      "dated": 23,
+      "playlists": 1,
+      "errors": 0
+    },
+    "eaf8746bd8bfce8d": {
+      "status": "partial",
+      "name": "JavaScript Mastery",
+      "videos": 184,
+      "detailed": 184,
+      "dated": 184,
+      "playlists": 0,
+      "errors": 1
+    },
+    "7b990a2a9ae17d65": {
+      "status": "partial",
+      "name": "Kevin Powell",
+      "videos": 840,
+      "detailed": 840,
+      "dated": 840,
+      "playlists": 0,
+      "errors": 1
+    },
+    "a2c186a5538f4c22": {
+      "status": "partial",
+      "name": "The Net Ninja",
+      "videos": 2612,
+      "detailed": 2612,
+      "dated": 2612,
+      "playlists": 0,
+      "errors": 1
+    },
+    "79231df8da4f0633": {
+      "status": "partial",
+      "name": "Mr. P Solver",
+      "videos": 121,
+      "detailed": 121,
+      "dated": 121,
+      "playlists": 0,
+      "errors": 1
+    },
+    "0fd20e9928d52f10": {
+      "status": "partial",
+      "name": "Ihatetomatoes",
+      "videos": 231,
+      "detailed": 231,
+      "dated": 231,
+      "playlists": 0,
+      "errors": 1
+    },
+    "4a378724d7eaab00": {
+      "status": "partial",
+      "name": "Coding Addict",
+      "videos": 767,
+      "detailed": 767,
+      "dated": 767,
+      "playlists": 0,
+      "errors": 1
+    },
+    "9a69c9ca723668dc": {
+      "status": "partial",
+      "name": "IAmTimCorey",
+      "videos": 925,
+      "detailed": 925,
+      "dated": 925,
+      "playlists": 0,
+      "errors": 1
+    },
+    "9c8b28f9cc717026": {
+      "status": "partial",
+      "name": "Computer Science",
+      "videos": 359,
+      "detailed": 359,
+      "dated": 359,
+      "playlists": 0,
+      "errors": 1
+    },
+    "d7d0884494b14392": {
+      "status": "complete",
+      "name": "Alex Lee",
+      "videos": 129,
+      "detailed": 129,
+      "dated": 129,
+      "playlists": 0,
+      "errors": 0
+    },
+    "58e05439e586b819": {
+      "status": "complete",
+      "name": "Dev Ed",
+      "videos": 346,
+      "detailed": 346,
+      "dated": 346,
+      "playlists": 10,
+      "errors": 0
+    },
+    "e96bb1f4c80caa7f": {
+      "status": "complete",
+      "name": "Ari Pxl",
+      "videos": 26,
+      "detailed": 26,
+      "dated": 26,
+      "playlists": 16,
+      "errors": 0
+    },
+    "da159bc83dbb3ff4": {
+      "status": "partial",
+      "name": "DesignCode",
+      "videos": 331,
+      "detailed": 331,
+      "dated": 331,
+      "playlists": 0,
+      "errors": 1
+    },
+    "998234d5b22ce4c2": {
+      "status": "partial",
+      "name": "Web Dev Simplified",
+      "videos": 692,
+      "detailed": 692,
+      "dated": 692,
+      "playlists": 0,
+      "errors": 1
+    },
+    "8198029741768a0b": {
+      "status": "complete",
+      "name": "Vlog Creations",
+      "videos": 434,
+      "detailed": 434,
+      "dated": 434,
+      "playlists": 1,
+      "errors": 0
+    },
+    "e1dd19052efc398f": {
+      "status": "complete",
+      "name": "Casually Explained",
+      "videos": 106,
+      "detailed": 106,
+      "dated": 106,
+      "playlists": 4,
+      "errors": 0
+    },
+    "dce066d319110736": {
+      "status": "complete",
+      "name": "Incognito Mode",
+      "videos": 57,
+      "detailed": 57,
+      "dated": 57,
+      "playlists": 4,
+      "errors": 0
+    },
+    "9c873c548319909e": {
+      "status": "complete",
+      "name": "Alex Ernst",
+      "videos": 100,
+      "detailed": 100,
+      "dated": 100,
+      "playlists": 3,
+      "errors": 0
+    },
+    "1ceacc8bcce11e33": {
+      "status": "complete",
+      "name": "Lessons in Meme Culture",
+      "videos": 1774,
+      "detailed": 1774,
+      "dated": 1774,
+      "playlists": 16,
+      "errors": 0
+    },
+    "003dd0c8aed0e634": {
+      "status": "complete",
+      "name": "SomethingAboutChickens",
+      "videos": 162,
+      "detailed": 162,
+      "dated": 162,
+      "playlists": 1,
+      "errors": 0
+    },
+    "e7ac86d5f48cf53e": {
+      "status": "complete",
+      "name": "Kill Tony",
+      "videos": 584,
+      "detailed": 584,
+      "dated": 584,
+      "playlists": 11,
+      "errors": 0
+    },
+    "fd88a14e3cfa8445": {
+      "status": "complete",
+      "name": "Just For Laughs Gags",
+      "videos": 7771,
+      "detailed": 7771,
+      "dated": 7771,
+      "playlists": 56,
+      "errors": 0
+    },
+    "0472b50bf8e0b4ac": {
+      "status": "complete",
+      "name": "schmoyoho",
+      "videos": 257,
+      "detailed": 257,
+      "dated": 257,
+      "playlists": 28,
+      "errors": 0
+    },
+    "d5471d540ab71293": {
+      "status": "complete",
+      "name": "Berd",
+      "videos": 919,
+      "detailed": 919,
+      "dated": 919,
+      "playlists": 24,
+      "errors": 0
+    },
+    "c857187f6fc23839": {
+      "status": "complete",
+      "name": "Internet Comment Etiquette",
+      "videos": 316,
+      "detailed": 316,
+      "dated": 316,
+      "playlists": 31,
+      "errors": 0
+    },
+    "b06da403d7131cae": {
+      "status": "complete",
+      "name": "surreal entertainment",
+      "videos": 172,
+      "detailed": 172,
+      "dated": 172,
+      "playlists": 3,
+      "errors": 0
+    },
+    "8cc2cd1e64afa683": {
+      "status": "complete",
+      "name": "twomad",
+      "videos": 156,
+      "detailed": 156,
+      "dated": 156,
+      "playlists": 0,
+      "errors": 0
+    },
+    "7f16946c8cf89eaa": {
+      "status": "partial",
+      "name": "Jelle's Marble Runs",
+      "videos": 766,
+      "detailed": 766,
+      "dated": 766,
+      "playlists": 0,
+      "errors": 1
+    },
+    "b452417018d48bec": {
+      "status": "complete",
+      "name": "Tico & the Man Frank Maglio",
+      "videos": 1044,
+      "detailed": 1044,
+      "dated": 1043,
+      "playlists": 9,
+      "errors": 0
+    },
+    "2ab9a905c0a14e2e": {
+      "status": "complete",
+      "name": "Cart Narcs",
+      "videos": 445,
+      "detailed": 445,
+      "dated": 445,
+      "playlists": 9,
+      "errors": 0
+    },
+    "2934b48fa69a1ace": {
+      "status": "complete",
+      "name": "Jason Farmer",
+      "videos": 81,
+      "detailed": 81,
+      "dated": 81,
+      "playlists": 14,
+      "errors": 0
+    },
+    "a3c82256d9ab7d28": {
+      "status": "complete",
+      "name": "Cooking Con Claudia",
+      "videos": 1071,
+      "detailed": 1071,
+      "dated": 1071,
+      "playlists": 25,
+      "errors": 0
+    },
+    "6fc452571ad7b0e0": {
+      "status": "complete",
+      "name": "ArnieTex",
+      "videos": 301,
+      "detailed": 301,
+      "dated": 301,
+      "playlists": 8,
+      "errors": 0
+    },
+    "879365c58592abea": {
+      "status": "complete",
+      "name": "Cooking With The Blues",
+      "videos": 578,
+      "detailed": 578,
+      "dated": 578,
+      "playlists": 16,
+      "errors": 0
+    },
+    "498516b5999fefc0": {
+      "status": "partial",
+      "name": "SAM THE COOKING GUY",
+      "videos": 2118,
+      "detailed": 2118,
+      "dated": 2118,
+      "playlists": 0,
+      "errors": 1
+    },
+    "921b9055c0d51aed": {
+      "status": "complete",
+      "name": "J. Kenji López-Alt",
+      "videos": 635,
+      "detailed": 635,
+      "dated": 635,
+      "playlists": 32,
+      "errors": 0
+    },
+    "1c51c974f3f37b75": {
+      "status": "complete",
+      "name": "Chaplin's Classics",
+      "videos": 535,
+      "detailed": 535,
+      "dated": 535,
+      "playlists": 29,
+      "errors": 0
+    },
+    "959159eaf357568a": {
+      "status": "complete",
+      "name": "Chinese Cooking Demystified",
+      "videos": 356,
+      "detailed": 356,
+      "dated": 356,
+      "playlists": 13,
+      "errors": 0
+    },
+    "4e52060f5f18eab5": {
+      "status": "complete",
+      "name": "Yeung Man Cooking",
+      "videos": 597,
+      "detailed": 597,
+      "dated": 597,
+      "playlists": 10,
+      "errors": 0
+    },
+    "ec08bd24b4c62997": {
+      "status": "partial",
+      "name": "Tasting History with Max Miller",
+      "videos": 396,
+      "detailed": 396,
+      "dated": 396,
+      "playlists": 0,
+      "errors": 1
+    },
+    "6f254a8afb065473": {
+      "status": "complete",
+      "name": "Joshua Weissman",
+      "videos": 617,
+      "detailed": 617,
+      "dated": 617,
+      "playlists": 9,
+      "errors": 0
+    },
+    "adb26cf4ae3dcafb": {
+      "status": "complete",
+      "name": "Babish Culinary Universe",
+      "videos": 721,
+      "detailed": 721,
+      "dated": 721,
+      "playlists": 46,
+      "errors": 0
+    },
+    "2cadc126d83afa48": {
+      "status": "complete",
+      "name": "Adam Ragusea",
+      "videos": 725,
+      "detailed": 725,
+      "dated": 725,
+      "playlists": 17,
+      "errors": 0
+    },
+    "7f4b39cf485350e5": {
+      "status": "complete",
+      "name": "MinuteFood",
+      "videos": 73,
+      "detailed": 73,
+      "dated": 73,
+      "playlists": 10,
+      "errors": 0
+    },
+    "1197d4032213168d": {
+      "status": "partial",
+      "name": "OTR Food & History",
+      "videos": 122,
+      "detailed": 122,
+      "dated": 122,
+      "playlists": 0,
+      "errors": 1
+    },
+    "0c2dc820267b7264": {
+      "status": "partial",
+      "name": "Peter Santenello",
+      "videos": 415,
+      "detailed": 415,
+      "dated": 415,
+      "playlists": 0,
+      "errors": 1
+    },
+    "1429a0605226efb2": {
+      "status": "complete",
+      "name": "Soft White Underbelly",
+      "videos": 2847,
+      "detailed": 2847,
+      "dated": 2847,
+      "playlists": 35,
+      "errors": 0
+    },
+    "d8e7e82818f177ce": {
+      "status": "partial",
+      "name": "FRONTLINE PBS | Official",
+      "videos": 1126,
+      "detailed": 1126,
+      "dated": 1126,
+      "playlists": 0,
+      "errors": 1
+    },
+    "15b8d9857d2297a7": {
+      "status": "complete",
+      "name": "Channel 5 with Andrew Callaghan",
+      "videos": 186,
+      "detailed": 186,
+      "dated": 186,
+      "playlists": 2,
+      "errors": 0
+    },
+    "120386606bde425b": {
+      "status": "complete",
+      "name": "All Gas No Brakes",
+      "videos": 23,
+      "detailed": 23,
+      "dated": 23,
+      "playlists": 3,
+      "errors": 0
+    },
+    "83aaaf96a5cb7366": {
+      "status": "complete",
+      "name": "Kimgary",
+      "videos": 88,
+      "detailed": 88,
+      "dated": 88,
+      "playlists": 5,
+      "errors": 0
+    },
+    "7a4326156db31065": {
+      "status": "complete",
+      "name": "DW Documentary",
+      "videos": 1396,
+      "detailed": 1396,
+      "dated": 1394,
+      "playlists": 32,
+      "errors": 0
+    },
+    "40ddae6833435c6e": {
+      "status": "partial",
+      "name": "VICE",
+      "videos": 3431,
+      "detailed": 3431,
+      "dated": 3431,
+      "playlists": 0,
+      "errors": 1
+    },
+    "2d47fd19e1707541": {
+      "status": "partial",
+      "name": "Nick Zentner",
+      "videos": 475,
+      "detailed": 475,
+      "dated": 475,
+      "playlists": 0,
+      "errors": 1
+    },
+    "0c50ae97320f445a": {
+      "status": "complete",
+      "name": "Stefan Milo",
+      "videos": 162,
+      "detailed": 162,
+      "dated": 162,
+      "playlists": 3,
+      "errors": 0
+    },
+    "904dc92ec407d4ef": {
+      "status": "partial",
+      "name": "PBS Eons",
+      "videos": 313,
+      "detailed": 313,
+      "dated": 313,
+      "playlists": 0,
+      "errors": 1
+    },
+    "67d4c30aa8eab747": {
+      "status": "complete",
+      "name": "History of the Earth",
+      "videos": 35,
+      "detailed": 35,
+      "dated": 35,
+      "playlists": 3,
+      "errors": 0
+    },
+    "0a05a416ae5d2a45": {
+      "status": "complete",
+      "name": "Kate Tectonics",
+      "videos": 3,
+      "detailed": 3,
+      "dated": 3,
+      "playlists": 1,
+      "errors": 0
+    },
+    "45868468cd3c97be": {
+      "status": "complete",
+      "name": "The Budget Museum",
+      "videos": 47,
+      "detailed": 47,
+      "dated": 47,
+      "playlists": 5,
+      "errors": 0
+    },
+    "5d46f5590ab6dfd9": {
+      "status": "complete",
+      "name": "Climate Town",
+      "videos": 43,
+      "detailed": 43,
+      "dated": 43,
+      "playlists": 9,
+      "errors": 0
+    },
+    "0baae61014652a1e": {
+      "status": "complete",
+      "name": "Animal Origins",
+      "videos": 65,
+      "detailed": 65,
+      "dated": 65,
+      "playlists": 5,
+      "errors": 0
+    },
+    "5c1b5e6c90640eb0": {
+      "status": "complete",
+      "name": "Moth Light Media",
+      "videos": 143,
+      "detailed": 143,
+      "dated": 143,
+      "playlists": 5,
+      "errors": 0
+    },
+    "9529b9d7b5034b98": {
+      "status": "complete",
+      "name": "NORTH 02",
+      "videos": 116,
+      "detailed": 116,
+      "dated": 116,
+      "playlists": 6,
+      "errors": 0
+    },
+    "d5feaea676f09f63": {
+      "status": "partial",
+      "name": "PBS Terra",
+      "videos": 305,
+      "detailed": 305,
+      "dated": 305,
+      "playlists": 0,
+      "errors": 1
+    },
+    "973f6bd873b8b73c": {
+      "status": "complete",
+      "name": "Your Dinosaurs Are Wrong",
+      "videos": 54,
+      "detailed": 54,
+      "dated": 54,
+      "playlists": 5,
+      "errors": 0
+    },
+    "0f0a3646da98599a": {
+      "status": "complete",
+      "name": "Past Eons Productions",
+      "videos": 52,
+      "detailed": 52,
+      "dated": 52,
+      "playlists": 8,
+      "errors": 0
+    },
+    "9207e12761d261ac": {
+      "status": "complete",
+      "name": "GeologyHub",
+      "videos": 1587,
+      "detailed": 1587,
+      "dated": 1587,
+      "playlists": 82,
+      "errors": 0
+    },
+    "ab234af705e183b3": {
+      "status": "complete",
+      "name": "GeologyUpSkill",
+      "videos": 151,
+      "detailed": 151,
+      "dated": 151,
+      "playlists": 14,
+      "errors": 0
+    },
+    "11c25563b3622ab7": {
+      "status": "complete",
+      "name": "Myron Cook",
+      "videos": 50,
+      "detailed": 50,
+      "dated": 50,
+      "playlists": 0,
+      "errors": 0
+    },
+    "595b40a64a40c1a2": {
+      "status": "complete",
+      "name": "Plasma Channel",
+      "videos": 121,
+      "detailed": 121,
+      "dated": 121,
+      "playlists": 8,
+      "errors": 0
+    },
+    "c4cd879a59207443": {
+      "status": "complete",
+      "name": "Technology Connections",
+      "videos": 233,
+      "detailed": 233,
+      "dated": 233,
+      "playlists": 13,
+      "errors": 0
+    },
+    "ce7a84482d40cc98": {
+      "status": "complete",
+      "name": "Mr Carlson's Lab",
+      "videos": 325,
+      "detailed": 325,
+      "dated": 325,
+      "playlists": 7,
+      "errors": 0
+    },
+    "efb073ab65d6b725": {
+      "status": "complete",
+      "name": "SeanHodgins",
+      "videos": 261,
+      "detailed": 261,
+      "dated": 261,
+      "playlists": 17,
+      "errors": 0
+    },
+    "62ba86fb24b659b7": {
+      "status": "complete",
+      "name": "styropyro",
+      "videos": 200,
+      "detailed": 200,
+      "dated": 200,
+      "playlists": 3,
+      "errors": 0
+    },
+    "f8e0b9f10c435224": {
+      "status": "complete",
+      "name": "How To Mechatronics",
+      "videos": 135,
+      "detailed": 135,
+      "dated": 135,
+      "playlists": 8,
+      "errors": 0
+    },
+    "af91f47fdb02c67a": {
+      "status": "complete",
+      "name": "DiodeGoneWild",
+      "videos": 599,
+      "detailed": 599,
+      "dated": 599,
+      "playlists": 16,
+      "errors": 0
+    },
+    "c9b1fa8bfbc8c281": {
+      "status": "complete",
+      "name": "bigclivedotcom",
+      "videos": 2784,
+      "detailed": 2784,
+      "dated": 2784,
+      "playlists": 6,
+      "errors": 0
+    },
+    "7e3ea18411ffdafe": {
+      "status": "complete",
+      "name": "GreatScott!",
+      "videos": 497,
+      "detailed": 497,
+      "dated": 497,
+      "playlists": 12,
+      "errors": 0
+    },
+    "a1728769e7d8a97e": {
+      "status": "complete",
+      "name": "Afrotechmods",
+      "videos": 82,
+      "detailed": 82,
+      "dated": 82,
+      "playlists": 9,
+      "errors": 0
+    },
+    "1c3195837209d884": {
+      "status": "complete",
+      "name": "Zilipoper",
+      "videos": 334,
+      "detailed": 334,
+      "dated": 334,
+      "playlists": 1,
+      "errors": 0
+    },
+    "db19f99b5bd65826": {
+      "status": "complete",
+      "name": "Vidduley",
+      "videos": 14,
+      "detailed": 14,
+      "dated": 14,
+      "playlists": 4,
+      "errors": 0
+    },
+    "1cb2ccfd1c903c61": {
+      "status": "partial",
+      "name": "ElectroBOOM",
+      "videos": 250,
+      "detailed": 250,
+      "dated": 250,
+      "playlists": 0,
+      "errors": 1
+    },
+    "3287dd77f7504437": {
+      "status": "complete",
+      "name": "The Signal Path",
+      "videos": 360,
+      "detailed": 360,
+      "dated": 360,
+      "playlists": 6,
+      "errors": 0
+    },
+    "3e1a7633c4feaeff": {
+      "status": "complete",
+      "name": "Simply Electronics",
+      "videos": 48,
+      "detailed": 48,
+      "dated": 48,
+      "playlists": 4,
+      "errors": 0
+    },
+    "68b822976e172363": {
+      "status": "partial",
+      "name": "Esperantanaso",
+      "videos": 190,
+      "detailed": 190,
+      "dated": 190,
+      "playlists": 0,
+      "errors": 1
+    },
+    "77ab1fc7347395bd": {
+      "status": "complete",
+      "name": "Techmoan",
+      "videos": 735,
+      "detailed": 735,
+      "dated": 735,
+      "playlists": 11,
+      "errors": 0
+    },
+    "431de8006708e800": {
+      "status": "partial",
+      "name": "EEVblog",
+      "videos": 2119,
+      "detailed": 2119,
+      "dated": 2119,
+      "playlists": 0,
+      "errors": 1
+    },
+    "a60e2eda3378048c": {
+      "status": "complete",
+      "name": "EdisonTechCenter",
+      "videos": 276,
+      "detailed": 276,
+      "dated": 276,
+      "playlists": 15,
+      "errors": 0
+    },
+    "caa15f6a09da987a": {
+      "status": "complete",
+      "name": "Moritz Klein",
+      "videos": 41,
+      "detailed": 41,
+      "dated": 41,
+      "playlists": 12,
+      "errors": 0
+    },
+    "10e13ec998763679": {
+      "status": "partial",
+      "name": "w2aew",
+      "videos": 420,
+      "detailed": 420,
+      "dated": 420,
+      "playlists": 0,
+      "errors": 1
+    },
+    "1d2f6feafa259a02": {
+      "status": "partial",
+      "name": "CuriousMarc",
+      "videos": 650,
+      "detailed": 650,
+      "dated": 650,
+      "playlists": 0,
+      "errors": 1
+    },
+    "61cd22d71ee72056": {
+      "status": "complete",
+      "name": "Tesla500",
+      "videos": 191,
+      "detailed": 191,
+      "dated": 191,
+      "playlists": 4,
+      "errors": 0
+    },
+    "09e0ee02531cfad9": {
+      "status": "complete",
+      "name": "Alan Yates",
+      "videos": 202,
+      "detailed": 202,
+      "dated": 202,
+      "playlists": 6,
+      "errors": 0
+    },
+    "2c45dc01f0c0718f": {
+      "status": "complete",
+      "name": "Mikeselectricstuff",
+      "videos": 310,
+      "detailed": 310,
+      "dated": 310,
+      "playlists": 7,
+      "errors": 0
+    },
+    "8dbc8d77c3cfbc12": {
+      "status": "complete",
+      "name": "Jeri Ellsworth",
+      "videos": 116,
+      "detailed": 116,
+      "dated": 116,
+      "playlists": 11,
+      "errors": 0
+    },
+    "7c4fe88e70e5081c": {
+      "status": "partial",
+      "name": "Marques Brownlee",
+      "videos": 1724,
+      "detailed": 1723,
+      "dated": 1723,
+      "playlists": 0,
+      "errors": 2
+    },
+    "63beac6354e4c56a": {
+      "status": "partial",
+      "name": "FesZ Electronics",
+      "videos": 288,
+      "detailed": 288,
+      "dated": 288,
+      "playlists": 0,
+      "errors": 1
+    },
+    "f7643e55aaaa4094": {
+      "status": "partial",
+      "name": "Ali Hajimiri",
+      "videos": 206,
+      "detailed": 206,
+      "dated": 206,
+      "playlists": 0,
+      "errors": 1
+    },
+    "692d5673a65408d4": {
+      "status": "complete",
+      "name": "Electronoobs",
+      "videos": 479,
+      "detailed": 479,
+      "dated": 479,
+      "playlists": 57,
+      "errors": 0
+    },
+    "2b03a4fa99a4d770": {
+      "status": "complete",
+      "name": "Marco Reps",
+      "videos": 214,
+      "detailed": 214,
+      "dated": 214,
+      "playlists": 10,
+      "errors": 0
+    },
+    "bd4ff6706c0ce135": {
+      "status": "complete",
+      "name": "NorthridgeFix",
+      "videos": 1359,
+      "detailed": 1359,
+      "dated": 1359,
+      "playlists": 0,
+      "errors": 0
+    },
+    "8c502947dd75b92c": {
+      "status": "complete",
+      "name": "CNLohr",
+      "videos": 207,
+      "detailed": 207,
+      "dated": 207,
+      "playlists": 3,
+      "errors": 0
+    },
+    "810dcdd6d463902a": {
+      "status": "complete",
+      "name": "Bitluni",
+      "videos": 155,
+      "detailed": 155,
+      "dated": 155,
+      "playlists": 27,
+      "errors": 0
+    },
+    "c5216edc681104ea": {
+      "status": "complete",
+      "name": "Geerling Engineering",
+      "videos": 52,
+      "detailed": 52,
+      "dated": 52,
+      "playlists": 12,
+      "errors": 0
+    },
+    "a0af075e24270daf": {
+      "status": "complete",
+      "name": "EngineerGuy",
+      "videos": 97,
+      "detailed": 97,
+      "dated": 97,
+      "playlists": 10,
+      "errors": 0
+    },
+    "eddc2efe5ed464e6": {
+      "status": "not_indexed",
+      "name": "Aaron Witt"
+    },
+    "6c3fefc23d615d67": {
+      "status": "partial",
+      "name": "FD Engineering",
+      "videos": 235,
+      "detailed": 235,
+      "dated": 235,
+      "playlists": 0,
+      "errors": 1
+    },
+    "9bab189d149c9956": {
+      "status": "complete",
+      "name": "Real Engineering",
+      "videos": 207,
+      "detailed": 207,
+      "dated": 207,
+      "playlists": 21,
+      "errors": 0
+    },
+    "751901611f265989": {
+      "status": "partial",
+      "name": "Practical Engineering",
+      "videos": 235,
+      "detailed": 235,
+      "dated": 235,
+      "playlists": 29,
+      "errors": 2
+    },
+    "ff28a0f77a58ac32": {
+      "status": "complete",
+      "name": "Branch Education",
+      "videos": 51,
+      "detailed": 51,
+      "dated": 51,
+      "playlists": 8,
+      "errors": 0
+    },
+    "f8f26ae5a2cbdb16": {
+      "status": "partial",
+      "name": "The Efficient Engineer",
+      "videos": 47,
+      "detailed": 47,
+      "dated": 47,
+      "playlists": 0,
+      "errors": 1
+    },
+    "c93c617e96d76dbe": {
+      "status": "complete",
+      "name": "Ziroth",
+      "videos": 104,
+      "detailed": 104,
+      "dated": 104,
+      "playlists": 7,
+      "errors": 0
+    },
+    "63002904680a77c8": {
+      "status": "partial",
+      "name": "The Engineering Mindset",
+      "videos": 294,
+      "detailed": 294,
+      "dated": 294,
+      "playlists": 0,
+      "errors": 1
+    },
+    "922db684d08254e6": {
+      "status": "complete",
+      "name": "Engineering Explained",
+      "videos": 1001,
+      "detailed": 1001,
+      "dated": 1001,
+      "playlists": 27,
+      "errors": 0
+    },
+    "abd890b93b37fc8d": {
+      "status": "complete",
+      "name": "Kyle.Engineers",
+      "videos": 228,
+      "detailed": 228,
+      "dated": 228,
+      "playlists": 15,
+      "errors": 0
+    },
+    "5ae3987c291bb1c9": {
+      "status": "complete",
+      "name": "AgentJayZ",
+      "videos": 764,
+      "detailed": 764,
+      "dated": 764,
+      "playlists": 25,
+      "errors": 0
+    },
+    "429810a020d7bb8a": {
+      "status": "partial",
+      "name": "Undecided with Matt Ferrell",
+      "videos": 408,
+      "detailed": 408,
+      "dated": 408,
+      "playlists": 0,
+      "errors": 1
+    },
+    "b0c2561eaa40a1bf": {
+      "status": "complete",
+      "name": "The B1M",
+      "videos": 634,
+      "detailed": 634,
+      "dated": 634,
+      "playlists": 96,
+      "errors": 0
+    },
+    "a52099c987a8d1f0": {
+      "status": "complete",
+      "name": "Found And Explained",
+      "videos": 357,
+      "detailed": 357,
+      "dated": 357,
+      "playlists": 13,
+      "errors": 0
+    },
+    "0817bc8acdef9403": {
+      "status": "partial",
+      "name": "Lesics",
+      "videos": 260,
+      "detailed": 260,
+      "dated": 260,
+      "playlists": 0,
+      "errors": 1
+    },
+    "b2d80d8dd8c87b65": {
+      "status": "complete",
+      "name": "Dejmian XYZ Simulations",
+      "videos": 277,
+      "detailed": 277,
+      "dated": 277,
+      "playlists": 0,
+      "errors": 0
+    },
+    "36ddb911dd2b6cbd": {
+      "status": "complete",
+      "name": "Art of rendering",
+      "videos": 22,
+      "detailed": 22,
+      "dated": 22,
+      "playlists": 4,
+      "errors": 0
+    },
+    "f49588d4f4decb5b": {
+      "status": "complete",
+      "name": "WolfShaft",
+      "videos": 236,
+      "detailed": 236,
+      "dated": 236,
+      "playlists": 2,
+      "errors": 0
+    },
+    "1c8eaabb737cc95d": {
+      "status": "partial",
+      "name": "Jeff Hanson",
+      "videos": 371,
+      "detailed": 371,
+      "dated": 371,
+      "playlists": 0,
+      "errors": 1
+    },
+    "9ce27cc477dce0cf": {
+      "status": "partial",
+      "name": "Gregory Michaelson",
+      "videos": 1289,
+      "detailed": 1289,
+      "dated": 1289,
+      "playlists": 0,
+      "errors": 1
+    },
+    "76d27219071e966f": {
+      "status": "complete",
+      "name": "Boston Dynamics",
+      "videos": 149,
+      "detailed": 149,
+      "dated": 149,
+      "playlists": 13,
+      "errors": 0
+    },
+    "d029122f8c18287c": {
+      "status": "complete",
+      "name": "Frost",
+      "videos": 211,
+      "detailed": 211,
+      "dated": 211,
+      "playlists": 1,
+      "errors": 0
+    },
+    "22c3a917f5156b17": {
+      "status": "complete",
+      "name": "Ahoy",
+      "videos": 304,
+      "detailed": 304,
+      "dated": 304,
+      "playlists": 32,
+      "errors": 0
+    },
+    "34b091b03584d230": {
+      "status": "partial",
+      "name": "Hollow",
+      "videos": 6895,
+      "detailed": 6895,
+      "dated": 6895,
+      "playlists": 0,
+      "errors": 1
+    },
+    "e2aab259ff47ab46": {
+      "status": "complete",
+      "name": "theRadBrad",
+      "videos": 9000,
+      "detailed": 9000,
+      "dated": 9000,
+      "playlists": 681,
+      "errors": 0
+    },
+    "4377cab6df1f331a": {
+      "status": "partial",
+      "name": "MKIceAndFire",
+      "videos": 8008,
+      "detailed": 8008,
+      "dated": 8006,
+      "playlists": 0,
+      "errors": 1
+    },
+    "78be6e41b140b22d": {
+      "status": "complete",
+      "name": "videogamedunkey",
+      "videos": 1008,
+      "detailed": 1008,
+      "dated": 1008,
+      "playlists": 7,
+      "errors": 0
+    },
+    "bb1867237def04b5": {
+      "status": "complete",
+      "name": "ThrillSeeker",
+      "videos": 286,
+      "detailed": 286,
+      "dated": 286,
+      "playlists": 9,
+      "errors": 0
+    },
+    "c876faf091e19d86": {
+      "status": "partial",
+      "name": "Kurzgesagt - In a Nutshell",
+      "videos": 252,
+      "detailed": 252,
+      "dated": 252,
+      "playlists": 0,
+      "errors": 1
+    },
+    "3cf10b66f3e02675": {
+      "status": "complete",
+      "name": "Lemmino",
+      "videos": 171,
+      "detailed": 171,
+      "dated": 171,
+      "playlists": 6,
+      "errors": 0
+    },
+    "34ab706966a83a2f": {
+      "status": "complete",
+      "name": "melodysheep",
+      "videos": 122,
+      "detailed": 122,
+      "dated": 122,
+      "playlists": 7,
+      "errors": 0
+    },
+    "df998269fee50cf3": {
+      "status": "complete",
+      "name": "Mike Boyd",
+      "videos": 143,
+      "detailed": 143,
+      "dated": 143,
+      "playlists": 6,
+      "errors": 0
+    },
+    "2fc65ed9f79af29d": {
+      "status": "complete",
+      "name": "Wendover Productions",
+      "videos": 288,
+      "detailed": 288,
+      "dated": 288,
+      "playlists": 3,
+      "errors": 0
+    },
+    "3a50ec9d3d866c2c": {
+      "status": "complete",
+      "name": "Joe Scott",
+      "videos": 857,
+      "detailed": 857,
+      "dated": 857,
+      "playlists": 41,
+      "errors": 0
+    },
+    "8bd0dc37bcea0f04": {
+      "status": "complete",
+      "name": "D!NG",
+      "videos": 255,
+      "detailed": 255,
+      "dated": 255,
+      "playlists": 11,
+      "errors": 0
+    },
+    "4fa3e6f534962d89": {
+      "status": "complete",
+      "name": "Half as Interesting",
+      "videos": 578,
+      "detailed": 578,
+      "dated": 578,
+      "playlists": 0,
+      "errors": 0
+    },
+    "3477ea51a00b4f36": {
+      "status": "partial",
+      "name": "Tom Scott",
+      "videos": 760,
+      "detailed": 760,
+      "dated": 760,
+      "playlists": 0,
+      "errors": 1
+    },
+    "a96e3b8e061ad383": {
+      "status": "complete",
+      "name": "Primer",
+      "videos": 23,
+      "detailed": 23,
+      "dated": 23,
+      "playlists": 3,
+      "errors": 0
+    },
+    "e21def18c2d418fd": {
+      "status": "complete",
+      "name": "New Mind",
+      "videos": 92,
+      "detailed": 92,
+      "dated": 92,
+      "playlists": 6,
+      "errors": 0
+    },
+    "d3e7c750f34678d7": {
+      "status": "complete",
+      "name": "Vsauce",
+      "videos": 373,
+      "detailed": 373,
+      "dated": 373,
+      "playlists": 42,
+      "errors": 0
+    },
+    "15d985d269a6df2f": {
+      "status": "complete",
+      "name": "Vsauce2",
+      "videos": 416,
+      "detailed": 416,
+      "dated": 416,
+      "playlists": 16,
+      "errors": 0
+    },
+    "5f887daa60dbe906": {
+      "status": "partial",
+      "name": "TED-Ed",
+      "videos": 2361,
+      "detailed": 2361,
+      "dated": 2361,
+      "playlists": 0,
+      "errors": 1
+    },
+    "1c9da90b325277f9": {
+      "status": "complete",
+      "name": "Atomic Frontier",
+      "videos": 58,
+      "detailed": 58,
+      "dated": 58,
+      "playlists": 6,
+      "errors": 0
+    },
+    "9b2ad3f46f826ff8": {
+      "status": "complete",
+      "name": "Facts in Motion",
+      "videos": 29,
+      "detailed": 29,
+      "dated": 29,
+      "playlists": 1,
+      "errors": 0
+    },
+    "cd6373d6af01c177": {
+      "status": "complete",
+      "name": "Jared Owen",
+      "videos": 88,
+      "detailed": 88,
+      "dated": 88,
+      "playlists": 10,
+      "errors": 0
+    },
+    "69295365e82ed224": {
+      "status": "complete",
+      "name": "Koranos",
+      "videos": 38,
+      "detailed": 38,
+      "dated": 38,
+      "playlists": 0,
+      "errors": 0
+    },
+    "7fa9471c2475d229": {
+      "status": "partial",
+      "name": "Art of the Problem",
+      "videos": 98,
+      "detailed": 98,
+      "dated": 98,
+      "playlists": 0,
+      "errors": 1
+    },
+    "82f38ac09511abd8": {
+      "status": "complete",
+      "name": "RealLifeLore",
+      "videos": 442,
+      "detailed": 442,
+      "dated": 442,
+      "playlists": 22,
+      "errors": 0
+    },
+    "bcc52ceef5d51154": {
+      "status": "complete",
+      "name": "Vox",
+      "videos": 1769,
+      "detailed": 1769,
+      "dated": 1769,
+      "playlists": 20,
+      "errors": 0
+    },
+    "bea744f3088877f7": {
+      "status": "complete",
+      "name": "CGP Grey",
+      "videos": 149,
+      "detailed": 149,
+      "dated": 149,
+      "playlists": 25,
+      "errors": 0
+    },
+    "fdae108bd77c2cd3": {
+      "status": "complete",
+      "name": "Geographics",
+      "videos": 338,
+      "detailed": 338,
+      "dated": 338,
+      "playlists": 4,
+      "errors": 0
+    },
+    "8511fadbdda6cc21": {
+      "status": "complete",
+      "name": "Biographics",
+      "videos": 824,
+      "detailed": 824,
+      "dated": 824,
+      "playlists": 34,
+      "errors": 0
+    },
+    "838564bd689936d1": {
+      "status": "complete",
+      "name": "JerryRigEverything",
+      "videos": 1233,
+      "detailed": 1233,
+      "dated": 1233,
+      "playlists": 51,
+      "errors": 0
+    },
+    "c58e726479aa4bfe": {
+      "status": "complete",
+      "name": "Veritasium",
+      "videos": 451,
+      "detailed": 451,
+      "dated": 451,
+      "playlists": 13,
+      "errors": 0
+    },
+    "09b1bdb0c7c172fc": {
+      "status": "complete",
+      "name": "Domain of Science",
+      "videos": 60,
+      "detailed": 60,
+      "dated": 60,
+      "playlists": 8,
+      "errors": 0
+    },
+    "694b5bbbd2cfe9f4": {
+      "status": "complete",
+      "name": "Sabine Hossenfelder",
+      "videos": 1066,
+      "detailed": 1066,
+      "dated": 1066,
+      "playlists": 13,
+      "errors": 0
+    },
+    "d8df0cf5815cf138": {
+      "status": "complete",
+      "name": "The Action Lab",
+      "videos": 987,
+      "detailed": 987,
+      "dated": 987,
+      "playlists": 21,
+      "errors": 0
+    },
+    "51227f2ae0aabf1b": {
+      "status": "partial",
+      "name": "Steve Mould",
+      "videos": 240,
+      "detailed": 240,
+      "dated": 240,
+      "playlists": 23,
+      "errors": 1
+    },
+    "bdd7750e58b1f18f": {
+      "status": "complete",
+      "name": "Quanta Magazine",
+      "videos": 157,
+      "detailed": 157,
+      "dated": 157,
+      "playlists": 13,
+      "errors": 0
+    },
+    "6bfec7f7c111bfb0": {
+      "status": "complete",
+      "name": "Be Smart",
+      "videos": 427,
+      "detailed": 427,
+      "dated": 427,
+      "playlists": 14,
+      "errors": 0
+    },
+    "ccc791a310dc4526": {
+      "status": "complete",
+      "name": "Science Channel",
+      "videos": 1840,
+      "detailed": 1840,
+      "dated": 1840,
+      "playlists": 69,
+      "errors": 0
+    },
+    "d7a068b4f9fbfea5": {
+      "status": "complete",
+      "name": "NightHawkInLight",
+      "videos": 352,
+      "detailed": 352,
+      "dated": 352,
+      "playlists": 10,
+      "errors": 0
+    },
+    "47cda429d5c026b7": {
+      "status": "complete",
+      "name": "Science Marshall",
+      "videos": 68,
+      "detailed": 68,
+      "dated": 68,
+      "playlists": 0,
+      "errors": 0
+    },
+    "c73f845f76659757": {
+      "status": "complete",
+      "name": "Sciencephile the AI",
+      "videos": 154,
+      "detailed": 154,
+      "dated": 154,
+      "playlists": 7,
+      "errors": 0
+    },
+    "1b48565997e7d04b": {
+      "status": "complete",
+      "name": "Sci Show",
+      "videos": 3974,
+      "detailed": 3974,
+      "dated": 3974,
+      "playlists": 89,
+      "errors": 0
+    },
+    "e5ab72cc0f30c9b5": {
+      "status": "complete",
+      "name": "Minute Earth",
+      "videos": 408,
+      "detailed": 408,
+      "dated": 408,
+      "playlists": 25,
+      "errors": 0
+    },
+    "eae0fda40381b86b": {
+      "status": "complete",
+      "name": "Real Science",
+      "videos": 114,
+      "detailed": 114,
+      "dated": 114,
+      "playlists": 11,
+      "errors": 0
+    },
+    "1ba4d4744235505d": {
+      "status": "complete",
+      "name": "Alpha Phoenix",
+      "videos": 115,
+      "detailed": 115,
+      "dated": 115,
+      "playlists": 16,
+      "errors": 0
+    },
+    "2f7ca67cf424f37c": {
+      "status": "complete",
+      "name": "Arxiv Insights",
+      "videos": 16,
+      "detailed": 16,
+      "dated": 16,
+      "playlists": 2,
+      "errors": 0
+    },
+    "6b2bf23214448b1a": {
+      "status": "complete",
+      "name": "Nottinghamscience",
+      "videos": 494,
+      "detailed": 494,
+      "dated": 494,
+      "playlists": 28,
+      "errors": 0
+    },
+    "7db544acc84b66bc": {
+      "status": "complete",
+      "name": "BackstageScience",
+      "videos": 47,
+      "detailed": 47,
+      "dated": 47,
+      "playlists": 0,
+      "errors": 0
+    },
+    "83e667cf04b0284a": {
+      "status": "complete",
+      "name": "Verge Science",
+      "videos": 117,
+      "detailed": 117,
+      "dated": 117,
+      "playlists": 16,
+      "errors": 0
+    },
+    "6a18d00b9e95a1d2": {
+      "status": "partial",
+      "name": "The Royal Institution",
+      "videos": 1521,
+      "detailed": 1521,
+      "dated": 1521,
+      "playlists": 0,
+      "errors": 1
+    },
+    "22bbf9253c3603f9": {
+      "status": "complete",
+      "name": "World Science Festival",
+      "videos": 1261,
+      "detailed": 1261,
+      "dated": 1261,
+      "playlists": 69,
+      "errors": 0
+    },
+    "5b17572600a8a02e": {
+      "status": "partial",
+      "name": "Up and Atom",
+      "videos": 105,
+      "detailed": 105,
+      "dated": 105,
+      "playlists": 11,
+      "errors": 1
+    },
+    "1227632fbf19d887": {
+      "status": "partial",
+      "name": "SmarterEveryDay",
+      "videos": 398,
+      "detailed": 398,
+      "dated": 398,
+      "playlists": 0,
+      "errors": 1
+    },
+    "b5ab5ef9cdd3cbf9": {
+      "status": "partial",
+      "name": "Kyle Hill",
+      "videos": 240,
+      "detailed": 240,
+      "dated": 240,
+      "playlists": 0,
+      "errors": 1
+    },
+    "e079012c49255ec4": {
+      "status": "complete",
+      "name": "StarTalk",
+      "videos": 1263,
+      "detailed": 1263,
+      "dated": 1263,
+      "playlists": 15,
+      "errors": 0
+    },
+    "a442afc44d500dcb": {
+      "status": "complete",
+      "name": "Sam O'Nella Academy",
+      "videos": 68,
+      "detailed": 68,
+      "dated": 68,
+      "playlists": 1,
+      "errors": 0
+    },
+    "78a953a17f0599c1": {
+      "status": "complete",
+      "name": "History Matters",
+      "videos": 395,
+      "detailed": 395,
+      "dated": 395,
+      "playlists": 8,
+      "errors": 0
+    },
+    "c529cce710a34ed0": {
+      "status": "complete",
+      "name": "toldinstone",
+      "videos": 252,
+      "detailed": 252,
+      "dated": 252,
+      "playlists": 19,
+      "errors": 0
+    },
+    "6dec005341356ab1": {
+      "status": "complete",
+      "name": "Dan Carlin",
+      "videos": 51,
+      "detailed": 51,
+      "dated": 51,
+      "playlists": 2,
+      "errors": 0
+    },
+    "94c28c14cff2603a": {
+      "status": "complete",
+      "name": "Voices of the Past",
+      "videos": 192,
+      "detailed": 192,
+      "dated": 192,
+      "playlists": 11,
+      "errors": 0
+    },
+    "7759b0ee0b5dbf6c": {
+      "status": "complete",
+      "name": "TimeGhost History",
+      "videos": 267,
+      "detailed": 267,
+      "dated": 267,
+      "playlists": 18,
+      "errors": 0
+    },
+    "b0abae188a53c84d": {
+      "status": "complete",
+      "name": "Kings and Generals",
+      "videos": 1290,
+      "detailed": 1290,
+      "dated": 1290,
+      "playlists": 94,
+      "errors": 0
+    },
+    "8f957f2ca00702f1": {
+      "status": "complete",
+      "name": "The History Guy",
+      "videos": 1557,
+      "detailed": 1557,
+      "dated": 1557,
+      "playlists": 95,
+      "errors": 0
+    },
+    "ad166e276ecb6079": {
+      "status": "complete",
+      "name": "Jay Foreman",
+      "videos": 103,
+      "detailed": 103,
+      "dated": 103,
+      "playlists": 6,
+      "errors": 0
+    },
+    "887d9c875ac10352": {
+      "status": "complete",
+      "name": "The Operations Room",
+      "videos": 181,
+      "detailed": 181,
+      "dated": 181,
+      "playlists": 11,
+      "errors": 0
+    },
+    "c5ad8ddecaf23f00": {
+      "status": "complete",
+      "name": "Historia Civilis",
+      "videos": 89,
+      "detailed": 89,
+      "dated": 89,
+      "playlists": 11,
+      "errors": 0
+    },
+    "d48877eb54a95c0a": {
+      "status": "complete",
+      "name": "ConeOfArc",
+      "videos": 610,
+      "detailed": 610,
+      "dated": 610,
+      "playlists": 38,
+      "errors": 0
+    },
+    "4e0a2a3710ddbf51": {
+      "status": "complete",
+      "name": "Paper Skies",
+      "videos": 39,
+      "detailed": 39,
+      "dated": 39,
+      "playlists": 6,
+      "errors": 0
+    },
+    "e1ee0e33979bc360": {
+      "status": "complete",
+      "name": "Dan Davis History",
+      "videos": 86,
+      "detailed": 86,
+      "dated": 86,
+      "playlists": 26,
+      "errors": 0
+    },
+    "dcfda13eb4426a55": {
+      "status": "complete",
+      "name": "History Buffs",
+      "videos": 110,
+      "detailed": 110,
+      "dated": 110,
+      "playlists": 9,
+      "errors": 0
+    },
+    "39c08c94ef5bfb9c": {
+      "status": "complete",
+      "name": "Military History Visualized",
+      "videos": 454,
+      "detailed": 454,
+      "dated": 454,
+      "playlists": 137,
+      "errors": 0
+    },
+    "62421f3bfa67c91c": {
+      "status": "complete",
+      "name": "HistoryMarche",
+      "videos": 318,
+      "detailed": 318,
+      "dated": 318,
+      "playlists": 32,
+      "errors": 0
+    },
+    "5cb1d5da92aaae63": {
+      "status": "partial",
+      "name": "OverSimplified",
+      "videos": 33,
+      "detailed": 33,
+      "dated": 33,
+      "playlists": 0,
+      "errors": 1
+    },
+    "476e78e0f868bb8b": {
+      "status": "complete",
+      "name": "Fire of Learning",
+      "videos": 138,
+      "detailed": 138,
+      "dated": 138,
+      "playlists": 28,
+      "errors": 0
+    },
+    "f5983f26b6a84630": {
+      "status": "complete",
+      "name": "The Great War",
+      "videos": 787,
+      "detailed": 787,
+      "dated": 787,
+      "playlists": 28,
+      "errors": 0
+    },
+    "a05eeb469ba6e82a": {
+      "status": "complete",
+      "name": "Drachinifel",
+      "videos": 1591,
+      "detailed": 1591,
+      "dated": 1591,
+      "playlists": 38,
+      "errors": 0
+    },
+    "f5602ae7512e6467": {
+      "status": "complete",
+      "name": "Lindybeige",
+      "videos": 834,
+      "detailed": 834,
+      "dated": 834,
+      "playlists": 30,
+      "errors": 0
+    },
+    "e3d3f41f7cab7804": {
+      "status": "complete",
+      "name": "InRangeTV",
+      "videos": 978,
+      "detailed": 978,
+      "dated": 978,
+      "playlists": 35,
+      "errors": 0
+    },
+    "ba0f67a693bd7d46": {
+      "status": "partial",
+      "name": "Invicta",
+      "videos": 1413,
+      "detailed": 1413,
+      "dated": 1413,
+      "playlists": 0,
+      "errors": 1
+    },
+    "49bcd9e528d1be04": {
+      "status": "complete",
+      "name": "Forgotten Weapons",
+      "videos": 3865,
+      "detailed": 3865,
+      "dated": 3865,
+      "playlists": 163,
+      "errors": 0
+    },
+    "6991951bf3a0c1c9": {
+      "status": "complete",
+      "name": "Fall of Civilizations",
+      "videos": 45,
+      "detailed": 45,
+      "dated": 45,
+      "playlists": 3,
+      "errors": 0
+    },
+    "607ba5726372bc5b": {
+      "status": "partial",
+      "name": "Weird History",
+      "videos": 1121,
+      "detailed": 1121,
+      "dated": 1121,
+      "playlists": 0,
+      "errors": 1
+    },
+    "80cacf98c4ec1512": {
+      "status": "complete",
+      "name": "Real Crusades History",
+      "videos": 425,
+      "detailed": 425,
+      "dated": 425,
+      "playlists": 46,
+      "errors": 0
+    },
+    "be2c4406f5f81e40": {
+      "status": "partial",
+      "name": "The Chieftain",
+      "videos": 482,
+      "detailed": 482,
+      "dated": 481,
+      "playlists": 0,
+      "errors": 1
+    },
+    "dc5e3021ff643d2e": {
+      "status": "partial",
+      "name": "Knowledgia",
+      "videos": 382,
+      "detailed": 382,
+      "dated": 382,
+      "playlists": 0,
+      "errors": 1
+    },
+    "ded45431ca4537a4": {
+      "status": "complete",
+      "name": "Extra Credits",
+      "videos": 588,
+      "detailed": 588,
+      "dated": 588,
+      "playlists": 10,
+      "errors": 0
+    },
+    "fad9080208954c4f": {
+      "status": "complete",
+      "name": "Rex's Hangar",
+      "videos": 257,
+      "detailed": 257,
+      "dated": 257,
+      "playlists": 9,
+      "errors": 0
+    },
+    "7354c6a58affa170": {
+      "status": "complete",
+      "name": "Lost History with Ancient Swan",
+      "videos": 32,
+      "detailed": 32,
+      "dated": 32,
+      "playlists": 0,
+      "errors": 0
+    },
+    "ed8d91cc70caa9cf": {
+      "status": "complete",
+      "name": "Captivating History",
+      "videos": 738,
+      "detailed": 738,
+      "dated": 738,
+      "playlists": 13,
+      "errors": 0
+    },
+    "c8d5792895cc0572": {
+      "status": "complete",
+      "name": "WW1 [Playlist]",
+      "videos": 22,
+      "detailed": 22,
+      "dated": 22,
+      "playlists": 1,
+      "errors": 0
+    },
+    "ff77f62406e352ad": {
+      "status": "complete",
+      "name": "WW2 [Playlist]",
+      "videos": 330,
+      "detailed": 330,
+      "dated": 330,
+      "playlists": 1,
+      "errors": 0
+    },
+    "feac6159f8ed9d3e": {
+      "status": "not_indexed",
+      "name": "PLANTERINA"
+    },
+    "e48b10bc2a15876f": {
+      "status": "partial",
+      "name": "Nick Pileggi",
+      "videos": 454,
+      "detailed": 454,
+      "dated": 454,
+      "playlists": 10,
+      "errors": 1
+    },
+    "1a61948389251792": {
+      "status": "complete",
+      "name": "SerpaDesign",
+      "videos": 428,
+      "detailed": 428,
+      "dated": 428,
+      "playlists": 25,
+      "errors": 0
+    },
+    "58e9a0be8d842470": {
+      "status": "complete",
+      "name": "Asu",
+      "videos": 55,
+      "detailed": 55,
+      "dated": 55,
+      "playlists": 0,
+      "errors": 0
+    },
+    "95a69c68de7c6357": {
+      "status": "complete",
+      "name": "Jartopia",
+      "videos": 47,
+      "detailed": 47,
+      "dated": 47,
+      "playlists": 10,
+      "errors": 0
+    },
+    "df70d3b2cb6cbd03": {
+      "status": "complete",
+      "name": "MD Fish Tanks",
+      "videos": 990,
+      "detailed": 990,
+      "dated": 990,
+      "playlists": 51,
+      "errors": 0
+    },
+    "e25c77c26127e55b": {
+      "status": "complete",
+      "name": "SethEverman",
+      "videos": 44,
+      "detailed": 44,
+      "dated": 44,
+      "playlists": 4,
+      "errors": 0
+    },
+    "2409a57687ec2047": {
+      "status": "complete",
+      "name": "Dillon The Hacker",
+      "videos": 194,
+      "detailed": 194,
+      "dated": 194,
+      "playlists": 14,
+      "errors": 0
+    },
+    "7a57cf7d38a87e52": {
+      "status": "complete",
+      "name": "bill wurtz",
+      "videos": 438,
+      "detailed": 438,
+      "dated": 438,
+      "playlists": 12,
+      "errors": 0
+    },
+    "140095a1e4d1e229": {
+      "status": "partial",
+      "name": "Crash Course",
+      "videos": 1703,
+      "detailed": 1703,
+      "dated": 1703,
+      "playlists": 0,
+      "errors": 1
+    },
+    "8efc215253d6c920": {
+      "status": "partial",
+      "name": "Khan Academy",
+      "videos": 9195,
+      "detailed": 9195,
+      "dated": 9195,
+      "playlists": 0,
+      "errors": 1
+    },
+    "6fbda537b72a1160": {
+      "status": "partial",
+      "name": "AK Lectures",
+      "videos": 2015,
+      "detailed": 2015,
+      "dated": 2015,
+      "playlists": 0,
+      "errors": 1
+    },
+    "b61ecfc9cb5690a9": {
+      "status": "partial",
+      "name": "Michel van Biezen",
+      "videos": 10164,
+      "detailed": 10164,
+      "dated": 10164,
+      "playlists": 0,
+      "errors": 1
+    },
+    "6c94979f992d457b": {
+      "status": "partial",
+      "name": "MIT OpenCourseWare",
+      "videos": 8112,
+      "detailed": 8112,
+      "dated": 8112,
+      "playlists": 0,
+      "errors": 1
+    },
+    "68a8e4d23417eaa3": {
+      "status": "partial",
+      "name": "Bozeman Science",
+      "videos": 709,
+      "detailed": 709,
+      "dated": 709,
+      "playlists": 0,
+      "errors": 1
+    },
+    "e52ee9e5e7ad313d": {
+      "status": "partial",
+      "name": "YaleCourses",
+      "videos": 2415,
+      "detailed": 2415,
+      "dated": 2415,
+      "playlists": 0,
+      "errors": 1
+    },
+    "7283e3582cfe975f": {
+      "status": "complete",
+      "name": "Harvard Physics",
+      "videos": 67,
+      "detailed": 67,
+      "dated": 67,
+      "playlists": 4,
+      "errors": 0
+    },
+    "0b76fe660d42587e": {
+      "status": "partial",
+      "name": "Professor Dave Explains",
+      "videos": 1989,
+      "detailed": 1989,
+      "dated": 1989,
+      "playlists": 0,
+      "errors": 1
+    },
+    "1e8f160fe8dd1852": {
+      "status": "partial",
+      "name": "3Blue1Brown",
+      "videos": 152,
+      "detailed": 152,
+      "dated": 152,
+      "playlists": 0,
+      "errors": 1
+    },
+    "7871dda285021b23": {
+      "status": "complete",
+      "name": "Numberphile",
+      "videos": 818,
+      "detailed": 818,
+      "dated": 818,
+      "playlists": 104,
+      "errors": 0
+    },
+    "119ac53452ac2bec": {
+      "status": "complete",
+      "name": "PBS Infinite Series",
+      "videos": 65,
+      "detailed": 65,
+      "dated": 65,
+      "playlists": 7,
+      "errors": 0
+    },
+    "45190a567c95c363": {
+      "status": "partial",
+      "name": "Eddie Woo",
+      "videos": 5043,
+      "detailed": 5043,
+      "dated": 5043,
+      "playlists": 0,
+      "errors": 1
+    },
+    "ed82c68385366f04": {
+      "status": "not_indexed",
+      "name": "Vihart"
+    },
+    "bfbac7562d179a57": {
+      "status": "complete",
+      "name": "Stand-up Maths",
+      "videos": 319,
+      "detailed": 319,
+      "dated": 319,
+      "playlists": 4,
+      "errors": 0
+    },
+    "ca05a5a578a21b38": {
+      "status": "complete",
+      "name": "Mathologer",
+      "videos": 113,
+      "detailed": 113,
+      "dated": 113,
+      "playlists": 7,
+      "errors": 0
+    },
+    "2b059ddfbd558610": {
+      "status": "partial",
+      "name": "patrickJMT",
+      "videos": 2067,
+      "detailed": 2067,
+      "dated": 2067,
+      "playlists": 0,
+      "errors": 1
+    },
+    "620af6e72e4f426b": {
+      "status": "complete",
+      "name": "Tipping Point Math",
+      "videos": 48,
+      "detailed": 48,
+      "dated": 48,
+      "playlists": 0,
+      "errors": 0
+    },
+    "09e5d4419fa9e073": {
+      "status": "complete",
+      "name": "Think Twice",
+      "videos": 33,
+      "detailed": 33,
+      "dated": 33,
+      "playlists": 0,
+      "errors": 0
+    },
+    "dbfec18222248f02": {
+      "status": "partial",
+      "name": "blackpenredpen",
+      "videos": 2424,
+      "detailed": 2424,
+      "dated": 2424,
+      "playlists": 0,
+      "errors": 1
+    },
+    "b890f99621a551aa": {
+      "status": "complete",
+      "name": "MindYourDecisions",
+      "videos": 1062,
+      "detailed": 1062,
+      "dated": 1062,
+      "playlists": 19,
+      "errors": 0
+    },
+    "dc94a7133df591cb": {
+      "status": "partial",
+      "name": "Richard E. BORCHERDS",
+      "videos": 466,
+      "detailed": 466,
+      "dated": 466,
+      "playlists": 0,
+      "errors": 1
+    },
+    "d9cc311dac299e51": {
+      "status": "partial",
+      "name": "Dr. Trefor Bazett",
+      "videos": 608,
+      "detailed": 608,
+      "dated": 608,
+      "playlists": 0,
+      "errors": 1
+    },
+    "9c08db8c2bbf6ae8": {
+      "status": "complete",
+      "name": "Professor Leonard",
+      "videos": 1217,
+      "detailed": 1217,
+      "dated": 1217,
+      "playlists": 0,
+      "errors": 0
+    },
+    "775ac941871b871d": {
+      "status": "complete",
+      "name": "Tibees",
+      "videos": 273,
+      "detailed": 273,
+      "dated": 273,
+      "playlists": 18,
+      "errors": 0
+    },
+    "825b0aa888672277": {
+      "status": "partial",
+      "name": "Michael Penn",
+      "videos": 2292,
+      "detailed": 2292,
+      "dated": 2292,
+      "playlists": 0,
+      "errors": 1
+    },
+    "5a94060b5138b63e": {
+      "status": "complete",
+      "name": "zhuli",
+      "videos": 17,
+      "detailed": 17,
+      "dated": 17,
+      "playlists": 2,
+      "errors": 0
+    },
+    "b60f98026eac3914": {
+      "status": "complete",
+      "name": "Mateusz M",
+      "videos": 27,
+      "detailed": 27,
+      "dated": 27,
+      "playlists": 3,
+      "errors": 0
+    },
+    "13e0824517fbcf64": {
+      "status": "complete",
+      "name": "Better Ideas",
+      "videos": 128,
+      "detailed": 128,
+      "dated": 128,
+      "playlists": 1,
+      "errors": 0
+    },
+    "1cac954c4b13a397": {
+      "status": "complete",
+      "name": "George Collier",
+      "videos": 340,
+      "detailed": 340,
+      "dated": 340,
+      "playlists": 7,
+      "errors": 0
+    },
+    "9df58352bf93d152": {
+      "status": "complete",
+      "name": "12tone",
+      "videos": 397,
+      "detailed": 397,
+      "dated": 397,
+      "playlists": 7,
+      "errors": 0
+    },
+    "fb3a6ee90b0af834": {
+      "status": "complete",
+      "name": "Tony Ann",
+      "videos": 307,
+      "detailed": 307,
+      "dated": 307,
+      "playlists": 15,
+      "errors": 0
+    },
+    "be88268271c84a0f": {
+      "status": "not_indexed",
+      "name": "Frank Watkinson"
+    },
+    "f5308c5ed45c492b": {
+      "status": "complete",
+      "name": "Kyle Landry",
+      "videos": 898,
+      "detailed": 898,
+      "dated": 898,
+      "playlists": 26,
+      "errors": 0
+    },
+    "100d44bbfac1439f": {
+      "status": "partial",
+      "name": "Paul Davids",
+      "videos": 454,
+      "detailed": 454,
+      "dated": 454,
+      "playlists": 0,
+      "errors": 1
+    },
+    "f8dc586549a8c2d1": {
+      "status": "complete",
+      "name": "Alex Ball",
+      "videos": 273,
+      "detailed": 273,
+      "dated": 273,
+      "playlists": 24,
+      "errors": 0
+    },
+    "f90408cc07f4cd94": {
+      "status": "complete",
+      "name": "Ichika Nito",
+      "videos": 512,
+      "detailed": 512,
+      "dated": 512,
+      "playlists": 9,
+      "errors": 0
+    },
+    "6e65b20245663e53": {
+      "status": "complete",
+      "name": "ibi",
+      "videos": 83,
+      "detailed": 83,
+      "dated": 83,
+      "playlists": 3,
+      "errors": 0
+    },
+    "6075877fabdaeee8": {
+      "status": "complete",
+      "name": "Mariana Froes",
+      "videos": 64,
+      "detailed": 64,
+      "dated": 64,
+      "playlists": 2,
+      "errors": 0
+    },
+    "b557bee63c30cf01": {
+      "status": "complete",
+      "name": "CharlesBerthoud",
+      "videos": 485,
+      "detailed": 485,
+      "dated": 485,
+      "playlists": 6,
+      "errors": 0
+    },
+    "e946d0b31903bb8e": {
+      "status": "complete",
+      "name": "Daniel Thrasher",
+      "videos": 357,
+      "detailed": 357,
+      "dated": 357,
+      "playlists": 9,
+      "errors": 0
+    },
+    "77a13622a909062f": {
+      "status": "complete",
+      "name": "The Dooo",
+      "videos": 414,
+      "detailed": 414,
+      "dated": 414,
+      "playlists": 14,
+      "errors": 0
+    },
+    "d641a6780b0490d1": {
+      "status": "partial",
+      "name": "Harry Mack",
+      "videos": 492,
+      "detailed": 492,
+      "dated": 492,
+      "playlists": 0,
+      "errors": 1
+    },
+    "606f087a96a6e12e": {
+      "status": "complete",
+      "name": "Fkj",
+      "videos": 72,
+      "detailed": 72,
+      "dated": 72,
+      "playlists": 6,
+      "errors": 0
+    },
+    "b3f41e4b53a26057": {
+      "status": "complete",
+      "name": "Markus Veltri",
+      "videos": 175,
+      "detailed": 175,
+      "dated": 175,
+      "playlists": 9,
+      "errors": 0
+    },
+    "c61606f63b6353dc": {
+      "status": "complete",
+      "name": "Marc Rebillet",
+      "videos": 172,
+      "detailed": 172,
+      "dated": 172,
+      "playlists": 10,
+      "errors": 0
+    },
+    "5d51ee2124845fb1": {
+      "status": "not_indexed",
+      "name": "DOMi & JD Beck"
+    },
+    "dac615f811e50219": {
+      "status": "complete",
+      "name": "Lara6683",
+      "videos": 944,
+      "detailed": 944,
+      "dated": 944,
+      "playlists": 11,
+      "errors": 0
+    },
+    "a4ced908ddf27986": {
+      "status": "complete",
+      "name": "Majestic Casual",
+      "videos": 2422,
+      "detailed": 2422,
+      "dated": 2422,
+      "playlists": 28,
+      "errors": 0
+    },
+    "3e04bc68d2e411ae": {
+      "status": "complete",
+      "name": "MrSuicideSheep",
+      "videos": 3942,
+      "detailed": 3942,
+      "dated": 3942,
+      "playlists": 0,
+      "errors": 0
+    },
+    "fc4005d4e6b52834": {
+      "status": "complete",
+      "name": "Steezyasfuck",
+      "videos": 513,
+      "detailed": 513,
+      "dated": 513,
+      "playlists": 11,
+      "errors": 0
+    },
+    "eb3c79032ee206e4": {
+      "status": "complete",
+      "name": "Adam Neely",
+      "videos": 492,
+      "detailed": 492,
+      "dated": 492,
+      "playlists": 18,
+      "errors": 0
+    },
+    "bcaa73ffaf475dfb": {
+      "status": "complete",
+      "name": "David Bruce Composer",
+      "videos": 157,
+      "detailed": 157,
+      "dated": 157,
+      "playlists": 15,
+      "errors": 0
+    },
+    "0e797a1147c89432": {
+      "status": "complete",
+      "name": "Sideways",
+      "videos": 57,
+      "detailed": 57,
+      "dated": 57,
+      "playlists": 0,
+      "errors": 0
+    },
+    "a412fc0eb0fff674": {
+      "status": "partial",
+      "name": "8-bit Music Theory",
+      "videos": 219,
+      "detailed": 219,
+      "dated": 219,
+      "playlists": 0,
+      "errors": 1
+    },
+    "79141cb843e6174c": {
+      "status": "complete",
+      "name": "Captain Pikant",
+      "videos": 53,
+      "detailed": 53,
+      "dated": 53,
+      "playlists": 6,
+      "errors": 0
+    },
+    "8dec8235e6cee792": {
+      "status": "complete",
+      "name": "Electrónicos Fantásticos!",
+      "videos": 48,
+      "detailed": 48,
+      "dated": 48,
+      "playlists": 12,
+      "errors": 0
+    },
+    "a31e1c93bc3d295e": {
+      "status": "complete",
+      "name": "Dolomuse",
+      "videos": 50,
+      "detailed": 50,
+      "dated": 50,
+      "playlists": 8,
+      "errors": 0
+    },
+    "3d6189ac6f539196": {
+      "status": "complete",
+      "name": "Listening In",
+      "videos": 67,
+      "detailed": 67,
+      "dated": 67,
+      "playlists": 6,
+      "errors": 0
+    },
+    "df0b8ccd83af7d8c": {
+      "status": "partial",
+      "name": "Tantacrul",
+      "videos": 38,
+      "detailed": 38,
+      "dated": 38,
+      "playlists": 11,
+      "errors": 1
+    },
+    "1fde11578d3e77e9": {
+      "status": "complete",
+      "name": "Charles Cornell",
+      "videos": 472,
+      "detailed": 472,
+      "dated": 472,
+      "playlists": 8,
+      "errors": 0
+    },
+    "5192c8f34b0d2ba1": {
+      "status": "partial",
+      "name": "David Bennett Piano",
+      "videos": 461,
+      "detailed": 461,
+      "dated": 461,
+      "playlists": 0,
+      "errors": 1
+    },
+    "6d780005f3641a71": {
+      "status": "complete",
+      "name": "Primitive Technology",
+      "videos": 107,
+      "detailed": 107,
+      "dated": 107,
+      "playlists": 8,
+      "errors": 0
+    },
+    "b102c743d51a0a20": {
+      "status": "partial",
+      "name": "Self Sufficient Me",
+      "videos": 740,
+      "detailed": 740,
+      "dated": 740,
+      "playlists": 0,
+      "errors": 1
+    },
+    "ed51df164c053ab7": {
+      "status": "complete",
+      "name": "Kraig Adams",
+      "videos": 249,
+      "detailed": 249,
+      "dated": 249,
+      "playlists": 0,
+      "errors": 0
+    },
+    "35e014eec9b6d55d": {
+      "status": "complete",
+      "name": "Alaska to Argentina on Honda 90's",
+      "videos": 18,
+      "detailed": 18,
+      "dated": 18,
+      "playlists": 1,
+      "errors": 0
+    },
+    "1eefdf60deb41b9b": {
+      "status": "partial",
+      "name": "Beau Miles",
+      "videos": 97,
+      "detailed": 97,
+      "dated": 97,
+      "playlists": 0,
+      "errors": 1
+    },
+    "2f93f8c3a84bf39a": {
+      "status": "complete",
+      "name": "Bertram - Craft and Wilderness",
+      "videos": 98,
+      "detailed": 98,
+      "dated": 98,
+      "playlists": 2,
+      "errors": 0
+    },
+    "89f69519d7d4312d": {
+      "status": "complete",
+      "name": "Patagonia",
+      "videos": 32,
+      "detailed": 32,
+      "dated": 32,
+      "playlists": 1,
+      "errors": 0
+    },
+    "a781bc951c494ac5": {
+      "status": "complete",
+      "name": "AlfieAesthetics",
+      "videos": 80,
+      "detailed": 80,
+      "dated": 80,
+      "playlists": 4,
+      "errors": 0
+    },
+    "0602538c2699cfb4": {
+      "status": "complete",
+      "name": "Learn Your Land",
+      "videos": 241,
+      "detailed": 241,
+      "dated": 241,
+      "playlists": 6,
+      "errors": 0
+    },
+    "e47142a22a38a838": {
+      "status": "complete",
+      "name": "Yellow Elanor",
+      "videos": 32,
+      "detailed": 32,
+      "dated": 32,
+      "playlists": 4,
+      "errors": 0
+    },
+    "3d3617490de31b15": {
+      "status": "complete",
+      "name": "Paul Stamets",
+      "videos": 112,
+      "detailed": 112,
+      "dated": 112,
+      "playlists": 1,
+      "errors": 0
+    },
+    "719f1a640e8c3489": {
+      "status": "complete",
+      "name": "MCQBushcraft",
+      "videos": 159,
+      "detailed": 159,
+      "dated": 159,
+      "playlists": 20,
+      "errors": 0
+    },
+    "7559e45bc025ed83": {
+      "status": "complete",
+      "name": "Nagualero",
+      "videos": 108,
+      "detailed": 108,
+      "dated": 108,
+      "playlists": 2,
+      "errors": 0
+    },
+    "9610858bf4b20ddd": {
+      "status": "complete",
+      "name": "Primitive Skills",
+      "videos": 419,
+      "detailed": 419,
+      "dated": 419,
+      "playlists": 21,
+      "errors": 0
+    },
+    "6b706892c39b22a9": {
+      "status": "complete",
+      "name": "Bound For Nowhere",
+      "videos": 167,
+      "detailed": 167,
+      "dated": 167,
+      "playlists": 22,
+      "errors": 0
+    },
+    "69acc7cbdb161788": {
+      "status": "complete",
+      "name": "Foresty Forest",
+      "videos": 364,
+      "detailed": 364,
+      "dated": 364,
+      "playlists": 2,
+      "errors": 0
+    },
+    "430718e1377def87": {
+      "status": "complete",
+      "name": "Jungle Survival",
+      "videos": 460,
+      "detailed": 460,
+      "dated": 460,
+      "playlists": 11,
+      "errors": 0
+    },
+    "06c68429138c729c": {
+      "status": "complete",
+      "name": "Primitive Survival Tool",
+      "videos": 321,
+      "detailed": 321,
+      "dated": 321,
+      "playlists": 3,
+      "errors": 0
+    },
+    "1b67b65e8f9d7f30": {
+      "status": "complete",
+      "name": "Exurb1a",
+      "videos": 86,
+      "detailed": 86,
+      "dated": 86,
+      "playlists": 9,
+      "errors": 0
+    },
+    "7e0e38e39510a2f3": {
+      "status": "complete",
+      "name": "Dictionary of Obscure Sorrows",
+      "videos": 30,
+      "detailed": 30,
+      "dated": 30,
+      "playlists": 3,
+      "errors": 0
+    },
+    "97184ccf5451b629": {
+      "status": "complete",
+      "name": "Sisyphus 55",
+      "videos": 287,
+      "detailed": 287,
+      "dated": 287,
+      "playlists": 15,
+      "errors": 0
+    },
+    "dd1eb72ab2c020d1": {
+      "status": "complete",
+      "name": "Pursuit of Wonder",
+      "videos": 326,
+      "detailed": 326,
+      "dated": 326,
+      "playlists": 0,
+      "errors": 0
+    },
+    "de7d0835ff7e741b": {
+      "status": "partial",
+      "name": "Minutephysics",
+      "videos": 303,
+      "detailed": 303,
+      "dated": 303,
+      "playlists": 0,
+      "errors": 1
+    },
+    "8a1d6b452ead4d64": {
+      "status": "partial",
+      "name": "PBS Space Time",
+      "videos": 445,
+      "detailed": 445,
+      "dated": 445,
+      "playlists": 0,
+      "errors": 1
+    },
+    "4250fe065a7255b5": {
+      "status": "complete",
+      "name": "Fermilab",
+      "videos": 444,
+      "detailed": 444,
+      "dated": 444,
+      "playlists": 22,
+      "errors": 0
+    },
+    "015ed962154ce8b1": {
+      "status": "complete",
+      "name": "The Science Asylum",
+      "videos": 212,
+      "detailed": 212,
+      "dated": 212,
+      "playlists": 18,
+      "errors": 0
+    },
+    "d6410e1d23f44d64": {
+      "status": "partial",
+      "name": "Physics with Elliot",
+      "videos": 34,
+      "detailed": 34,
+      "dated": 34,
+      "playlists": 0,
+      "errors": 1
+    },
+    "090ae5a42dbf203f": {
+      "status": "partial",
+      "name": "Physics Girl",
+      "videos": 198,
+      "detailed": 198,
+      "dated": 198,
+      "playlists": 0,
+      "errors": 1
+    },
+    "cceeb08ced853c4c": {
+      "status": "complete",
+      "name": "Physics Videos by Eugene",
+      "videos": 156,
+      "detailed": 156,
+      "dated": 156,
+      "playlists": 20,
+      "errors": 0
+    },
+    "5c07485646dcd01c": {
+      "status": "partial",
+      "name": "ScienceClic English",
+      "videos": 61,
+      "detailed": 61,
+      "dated": 61,
+      "playlists": 0,
+      "errors": 1
+    },
+    "ed4164d52f6aefe0": {
+      "status": "complete",
+      "name": "braintruffle",
+      "videos": 11,
+      "detailed": 11,
+      "dated": 11,
+      "playlists": 1,
+      "errors": 0
+    },
+    "ec9b148aeb1c9502": {
+      "status": "complete",
+      "name": "Xenosum",
+      "videos": 6,
+      "detailed": 6,
+      "dated": 6,
+      "playlists": 1,
+      "errors": 0
+    },
+    "2a301a215e0f93bf": {
+      "status": "partial",
+      "name": "DrPhysicsA",
+      "videos": 223,
+      "detailed": 223,
+      "dated": 223,
+      "playlists": 0,
+      "errors": 1
+    },
+    "7258b0339a6853d4": {
+      "status": "complete",
+      "name": "For the Allure of Physics",
+      "videos": 99,
+      "detailed": 99,
+      "dated": 99,
+      "playlists": 3,
+      "errors": 0
+    },
+    "a4e5dc59ecbbee9b": {
+      "status": "complete",
+      "name": "ViaScience",
+      "videos": 104,
+      "detailed": 104,
+      "dated": 104,
+      "playlists": 7,
+      "errors": 0
+    },
+    "1d135edcf2a5cd9c": {
+      "status": "partial",
+      "name": "XylyXylyX",
+      "videos": 298,
+      "detailed": 298,
+      "dated": 298,
+      "playlists": 0,
+      "errors": 1
+    },
+    "883f7020749d5dfb": {
+      "status": "complete",
+      "name": "Sixty Symbols",
+      "videos": 431,
+      "detailed": 431,
+      "dated": 431,
+      "playlists": 29,
+      "errors": 0
+    },
+    "54992568183fb9ec": {
+      "status": "partial",
+      "name": "PhysicsHigh",
+      "videos": 419,
+      "detailed": 419,
+      "dated": 419,
+      "playlists": 0,
+      "errors": 1
+    },
+    "be0c70eab2cbbdbf": {
+      "status": "complete",
+      "name": "Parth G",
+      "videos": 157,
+      "detailed": 157,
+      "dated": 157,
+      "playlists": 12,
+      "errors": 0
+    },
+    "0dadee9a31335aac": {
+      "status": "partial",
+      "name": "Looking Glass Universe",
+      "videos": 100,
+      "detailed": 100,
+      "dated": 100,
+      "playlists": 0,
+      "errors": 1
+    },
+    "bd8a4e72cbf9c1f3": {
+      "status": "complete",
+      "name": "Arvin Ash",
+      "videos": 278,
+      "detailed": 278,
+      "dated": 278,
+      "playlists": 16,
+      "errors": 0
+    },
+    "aed545529f9968dc": {
+      "status": "complete",
+      "name": "Physics Explained",
+      "videos": 67,
+      "detailed": 67,
+      "dated": 67,
+      "playlists": 7,
+      "errors": 0
+    },
+    "2b64c5f85c3df709": {
+      "status": "complete",
+      "name": "The Biggest Ideas in the Universe",
+      "videos": 48,
+      "detailed": 48,
+      "dated": 48,
+      "playlists": 1,
+      "errors": 0
+    },
+    "ec13cbd72e0894b5": {
+      "status": "partial",
+      "name": "Eigenchris",
+      "videos": 145,
+      "detailed": 145,
+      "dated": 145,
+      "playlists": 0,
+      "errors": 1
+    },
+    "8c98b15b8f6ecd3b": {
+      "status": "complete",
+      "name": "Flipping Physics",
+      "videos": 752,
+      "detailed": 752,
+      "dated": 752,
+      "playlists": 0,
+      "errors": 0
+    },
+    "07d5dfb431ac2eb0": {
+      "status": "partial",
+      "name": "Physics Explained",
+      "videos": 1577,
+      "detailed": 1577,
+      "dated": 1577,
+      "playlists": 0,
+      "errors": 1
+    },
+    "54ccc9982fbdbbcd": {
+      "status": "partial",
+      "name": "Professor M does Science",
+      "videos": 97,
+      "detailed": 97,
+      "dated": 97,
+      "playlists": 0,
+      "errors": 1
+    },
+    "131f30fdfbcfd1d9": {
+      "status": "complete",
+      "name": "Applied Science",
+      "videos": 277,
+      "detailed": 277,
+      "dated": 277,
+      "playlists": 10,
+      "errors": 0
+    },
+    "fb0895cefebd414f": {
+      "status": "complete",
+      "name": "Thought Emporium",
+      "videos": 105,
+      "detailed": 105,
+      "dated": 105,
+      "playlists": 12,
+      "errors": 0
+    },
+    "217aab9fd107c4ce": {
+      "status": "complete",
+      "name": "StuffMadeHere",
+      "videos": 41,
+      "detailed": 41,
+      "dated": 41,
+      "playlists": 2,
+      "errors": 0
+    },
+    "b9336bf6442f0fe3": {
+      "status": "complete",
+      "name": "Saveitforparts",
+      "videos": 689,
+      "detailed": 689,
+      "dated": 689,
+      "playlists": 17,
+      "errors": 0
+    },
+    "c138551cc1f6627b": {
+      "status": "complete",
+      "name": "Advanced Tinkering",
+      "videos": 91,
+      "detailed": 91,
+      "dated": 91,
+      "playlists": 8,
+      "errors": 0
+    },
+    "c39b4e77569163b5": {
+      "status": "complete",
+      "name": "Jeremy Fielding",
+      "videos": 143,
+      "detailed": 143,
+      "dated": 143,
+      "playlists": 21,
+      "errors": 0
+    },
+    "58c17d6ebfc3a053": {
+      "status": "complete",
+      "name": "Tech Ingredients",
+      "videos": 183,
+      "detailed": 183,
+      "dated": 183,
+      "playlists": 21,
+      "errors": 0
+    },
+    "951541a57c00848d": {
+      "status": "complete",
+      "name": "Sam Zeloof",
+      "videos": 35,
+      "detailed": 35,
+      "dated": 35,
+      "playlists": 1,
+      "errors": 0
+    },
+    "059d036ed29a673a": {
+      "status": "partial",
+      "name": "Mark Rober",
+      "videos": 131,
+      "detailed": 131,
+      "dated": 131,
+      "playlists": 0,
+      "errors": 1
+    },
+    "0ad6019da495d633": {
+      "status": "complete",
+      "name": "Cody's Lab",
+      "videos": 785,
+      "detailed": 785,
+      "dated": 785,
+      "playlists": 15,
+      "errors": 0
+    },
+    "8237befb2d3f0fdd": {
+      "status": "complete",
+      "name": "Michael Reeves",
+      "videos": 52,
+      "detailed": 52,
+      "dated": 52,
+      "playlists": 1,
+      "errors": 0
+    },
+    "d63f3ac0d89fb47a": {
+      "status": "partial",
+      "name": "colinfurze",
+      "videos": 334,
+      "detailed": 330,
+      "dated": 328,
+      "playlists": 0,
+      "errors": 5
+    },
+    "37c8682d9cfce8bf": {
+      "status": "complete",
+      "name": "TheBackyardScientist",
+      "videos": 179,
+      "detailed": 179,
+      "dated": 179,
+      "playlists": 11,
+      "errors": 0
+    },
+    "82e0bf225a907959": {
+      "status": "complete",
+      "name": "The Post Apocalyptic Inventor",
+      "videos": 252,
+      "detailed": 252,
+      "dated": 252,
+      "playlists": 23,
+      "errors": 0
+    },
+    "7ef6870620d25907": {
+      "status": "complete",
+      "name": "Tom Stanton",
+      "videos": 150,
+      "detailed": 150,
+      "dated": 150,
+      "playlists": 16,
+      "errors": 0
+    },
+    "5541c6e56eb0b43b": {
+      "status": "complete",
+      "name": "PeterSripol",
+      "videos": 188,
+      "detailed": 188,
+      "dated": 188,
+      "playlists": 8,
+      "errors": 0
+    },
+    "e4eeea030fbb9829": {
+      "status": "complete",
+      "name": "rctestflight",
+      "videos": 692,
+      "detailed": 692,
+      "dated": 692,
+      "playlists": 14,
+      "errors": 0
+    },
+    "c1a34e72c7787d51": {
+      "status": "complete",
+      "name": "Huygens Optics",
+      "videos": 63,
+      "detailed": 63,
+      "dated": 63,
+      "playlists": 9,
+      "errors": 0
+    },
+    "5314078cac51e2a6": {
+      "status": "complete",
+      "name": "Teslista555",
+      "videos": 254,
+      "detailed": 254,
+      "dated": 254,
+      "playlists": 13,
+      "errors": 0
+    },
+    "40c884d325c6a7e9": {
+      "status": "complete",
+      "name": "Breaking Taps",
+      "videos": 81,
+      "detailed": 81,
+      "dated": 81,
+      "playlists": 9,
+      "errors": 0
+    },
+    "21664d2d7709de33": {
+      "status": "complete",
+      "name": "Robert Murray-Smith",
+      "videos": 2044,
+      "detailed": 2044,
+      "dated": 2044,
+      "playlists": 128,
+      "errors": 0
+    },
+    "6fba079e9c57cdae": {
+      "status": "partial",
+      "name": "Scott Yu-Jan",
+      "videos": 35,
+      "detailed": 35,
+      "dated": 35,
+      "playlists": 0,
+      "errors": 1
+    },
+    "659f436ead07329b": {
+      "status": "complete",
+      "name": "AnthroFuturism",
+      "videos": 23,
+      "detailed": 23,
+      "dated": 23,
+      "playlists": 0,
+      "errors": 0
+    },
+    "769ccbf4a989f7d9": {
+      "status": "complete",
+      "name": "TheSpaceBucket",
+      "videos": 931,
+      "detailed": 931,
+      "dated": 931,
+      "playlists": 0,
+      "errors": 0
+    },
+    "af0ccdc2843706dd": {
+      "status": "partial",
+      "name": "Anton Petrov",
+      "videos": 4392,
+      "detailed": 4392,
+      "dated": 4392,
+      "playlists": 0,
+      "errors": 1
+    },
+    "32a2bd23adde2d30": {
+      "status": "complete",
+      "name": "Deep Sky Videos",
+      "videos": 195,
+      "detailed": 195,
+      "dated": 195,
+      "playlists": 9,
+      "errors": 0
+    },
+    "1359b0754b1d1087": {
+      "status": "complete",
+      "name": "Everyday Astronaut",
+      "videos": 233,
+      "detailed": 233,
+      "dated": 233,
+      "playlists": 7,
+      "errors": 0
+    },
+    "a1c67b014edc3a37": {
+      "status": "complete",
+      "name": "John Michael Godier",
+      "videos": 710,
+      "detailed": 710,
+      "dated": 710,
+      "playlists": 28,
+      "errors": 0
+    },
+    "c4b0d4a4c09795ea": {
+      "status": "complete",
+      "name": "Marcus House",
+      "videos": 498,
+      "detailed": 498,
+      "dated": 498,
+      "playlists": 16,
+      "errors": 0
+    },
+    "4f6edcb60c6e1af3": {
+      "status": "partial",
+      "name": "SEA",
+      "videos": 87,
+      "detailed": 87,
+      "dated": 87,
+      "playlists": 0,
+      "errors": 1
+    },
+    "becb88af676b7326": {
+      "status": "partial",
+      "name": "Dr. Becky",
+      "videos": 402,
+      "detailed": 402,
+      "dated": 402,
+      "playlists": 0,
+      "errors": 1
+    },
+    "8ba61f3de68fcd4f": {
+      "status": "partial",
+      "name": "Isaac Arthur",
+      "videos": 790,
+      "detailed": 790,
+      "dated": 790,
+      "playlists": 0,
+      "errors": 1
+    },
+    "a755b1ccaeb57118": {
+      "status": "complete",
+      "name": "Sci Show Space",
+      "videos": 898,
+      "detailed": 898,
+      "dated": 898,
+      "playlists": 21,
+      "errors": 0
+    },
+    "7040fcf49096fb32": {
+      "status": "partial",
+      "name": "Astrum",
+      "videos": 458,
+      "detailed": 458,
+      "dated": 458,
+      "playlists": 0,
+      "errors": 1
+    },
+    "73e1b46716679521": {
+      "status": "complete",
+      "name": "Cool Worlds",
+      "videos": 230,
+      "detailed": 230,
+      "dated": 230,
+      "playlists": 10,
+      "errors": 0
+    },
+    "6043ccf7c7941447": {
+      "status": "complete",
+      "name": "Scott Manley",
+      "videos": 2907,
+      "detailed": 2907,
+      "dated": 2907,
+      "playlists": 110,
+      "errors": 0
+    },
+    "ac6f9acdea553176": {
+      "status": "partial",
+      "name": "David Butler",
+      "videos": 972,
+      "detailed": 972,
+      "dated": 972,
+      "playlists": 0,
+      "errors": 1
+    },
+    "c524588abb40f2e1": {
+      "status": "partial",
+      "name": "The Space Race",
+      "videos": 450,
+      "detailed": 450,
+      "dated": 450,
+      "playlists": 0,
+      "errors": 1
+    },
+    "6d9ba47ceefdca7b": {
+      "status": "complete",
+      "name": "History of the Universe",
+      "videos": 59,
+      "detailed": 59,
+      "dated": 59,
+      "playlists": 4,
+      "errors": 0
+    },
+    "bcb8c32e2b1ab3e6": {
+      "status": "complete",
+      "name": "Event Horizon",
+      "videos": 461,
+      "detailed": 461,
+      "dated": 461,
+      "playlists": 9,
+      "errors": 0
+    },
+    "a4523a825fc581da": {
+      "status": "complete",
+      "name": "Launch Pad Astronomy",
+      "videos": 214,
+      "detailed": 214,
+      "dated": 214,
+      "playlists": 28,
+      "errors": 0
+    },
+    "1a8834dd9414c035": {
+      "status": "complete",
+      "name": "Chandra X-ray Observatory",
+      "videos": 1174,
+      "detailed": 1174,
+      "dated": 1174,
+      "playlists": 46,
+      "errors": 0
+    },
+    "c2c2a5230fd88ec7": {
+      "status": "complete",
+      "name": "Primal Space",
+      "videos": 111,
+      "detailed": 111,
+      "dated": 111,
+      "playlists": 12,
+      "errors": 0
+    },
+    "7bccb5d4064f5290": {
+      "status": "complete",
+      "name": "The Vintage Space",
+      "videos": 335,
+      "detailed": 335,
+      "dated": 335,
+      "playlists": 7,
+      "errors": 0
+    },
+    "089c7750742df1a3": {
+      "status": "complete",
+      "name": "ParallaxNick",
+      "videos": 199,
+      "detailed": 199,
+      "dated": 199,
+      "playlists": 27,
+      "errors": 0
+    },
+    "0e80d3f3a9d9ac7d": {
+      "status": "complete",
+      "name": "Fraser Cain",
+      "videos": 1471,
+      "detailed": 1471,
+      "dated": 1471,
+      "playlists": 15,
+      "errors": 0
+    },
+    "a8552f5e0d32cabb": {
+      "status": "complete",
+      "name": "BPS.space",
+      "videos": 210,
+      "detailed": 210,
+      "dated": 210,
+      "playlists": 10,
+      "errors": 0
+    },
+    "dae0a42c26a7c5dd": {
+      "status": "complete",
+      "name": "JxmyHighroller",
+      "videos": 247,
+      "detailed": 247,
+      "dated": 247,
+      "playlists": 0,
+      "errors": 0
+    },
+    "6a4f5b13ac6422d4": {
+      "status": "complete",
+      "name": "Hockey Psychology",
+      "videos": 480,
+      "detailed": 480,
+      "dated": 480,
+      "playlists": 17,
+      "errors": 0
+    },
+    "dd74a86c5bc47958": {
+      "status": "complete",
+      "name": "VLSkate",
+      "videos": 434,
+      "detailed": 434,
+      "dated": 434,
+      "playlists": 7,
+      "errors": 0
+    },
+    "722e747cf937a82d": {
+      "status": "complete",
+      "name": "Indigo Traveller",
+      "videos": 425,
+      "detailed": 425,
+      "dated": 425,
+      "playlists": 45,
+      "errors": 0
+    },
+    "92632f4f85696359": {
+      "status": "complete",
+      "name": "Vagrant Holiday",
+      "videos": 8,
+      "detailed": 8,
+      "dated": 8,
+      "playlists": 1,
+      "errors": 0
+    },
+    "1228eaeab400a0bc": {
+      "status": "partial",
+      "name": "Gabriel Traveler",
+      "videos": 3208,
+      "detailed": 3208,
+      "dated": 3208,
+      "playlists": 0,
+      "errors": 1
+    },
+    "a3aca8959fb3851b": {
+      "status": "complete",
+      "name": "Karl Watson",
+      "videos": 175,
+      "detailed": 175,
+      "dated": 175,
+      "playlists": 49,
+      "errors": 0
+    },
+    "90df54f1d868c0b4": {
+      "status": "complete",
+      "name": "Christoph Rehage",
+      "videos": 1253,
+      "detailed": 1253,
+      "dated": 1253,
+      "playlists": 23,
+      "errors": 0
+    },
+    "478123ee1d6526a2": {
+      "status": "complete",
+      "name": "hobestobe",
+      "videos": 61,
+      "detailed": 61,
+      "dated": 61,
+      "playlists": 0,
+      "errors": 0
+    },
+    "2641c4d13e1f3297": {
+      "status": "complete",
+      "name": "Only in Japan",
+      "videos": 60,
+      "detailed": 60,
+      "dated": 60,
+      "playlists": 4,
+      "errors": 0
+    },
+    "4b8c1db2677b1da2": {
+      "status": "complete",
+      "name": "travelling the unknown",
+      "videos": 25,
+      "detailed": 25,
+      "dated": 25,
+      "playlists": 6,
+      "errors": 0
+    },
+    "47fa6194bf998890": {
+      "status": "complete",
+      "name": "The Tim Traveller",
+      "videos": 182,
+      "detailed": 182,
+      "dated": 182,
+      "playlists": 30,
+      "errors": 0
+    },
+    "63a073cdda7c714f": {
+      "status": "complete",
+      "name": "Eli from Russia",
+      "videos": 183,
+      "detailed": 183,
+      "dated": 183,
+      "playlists": 14,
+      "errors": 0
+    },
+    "31c6ef3a88526971": {
+      "status": "complete",
+      "name": "Rick Steves' Europe",
+      "videos": 2055,
+      "detailed": 2055,
+      "dated": 2055,
+      "playlists": 53,
+      "errors": 0
+    },
+    "ff6850095a582893": {
+      "status": "complete",
+      "name": "Kurt Caz",
+      "videos": 175,
+      "detailed": 175,
+      "dated": 175,
+      "playlists": 19,
+      "errors": 0
+    },
+    "1e4cf4bb586a6ff6": {
+      "status": "complete",
+      "name": "bald and bankrupt",
+      "videos": 235,
+      "detailed": 235,
+      "dated": 235,
+      "playlists": 18,
+      "errors": 0
+    },
+    "94479f2261e20a15": {
+      "status": "partial",
+      "name": "Ilia Bondarev",
+      "videos": 100,
+      "detailed": 100,
+      "dated": 100,
+      "playlists": 0,
+      "errors": 1
+    },
+    "d7ff17376727803b": {
+      "status": "complete",
+      "name": "Luke Korns",
+      "videos": 33,
+      "detailed": 33,
+      "dated": 33,
+      "playlists": 1,
+      "errors": 0
+    },
+    "67dfdf72b6111261": {
+      "status": "complete",
+      "name": "Hugh Abroad",
+      "videos": 115,
+      "detailed": 115,
+      "dated": 115,
+      "playlists": 9,
+      "errors": 0
+    },
+    "10d56cc483b88165": {
+      "status": "complete",
+      "name": "Matthias Wandel",
+      "videos": 924,
+      "detailed": 924,
+      "dated": 924,
+      "playlists": 6,
+      "errors": 0
+    },
+    "683efe1d7642cee2": {
+      "status": "complete",
+      "name": "AvE",
+      "videos": 893,
+      "detailed": 893,
+      "dated": 893,
+      "playlists": 7,
+      "errors": 0
+    },
+    "b863c0ebf587ae05": {
+      "status": "complete",
+      "name": "Blondihacks",
+      "videos": 410,
+      "detailed": 410,
+      "dated": 410,
+      "playlists": 32,
+      "errors": 0
+    },
+    "79725e7e2a94ff88": {
+      "status": "complete",
+      "name": "Dan Gelbart",
+      "videos": 26,
+      "detailed": 26,
+      "dated": 26,
+      "playlists": 2,
+      "errors": 0
+    },
+    "91201056431a69c5": {
+      "status": "complete",
+      "name": "Simone Giertz",
+      "videos": 142,
+      "detailed": 142,
+      "dated": 142,
+      "playlists": 6,
+      "errors": 0
+    },
+    "166b1a4613f3536a": {
+      "status": "complete",
+      "name": "Cosmas Bauer",
+      "videos": 157,
+      "detailed": 157,
+      "dated": 157,
+      "playlists": 9,
+      "errors": 0
+    },
+    "7ce982b64d7acbc1": {
+      "status": "complete",
+      "name": "This Old Tony",
+      "videos": 233,
+      "detailed": 233,
+      "dated": 233,
+      "playlists": 11,
+      "errors": 0
+    },
+    "77fa5ae87eaa97dd": {
+      "status": "complete",
+      "name": "Mrpete222",
+      "videos": 1953,
+      "detailed": 1953,
+      "dated": 1953,
+      "playlists": 40,
+      "errors": 0
+    },
+    "03fd7b58625e5da4": {
+      "status": "complete",
+      "name": "Myfordboy",
+      "videos": 536,
+      "detailed": 536,
+      "dated": 536,
+      "playlists": 38,
+      "errors": 0
+    },
+    "48833522de65da3f": {
+      "status": "complete",
+      "name": "Luckygen1001",
+      "videos": 183,
+      "detailed": 183,
+      "dated": 183,
+      "playlists": 0,
+      "errors": 0
+    },
+    "66eabe139e694d7d": {
+      "status": "complete",
+      "name": "Tips from a Shipwright",
+      "videos": 251,
+      "detailed": 251,
+      "dated": 251,
+      "playlists": 24,
+      "errors": 0
+    },
+    "1fac0a5d4aa6d978": {
+      "status": "complete",
+      "name": "EngelsCoachShop",
+      "videos": 710,
+      "detailed": 710,
+      "dated": 710,
+      "playlists": 39,
+      "errors": 0
+    },
+    "c5c147d5624d40d6": {
+      "status": "complete",
+      "name": "The Luminary Shoppe",
+      "videos": 51,
+      "detailed": 51,
+      "dated": 51,
+      "playlists": 6,
+      "errors": 0
+    },
+    "57a0f0abc1440547": {
+      "status": "complete",
+      "name": "Machine Thinking",
+      "videos": 21,
+      "detailed": 21,
+      "dated": 21,
+      "playlists": 3,
+      "errors": 0
+    },
+    "b34d16cc47f32d52": {
+      "status": "complete",
+      "name": "MIT Machine Shop",
+      "videos": 10,
+      "detailed": 10,
+      "dated": 10,
+      "playlists": 1,
+      "errors": 0
+    },
+    "b7a1cd8a95e89552": {
+      "status": "complete",
+      "name": "Joe Pieczynski",
+      "videos": 505,
+      "detailed": 505,
+      "dated": 505,
+      "playlists": 38,
+      "errors": 0
+    },
+    "71c014dba41a558b": {
+      "status": "partial",
+      "name": "Clickspring",
+      "videos": 130,
+      "detailed": 130,
+      "dated": 130,
+      "playlists": 0,
+      "errors": 1
+    },
+    "1d768a8f0fac6b53": {
+      "status": "complete",
+      "name": "Peter Brown",
+      "videos": 333,
+      "detailed": 333,
+      "dated": 333,
+      "playlists": 42,
+      "errors": 0
+    },
+    "143270b2c1365446": {
+      "status": "complete",
+      "name": "WhyKnot",
+      "videos": 672,
+      "detailed": 672,
+      "dated": 672,
+      "playlists": 42,
+      "errors": 0
+    },
+    "a4af5a781762fb6f": {
+      "status": "complete",
+      "name": "First Class Amateur",
+      "videos": 747,
+      "detailed": 747,
+      "dated": 747,
+      "playlists": 6,
+      "errors": 0
+    },
+    "a80257e5ac54ba44": {
+      "status": "complete",
+      "name": "Internet Historian",
+      "videos": 47,
+      "detailed": 47,
+      "dated": 47,
+      "playlists": 3,
+      "errors": 0
+    },
+    "c82e9508c66084fe": {
+      "status": "complete",
+      "name": "Steve Cutts",
+      "videos": 13,
+      "detailed": 13,
+      "dated": 13,
+      "playlists": 1,
+      "errors": 0
+    },
+    "a83164c370ef4862": {
+      "status": "complete",
+      "name": "Bionerd23",
+      "videos": 220,
+      "detailed": 220,
+      "dated": 220,
+      "playlists": 12,
+      "errors": 0
+    },
+    "b558b8a4509f0ed6": {
+      "status": "complete",
+      "name": "LockPickingLawyer",
+      "videos": 1662,
+      "detailed": 1662,
+      "dated": 1662,
+      "playlists": 23,
+      "errors": 0
+    },
+    "22685900aa35d09f": {
+      "status": "complete",
+      "name": "EdwardCurrent",
+      "videos": 141,
+      "detailed": 141,
+      "dated": 141,
+      "playlists": 5,
+      "errors": 0
+    },
+    "832b93202a47d3ff": {
+      "status": "complete",
+      "name": "The Slow Mo Guys",
+      "videos": 353,
+      "detailed": 353,
+      "dated": 353,
+      "playlists": 14,
+      "errors": 0
+    },
+    "faa98e1867030047": {
+      "status": "complete",
+      "name": "Objectivity",
+      "videos": 315,
+      "detailed": 315,
+      "dated": 315,
+      "playlists": 25,
+      "errors": 0
+    },
+    "447f647654df0150": {
+      "status": "complete",
+      "name": "Sharkee",
+      "videos": 55,
+      "detailed": 55,
+      "dated": 55,
+      "playlists": 3,
+      "errors": 0
+    },
+    "8ace4ab514e9b4e8": {
+      "status": "complete",
+      "name": "Mikasacus",
+      "videos": 216,
+      "detailed": 216,
+      "dated": 216,
+      "playlists": 13,
+      "errors": 0
+    },
+    "ff221df7b86554f8": {
+      "status": "complete",
+      "name": "Thomas Schwenke",
+      "videos": 74,
+      "detailed": 74,
+      "dated": 74,
+      "playlists": 7,
+      "errors": 0
+    },
+    "4b0fbe600bf39a88": {
+      "status": "partial",
+      "name": "Seeker",
+      "videos": 4147,
+      "detailed": 4147,
+      "dated": 4147,
+      "playlists": 0,
+      "errors": 1
+    },
+    "2ae8b345af44c370": {
+      "status": "complete",
+      "name": "BG Kumbi",
+      "videos": 253,
+      "detailed": 253,
+      "dated": 253,
+      "playlists": 7,
+      "errors": 0
+    },
+    "a1263641234dd45c": {
+      "status": "complete",
+      "name": "Disrupt",
+      "videos": 210,
+      "detailed": 210,
+      "dated": 210,
+      "playlists": 11,
+      "errors": 0
+    },
+    "ce3a01b2d6bdb53c": {
+      "status": "complete",
+      "name": "Company Man",
+      "videos": 498,
+      "detailed": 498,
+      "dated": 498,
+      "playlists": 59,
+      "errors": 0
+    },
+    "cef83207e6624d44": {
+      "status": "complete",
+      "name": "Booking Hunter TV",
+      "videos": 212,
+      "detailed": 212,
+      "dated": 212,
+      "playlists": 36,
+      "errors": 0
+    },
+    "e898db8ddc34cd6b": {
+      "status": "partial",
+      "name": "Simply Explained",
+      "videos": 134,
+      "detailed": 134,
+      "dated": 134,
+      "playlists": 0,
+      "errors": 1
+    },
+    "01cc98ca70350004": {
+      "status": "complete",
+      "name": "Captain Disillusion",
+      "videos": 112,
+      "detailed": 112,
+      "dated": 112,
+      "playlists": 7,
+      "errors": 0
+    },
+    "7ad7f20914b9f7eb": {
+      "status": "complete",
+      "name": "Robin Baumgarten",
+      "videos": 49,
+      "detailed": 49,
+      "dated": 49,
+      "playlists": 5,
+      "errors": 0
+    },
+    "ff8c564bf0acc000": {
+      "status": "partial",
+      "name": "Daily Dose Of Internet",
+      "videos": 887,
+      "detailed": 887,
+      "dated": 887,
+      "playlists": 0,
+      "errors": 1
+    },
+    "d2f4ab1acb9774e6": {
+      "status": "complete",
+      "name": "Sciencium",
+      "videos": 7,
+      "detailed": 7,
+      "dated": 7,
+      "playlists": 0,
+      "errors": 0
+    },
+    "9f17773ec9d0d36e": {
+      "status": "complete",
+      "name": "Rare Earth",
+      "videos": 242,
+      "detailed": 242,
+      "dated": 242,
+      "playlists": 6,
+      "errors": 0
+    },
+    "f81503b97b4a3f5b": {
+      "status": "complete",
+      "name": "hochelaga",
+      "videos": 82,
+      "detailed": 82,
+      "dated": 82,
+      "playlists": 9,
+      "errors": 0
+    },
+    "6722b6f0414247f4": {
+      "status": "complete",
+      "name": "Not Just Bikes",
+      "videos": 122,
+      "detailed": 122,
+      "dated": 122,
+      "playlists": 20,
+      "errors": 0
+    },
+    "013c258190821a4f": {
+      "status": "complete",
+      "name": "blancolirio",
+      "videos": 2117,
+      "detailed": 2117,
+      "dated": 2117,
+      "playlists": 57,
+      "errors": 0
+    },
+    "02277f20901ed152": {
+      "status": "complete",
+      "name": "Grand Illusions",
+      "videos": 1720,
+      "detailed": 1720,
+      "dated": 1720,
+      "playlists": 6,
+      "errors": 0
+    },
+    "b6a8bc04e27dbbb6": {
+      "status": "complete",
+      "name": "Biblaridion",
+      "videos": 104,
+      "detailed": 104,
+      "dated": 104,
+      "playlists": 8,
+      "errors": 0
+    },
+    "617288e4f96ba6d5": {
+      "status": "complete",
+      "name": "Fran Blanche",
+      "videos": 1486,
+      "detailed": 1486,
+      "dated": 1486,
+      "playlists": 20,
+      "errors": 0
+    },
+    "8803c0643258df4b": {
+      "status": "complete",
+      "name": "Nerdwriter1",
+      "videos": 306,
+      "detailed": 306,
+      "dated": 306,
+      "playlists": 9,
+      "errors": 0
+    },
+    "4a75bb47f2d485e8": {
+      "status": "complete",
+      "name": "Shawn Woods",
+      "videos": 1050,
+      "detailed": 1050,
+      "dated": 1050,
+      "playlists": 22,
+      "errors": 0
+    },
+    "1f8de78c8d99b557": {
+      "status": "complete",
+      "name": "Mark Novak",
+      "videos": 260,
+      "detailed": 260,
+      "dated": 260,
+      "playlists": 8,
+      "errors": 0
+    },
+    "07afe34f92936399": {
+      "status": "complete",
+      "name": "Strange Parts",
+      "videos": 92,
+      "detailed": 92,
+      "dated": 92,
+      "playlists": 7,
+      "errors": 0
+    },
+    "cdae5deb26e24291": {
+      "status": "partial",
+      "name": "Louis Rossmann",
+      "videos": 3966,
+      "detailed": 3966,
+      "dated": 3966,
+      "playlists": 78,
+      "errors": 1
+    },
+    "fbfcd7a1d8b80587": {
+      "status": "partial",
+      "name": "Calum",
+      "videos": 53,
+      "detailed": 53,
+      "dated": 53,
+      "playlists": 0,
+      "errors": 1
+    },
+    "1c20b3006ae19d0e": {
+      "status": "complete",
+      "name": "RODALCO2007",
+      "videos": 1960,
+      "detailed": 1960,
+      "dated": 1960,
+      "playlists": 28,
+      "errors": 0
+    },
+    "fb141726a2239775": {
+      "status": "complete",
+      "name": "Jarett Gross",
+      "videos": 235,
+      "detailed": 235,
+      "dated": 235,
+      "playlists": 6,
+      "errors": 0
+    },
+    "4e165f013b2cc146": {
+      "status": "complete",
+      "name": "William Osman",
+      "videos": 168,
+      "detailed": 168,
+      "dated": 168,
+      "playlists": 8,
+      "errors": 0
+    },
+    "0c150daf828b384a": {
+      "status": "complete",
+      "name": "Allen Pan",
+      "videos": 95,
+      "detailed": 95,
+      "dated": 95,
+      "playlists": 5,
+      "errors": 0
+    },
+    "1d0412450e6d2053": {
+      "status": "complete",
+      "name": "I did a thing",
+      "videos": 105,
+      "detailed": 105,
+      "dated": 105,
+      "playlists": 2,
+      "errors": 0
+    },
+    "5fb91de53c2519bc": {
+      "status": "complete",
+      "name": "CNC Kitchen",
+      "videos": 228,
+      "detailed": 228,
+      "dated": 228,
+      "playlists": 11,
+      "errors": 0
+    },
+    "4123f5d3ead1f3de": {
+      "status": "complete",
+      "name": "Knowing Better",
+      "videos": 106,
+      "detailed": 106,
+      "dated": 106,
+      "playlists": 16,
+      "errors": 0
+    },
+    "efcee1d6b4839d86": {
+      "status": "partial",
+      "name": "Maker's Muse",
+      "videos": 649,
+      "detailed": 649,
+      "dated": 649,
+      "playlists": 0,
+      "errors": 1
+    },
+    "ed906cdbdae982d7": {
+      "status": "complete",
+      "name": "Stewart Hicks",
+      "videos": 160,
+      "detailed": 160,
+      "dated": 160,
+      "playlists": 10,
+      "errors": 0
+    },
+    "1ef34baf34afa54b": {
+      "status": "complete",
+      "name": "Jazza",
+      "videos": 1545,
+      "detailed": 1545,
+      "dated": 1545,
+      "playlists": 26,
+      "errors": 0
+    },
+    "67f78af4f977c285": {
+      "status": "complete",
+      "name": "acapellascience",
+      "videos": 45,
+      "detailed": 45,
+      "dated": 45,
+      "playlists": 13,
+      "errors": 0
+    },
+    "198191d1d67a6cae": {
+      "status": "complete",
+      "name": "Solar Sands",
+      "videos": 181,
+      "detailed": 181,
+      "dated": 181,
+      "playlists": 6,
+      "errors": 0
+    },
+    "6df29b8918437a34": {
+      "status": "complete",
+      "name": "Great Art Explained",
+      "videos": 72,
+      "detailed": 72,
+      "dated": 72,
+      "playlists": 2,
+      "errors": 0
+    },
+    "88c73ea896312156": {
+      "status": "complete",
+      "name": "NationSquid",
+      "videos": 141,
+      "detailed": 141,
+      "dated": 141,
+      "playlists": 10,
+      "errors": 0
+    },
+    "9dab28ecee89539b": {
+      "status": "complete",
+      "name": "DUST",
+      "videos": 1034,
+      "detailed": 1034,
+      "dated": 1034,
+      "playlists": 26,
+      "errors": 0
+    },
+    "e8115c2e0670d89a": {
+      "status": "complete",
+      "name": "DependableFlame",
+      "videos": 1012,
+      "detailed": 1012,
+      "dated": 1012,
+      "playlists": 7,
+      "errors": 0
+    }
+  },
+  "errors": {
+    "c7f3531f3fc306e0": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "ea5cdfca68f6a597": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "43ba9179425c9bbb": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "7d4e4c61a8819410": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "07c83b01847d98aa": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "d09e47a68ac9eaf2": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "5d234c7304497858": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "84040023e34b68d1": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "80a1761f5c2b811d": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "ad1176d69624a5fb": {
+      "6tsXgLgj-xI": "Returned metadata belongs to a different video or playlist",
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "f0350b7686cea590": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "b53a810bfd7c0637": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "260fcff6048976b0": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "1d664ed743d248a5": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "81f5ead3304b990e": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "28fd101c28d9bfad": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "22bca5734a8ce6e4": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "4dfe9ba45def4cf1": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "35694221bc7c8065": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "707075dcb71ff8d2": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "a645e5e69683af4d": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "054c3bfebeaf0738": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "2eb9175bc0d6fb71": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "b8e07386b750f6f4": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "0cb6eb2317cb3f89": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "65a1beaf4e88c74c": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "730aad50b94d8326": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "eacd054d6f242398": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "d7f4b1e694a14197": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "1a54f26c5bd0a96e": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "89539df479541bec": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "2b4b33be2ce84fec": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "fdfac0920be3e4ed": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "4075b536f3304db1": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "d33edb3f7cf6576a": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "07873ad2dea51e93": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "06f81c7503f7564a": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "f11ee0e9e6c4e47a": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "53a52e5524d85d37": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "2d5acea676add401": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "fcc84d077bfe9198": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "b1834991445f3079": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "2bc7df9156fd4ad5": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "609658f25f81405a": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "eaf8746bd8bfce8d": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "7b990a2a9ae17d65": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "a2c186a5538f4c22": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "79231df8da4f0633": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "0fd20e9928d52f10": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "4a378724d7eaab00": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "9a69c9ca723668dc": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "9c8b28f9cc717026": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "da159bc83dbb3ff4": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "998234d5b22ce4c2": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "7f16946c8cf89eaa": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "498516b5999fefc0": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "ec08bd24b4c62997": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "1197d4032213168d": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "0c2dc820267b7264": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "d8e7e82818f177ce": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "40ddae6833435c6e": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "2d47fd19e1707541": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "904dc92ec407d4ef": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "d5feaea676f09f63": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "1cb2ccfd1c903c61": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "68b822976e172363": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "431de8006708e800": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "10e13ec998763679": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "1d2f6feafa259a02": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "7c4fe88e70e5081c": {
+      "k_vD2S49INE": "Returned metadata belongs to a different video or playlist",
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "63beac6354e4c56a": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "f7643e55aaaa4094": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "6c3fefc23d615d67": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "751901611f265989": {
+      "PLTZM4MrZKfW-ftqKGSbO-DwDiOGqNmq53": "WARNING: [youtube:tab] Incomplete data received. Retrying (1/2)...\nWARNING: [youtube:tab] Incomplete data received. Retrying (2/2)...\nERROR: Incomplete data received",
+      "PLTZM4MrZKfW9MypfZKND911Jh8bsX4oAS": "WARNING: [youtube:tab] Incomplete data received. Retrying (1/2)...\nWARNING: [youtube:tab] Incomplete data received. Retrying (2/2)...\nERROR: Incomplete data received"
+    },
+    "f8f26ae5a2cbdb16": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "63002904680a77c8": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "429810a020d7bb8a": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "0817bc8acdef9403": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "1c8eaabb737cc95d": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "9ce27cc477dce0cf": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "34b091b03584d230": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "4377cab6df1f331a": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "c876faf091e19d86": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "3477ea51a00b4f36": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "5f887daa60dbe906": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "7fa9471c2475d229": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "51227f2ae0aabf1b": {
+      "PLcqX4UMXNKEdBiKuAkf9SU8xlQf8CgA2V": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_MOVIE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "6a18d00b9e95a1d2": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "5b17572600a8a02e": {
+      "PL1lNrW4e0G8VrmWN1ZQ9FE72kDytLq2hi": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"None\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "1227632fbf19d887": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "b5ab5ef9cdd3cbf9": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SEASON\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "5cb1d5da92aaae63": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "ba0f67a693bd7d46": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "607ba5726372bc5b": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SEASON\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "be2c4406f5f81e40": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "dc5e3021ff643d2e": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "e48b10bc2a15876f": {
+      "PLfJnf2RLhtwbqx4YUSJRuPcpcakkyWDzm": "WARNING: [youtube:tab] Incomplete data received. Retrying (1/2)...\nWARNING: [youtube:tab] Incomplete data received. Retrying (2/2)...\nERROR: Incomplete data received"
+    },
+    "140095a1e4d1e229": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "8efc215253d6c920": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "6fbda537b72a1160": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "b61ecfc9cb5690a9": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "6c94979f992d457b": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "68a8e4d23417eaa3": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "e52ee9e5e7ad313d": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "0b76fe660d42587e": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "1e8f160fe8dd1852": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "45190a567c95c363": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "2b059ddfbd558610": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "dbfec18222248f02": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "dc94a7133df591cb": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "d9cc311dac299e51": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "825b0aa888672277": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "100d44bbfac1439f": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "d641a6780b0490d1": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "a412fc0eb0fff674": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "df0b8ccd83af7d8c": {
+      "PLm9VVia9DFSUUl8n25Wv3H3eBAqzI599Z": "WARNING: [youtube:tab] Incomplete data received. Retrying (1/2)...\nWARNING: [youtube:tab] Incomplete data received. Retrying (2/2)...\nERROR: Incomplete data received"
+    },
+    "5192c8f34b0d2ba1": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SEASON\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "b102c743d51a0a20": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "1eefdf60deb41b9b": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "de7d0835ff7e741b": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "8a1d6b452ead4d64": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "d6410e1d23f44d64": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "090ae5a42dbf203f": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "5c07485646dcd01c": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "2a301a215e0f93bf": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "1d135edcf2a5cd9c": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "54992568183fb9ec": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "0dadee9a31335aac": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "ec13cbd72e0894b5": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "07d5dfb431ac2eb0": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "54ccc9982fbdbbcd": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "059d036ed29a673a": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "d63f3ac0d89fb47a": {
+      "2acq2KeRD24": "Returned metadata belongs to a different video or playlist",
+      "Q7bJ_HIf6XI": "Returned metadata belongs to a different video or playlist",
+      "o8Azx9oRjuQ": "Returned metadata belongs to a different video or playlist",
+      "yM1Nddh9im8": "Returned metadata belongs to a different video or playlist",
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "6fba079e9c57cdae": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "af0ccdc2843706dd": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "4f6edcb60c6e1af3": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "becb88af676b7326": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "8ba61f3de68fcd4f": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "7040fcf49096fb32": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "ac6f9acdea553176": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "c524588abb40f2e1": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "1228eaeab400a0bc": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "94479f2261e20a15": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "71c014dba41a558b": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "4b0fbe600bf39a88": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "e898db8ddc34cd6b": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "ff8c564bf0acc000": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_SHOW\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    "cdae5deb26e24291": {
+      "PLkVbIsAWN2lvpys3pHlAHXGEamiDEWiRN": "WARNING: [youtube:tab] Incomplete data received. Retrying (1/2)...\nWARNING: [youtube:tab] Incomplete data received. Retrying (2/2)...\nERROR: Incomplete data received"
+    },
+    "fbfcd7a1d8b80587": {
+      "playlists": "WARNING: [youtube:tab] Incomplete data received. Retrying (1/2)...\nWARNING: [youtube:tab] Incomplete data received. Retrying (2/2)...\nERROR: Incomplete data received"
+    },
+    "efcee1d6b4839d86": {
+      "playlists": "Extraction may be incomplete; snapshot not replaced:\n[youtube:tab] Unsupported lockup view model content type \"LOCKUP_CONTENT_TYPE_COURSE\"; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    }
+  },
+  "updated_at": "2026-11-03T22:50:02.276199+00:00"
+}

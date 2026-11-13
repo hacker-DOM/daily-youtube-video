@@ -5,3 +5,7 @@ __pycache__/
 node_modules/
 test-results/
 my-library.json
+# Raw collection stays local; public copies are compressed on dedicated branches.
+/data/indexes/
+/data/metadata/
+/.publish/

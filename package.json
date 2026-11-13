@@ -5,7 +5,12 @@
   "description": "A static daily YouTube picker with no backend or build step",
   "scripts": {
     "test": "node --test tests/*.test.cjs",
-    "catalog": "python3 tools/build_catalog.py"
+    "catalog": "python3 tools/build_catalog.py",
+    "indexes": "python3 tools/build_indexes.py",
+    "test:indexes": "python3 -m unittest discover -s tests -p 'test_*.py'",
+    "enrich": "python3 tools/enrich_indexes.py"
   },
-  "engines": { "node": ">=20" }
+  "engines": {
+    "node": ">=20"
+  }
 }

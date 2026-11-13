@@ -245,7 +245,7 @@ def iso_date(value: str) -> date:
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("source", help="Channel/playlist URL, @handle, UC channel ID, or playlist ID")
-    parser.add_argument("--date", type=iso_date, default=None, help="YYYY-MM-DD; default: today in UTC")
+    parser.add_argument("--date", type=iso_date, default=None, help="YYYY-MM-DD; default: today's local date")
     parser.add_argument("--refresh", action="store_true", help="Rebuild the saved index (may change past picks)")
     parser.add_argument("--cache-dir", type=Path, default=Path(".cache/youtube-index"))
     parser.add_argument("--json", action="store_true", help="Print machine-readable JSON")
@@ -253,7 +253,7 @@ def main(argv: list[str] | None = None) -> int:
     try:
         source_url = normalize_source(args.source)
         index = load_index(source_url, args.cache_dir, args.refresh)
-        result = choose_video(index, args.date or datetime.now(timezone.utc).date())
+        result = choose_video(index, args.date or date.today())
     except (OSError, ValueError, RuntimeError) as exc:
         print(f"Error: {exc}", file=sys.stderr)
         return 1

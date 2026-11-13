@@ -41,6 +41,9 @@
 #suggestion-url { width: 100%; }
 .suggestion-setup pre { font-size: 10px; white-space: pre-wrap; overflow-wrap: anywhere; color: #445837; line-height: 1.8; }
 .suggestion-setup .inline-error { color: #a84031; }
+.suggestion-index-status { font-size: 10px; color: #56713d; margin-bottom: 8px; }
+.suggestion-card button:disabled { opacity: .55; cursor: default; }
+.suggestion-card .inline-error { font-size: 11px; line-height: 1.5; margin-top: 10px; }
 @media (max-width: 760px) {
   .browse-button { width: auto; display: inline-flex; padding: 9px; font-size: 10px; }
   .browse-button > span:last-child { display: none; }

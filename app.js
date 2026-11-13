@@ -55,6 +55,11 @@
   } catch {
     notice("Your saved library couldn't be loaded. Geography Now is available to get you started; you can reimport your other indexes.");
   }
+  // Upgrade the example's metadata without changing a saved selection schedule.
+  sources = sources.map(source => source.source_url === example.source_url && example.metadata_updated_at &&
+    (!source.metadata_updated_at || Date.parse(example.metadata_updated_at) > Date.parse(source.metadata_updated_at)) &&
+    source.videos.length === example.videos.length && source.videos.every((video, i) => video.id === example.videos[i].id)
+    ? example : source);
   const requestedDate = new URLSearchParams(location.search).get("date");
   if (requestedDate && Core.validDate(requestedDate)) {
     day = requestedDate;
@@ -66,7 +71,11 @@
   }
 
   function shortDate(value) {
-    return new Intl.DateTimeFormat("en", { month: "short", day: "numeric", year: "numeric", timeZone: "UTC" }).format(new Date(value));
+    const dateOnly = Core.validDate(value);
+    // Calendar labels retain the selected day; saved timestamps use local time.
+    return new Intl.DateTimeFormat("en", {
+      month: "short", day: "numeric", year: "numeric", ...(dateOnly ? { timeZone: "UTC" } : {}),
+    }).format(new Date(dateOnly ? value + "T00:00:00Z" : value));
   }
 
   function renderLibrary() {
@@ -99,20 +108,21 @@
     $("error-banner").hidden = true;
     $("pick-date").value = day;
     $("return-today").hidden = day === Core.today();
-    $("pick-badge-label").textContent = day === Core.today() ? "TODAY'S PICK" : "YOUR PICK · " + shortDate(day + "T00:00:00Z").toUpperCase();
+    $("pick-badge-label").textContent = day === Core.today() ? "TODAY'S PICK" : "YOUR PICK · " + shortDate(day).toUpperCase();
     $("day-label").textContent = day === Core.today() ? "YOUR DAILY DISCOVERY" : "A LITTLE TIME TRAVEL";
     $("empty-state").hidden = Boolean(source);
     for (const element of [$("video-card"), document.querySelector(".under-card"), document.querySelector(".library-details"), document.querySelector(".collection-footer")]) {
       element.hidden = !source;
     }
     renderLibrary();
-    if (!source) { selected = null; return; }
+    if (!source) { selected = null; $("insights").hidden = true; return; }
     activeUrl = source.source_url;
     $("video-card").setAttribute("aria-busy", "true");
     try {
       const choice = await Core.pick(source, day);
       if (currentRevision !== revision) return;
       selected = choice;
+      window.DailyInsightsUI.render(source, choice);
       const watchUrl = `https://www.youtube.com/watch?v=${choice.id}`;
       $("watch-link").href = watchUrl;
       $("thumbnail-link").href = watchUrl;
@@ -155,12 +165,13 @@
 
   function updateClock() {
     const now = new Date();
-    if (followsToday && day !== Core.today()) { day = Core.today(); render(); return; }
-    if (day !== Core.today()) { $("next-pick").textContent = "Exploring " + shortDate(day + "T00:00:00Z"); return; }
-    const seconds = 86400 - now.getUTCHours() * 3600 - now.getUTCMinutes() * 60 - now.getUTCSeconds();
+    const today = Core.today(now);
+    if (followsToday && day !== today) { day = today; render(); return; }
+    if (day !== today) { $("next-pick").textContent = "Exploring " + shortDate(day); return; }
+    const seconds = Core.secondsUntilMidnight(now);
     const hours = Math.floor(seconds / 3600);
     const minutes = Math.floor((seconds % 3600) / 60);
-    $("next-pick").textContent = `Next pick in ${hours}h ${String(minutes).padStart(2, "0")}m · UTC`;
+    $("next-pick").textContent = `Next pick in ${hours}h ${String(minutes).padStart(2, "0")}m · local time`;
   }
 
   function openImport() {
@@ -212,24 +223,33 @@
     }
   });
 
+  async function saveIndex(index) {
+    const existing = sources.findIndex((source) => source.source_url === index.source_url || (
+      source.source_type === "channel" && index.source_type === "channel" && source.channel_id && source.channel_id === index.channel_id
+    ));
+    if (existing >= 0) sources[existing] = index;
+    else sources.push(index);
+    activeUrl = index.source_url;
+    persist();
+    $("import-dialog").close();
+    await render();
+    toast(`${index.source_title} ${existing >= 0 ? "updated" : "added"}${persistentStorage ? "" : " for this session"}`);
+  }
+
+  window.addEventListener("daily:bundled-index", async event => {
+    try { await saveIndex(Core.normalizeIndex(event.detail)); }
+    catch (error) { showError(error.message); }
+  });
+
   async function importFile(file) {
     if (!file) return;
     try {
-      if (file.size > 10 * 1024 * 1024) throw new Error("Choose a JSON index smaller than 10 MB.");
+      if (file.size > 50 * 1024 * 1024) throw new Error("Choose a JSON index smaller than 50 MB.");
       let raw;
       try { raw = JSON.parse(await file.text()); }
       catch { throw new Error("That file isn't valid JSON. Export a video index and try again."); }
       const index = Core.normalizeIndex(raw);
-      const existing = sources.findIndex((source) => source.source_url === index.source_url || (
-        source.source_type === "channel" && index.source_type === "channel" && source.channel_id && source.channel_id === index.channel_id
-      ));
-      if (existing >= 0) sources[existing] = index;
-      else sources.push(index);
-      activeUrl = index.source_url;
-      persist();
-      $("import-dialog").close();
-      await render();
-      toast(`${index.source_title} ${existing >= 0 ? "updated" : "added"}${persistentStorage ? "" : " for this session"}`);
+      await saveIndex(index);
     } catch (error) {
       $("import-error").textContent = error.message;
       $("import-error").hidden = false;

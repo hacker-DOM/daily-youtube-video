@@ -67,6 +67,47 @@ test("invalid dates and calendar rollover are handled", async () => {
   assert.equal(Core.shiftDate("2026-01-01", -1), "2025-12-31");
 });
 
+function datesInZone(timeZone, timestamps) {
+  const program = `
+    const Core = require('./core.js');
+    const timestamps = JSON.parse(process.argv[1]);
+    console.log(JSON.stringify(timestamps.map(value => {
+      const now = new Date(value);
+      return {day: Core.today(now), seconds: Core.secondsUntilMidnight(now)};
+    })));
+  `;
+  return JSON.parse(execFileSync(process.execPath, ["-e", program, JSON.stringify(timestamps)], {
+    cwd: path.join(__dirname, ".."), env: { ...process.env, TZ: timeZone }, encoding: "utf8",
+  }));
+}
+
+test("today follows local midnight instead of UTC midnight", () => {
+  assert.deepEqual(datesInZone("America/Guatemala", [
+    "2026-10-01T23:59:59Z", "2026-10-02T00:00:00Z",
+    "2026-10-02T05:59:59Z", "2026-10-02T06:00:00Z",
+  ]), [
+    {day: "2026-10-01", seconds: 21601}, {day: "2026-10-01", seconds: 21600},
+    {day: "2026-10-01", seconds: 1}, {day: "2026-10-02", seconds: 86400},
+  ]);
+  assert.deepEqual(datesInZone("Asia/Tokyo", ["2026-12-31T15:00:00Z"]), [
+    {day: "2027-01-01", seconds: 86400},
+  ]);
+});
+
+test("local midnight countdown handles daylight saving and fractional offsets", () => {
+  assert.deepEqual(datesInZone("America/New_York", [
+    "2026-03-08T05:00:00Z", "2026-03-08T06:30:00Z", // Spring forward: 23-hour day.
+    "2026-11-01T04:00:00Z", "2026-11-01T05:30:00Z", "2026-11-01T06:30:00Z", // Repeated 1:30 a.m.
+  ]), [
+    {day: "2026-03-08", seconds: 23 * 3600}, {day: "2026-03-08", seconds: 21.5 * 3600},
+    {day: "2026-11-01", seconds: 25 * 3600}, {day: "2026-11-01", seconds: 23.5 * 3600},
+    {day: "2026-11-01", seconds: 22.5 * 3600},
+  ]);
+  assert.deepEqual(datesInZone("Asia/Kathmandu", ["2026-10-01T18:15:00Z"]), [
+    {day: "2026-10-02", seconds: 86400},
+  ]);
+});
+
 test("bundled script and importable snapshot contain exactly the same videos", () => {
   const context = { window: {} };
   vm.runInNewContext(readFileSync(path.join(__dirname, "../library.js"), "utf8"), context);
