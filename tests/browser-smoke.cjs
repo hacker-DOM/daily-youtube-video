@@ -108,7 +108,10 @@ async function importJSON(data) {
       assert.equal(JSON.parse(readFileSync(downloaded, "utf8")).metadata.id, "DAIyRVxrjP4");
     }
     await evaluate("document.getElementById('browse-suggestions').click(); document.getElementById('suggestion-search').value = 'Mossy Earth'; document.getElementById('suggestion-search').dispatchEvent(new Event('input'));");
-    assert.equal(await evaluate("document.querySelectorAll('.suggestion-card').length"), 1);
+    await until("document.querySelectorAll('.suggestion-card').length === 1");
+    assert.equal(await evaluate("document.querySelectorAll('.suggestion-card').length"), 1, JSON.stringify({
+      state: await evaluate("({url: location.href, query: document.getElementById('suggestion-search').value, category: document.getElementById('suggestion-category').value, added: document.getElementById('suggestion-new-only').checked, count: document.getElementById('suggestion-results-count').textContent})"), exceptions,
+    }));
     // Inject a fixture bundle to exercise the one-tap flow without contacting YouTube.
     await evaluate(`(() => {
       const item = window.DAILY_SUGGESTIONS.items.find(item => item.name === 'Mossy Earth');
