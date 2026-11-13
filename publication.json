@@ -1,0 +1,12 @@
+{
+  "packaged_at": "2026-11-13T15:39:42.981094+00:00",
+  "sources": 585,
+  "site_bytes": 124181525,
+  "source_commit": "110ca41d3e9fde71afb5a3f57b6a9162eb58c529",
+  "archive_commit": "74fec7ce2e3a5cb0deb29bf5725eb177881ce9d0",
+  "archive_counts": {
+    "videos": 362596,
+    "channels": 436,
+    "playlists": 7684
+  }
+}

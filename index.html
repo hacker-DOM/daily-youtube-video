@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f7f2">
+  <meta name="description" content="One video. Every day. A quieter way to explore your favorite YouTube channels and playlists.">
+  <title>Daily — a little less scrolling</title>
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="insights.css">
+  <script defer src="core.js"></script>
+  <script defer src="site-config.js"></script>
+  <script defer src="site-data.js"></script>
+  <script defer src="insights.js"></script>
+  <script defer src="insights-ui.js"></script>
+  <script defer src="library.js"></script>
+  <script defer src="suggestions-data.js"></script>
+  <script defer src="indexes-manifest.js"></script>
+  <script defer src="bundled-indexes.js"></script>
+  <script defer src="suggestions.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="./index.html" aria-label="Daily home"><span class="brand-icon" aria-hidden="true">▶</span>daily<span class="brand-dot">.</span></a>
+    <span class="tagline">A little less scrolling.</span>
+    <button class="text-button" id="about-button">How it works <span aria-hidden="true">↗</span></button>
+  </header>
+
+  <main class="layout">
+    <aside class="sidebar" aria-label="Your video library">
+      <div class="sidebar-heading"><h2>Your library</h2><span class="pill" id="source-count">1</span></div>
+      <p class="muted sidebar-intro">Good channels. One daily pick.</p>
+      <nav id="library-list" aria-label="Choose a channel or playlist"></nav>
+      <button class="add-button" id="add-source"><span aria-hidden="true">＋</span> Add a channel or playlist</button>
+      <button class="browse-button" id="browse-suggestions">Browse suggestions <span id="suggestion-count" class="pill"></span><span aria-hidden="true">↗</span></button>
+      <div class="sidebar-note"><span class="tiny-dot" aria-hidden="true"></span><div>Yours, by default.<p>Your library stays in this browser.</p></div></div>
+    </aside>
+
+    <section class="main-content" aria-label="Daily video">
+      <div class="heading-row">
+        <div><p class="eyebrow" id="day-label">YOUR DAILY DISCOVERY</p><h1>One good video.</h1><p class="lead">A familiar channel. Something you might have missed.</p></div>
+        <div class="date-controls" aria-label="Choose a day">
+          <button class="icon-button" id="previous-day" aria-label="Previous day">‹</button>
+          <input id="pick-date" type="date" aria-label="Date for your video" min="0001-01-01" max="9999-12-31">
+          <button class="icon-button" id="next-day" aria-label="Next day">›</button>
+        </div>
+      </div>
+
+      <div id="error-banner" class="banner error" role="alert" hidden></div>
+      <div id="notice-banner" class="banner" role="status" hidden></div>
+
+      <div id="empty-state" class="empty-state" hidden><h2>A little room for curiosity.</h2><p>Add a channel or playlist to find your first daily video.</p><button class="primary-button" id="empty-add">Add a library ＋</button><button class="text-button" id="restore-example">Try Geography Now ↗</button></div>
+
+      <article class="video-card" id="video-card" aria-busy="true">
+        <a class="thumbnail-link" id="thumbnail-link" target="_blank" rel="noopener noreferrer" aria-label="Watch today's video on YouTube">
+          <div class="thumbnail-fallback" aria-hidden="true"><span>daily.</span><p>Make room for a little discovery.</p></div>
+          <img id="video-thumbnail" alt="" referrerpolicy="no-referrer" hidden>
+          <span class="pick-badge"><span class="tiny-dot"></span><span id="pick-badge-label">TODAY'S PICK</span></span>
+          <span class="play-button" aria-hidden="true">▶</span>
+          <span class="image-footer">ONE VIDEO. A NEW PERSPECTIVE. <span aria-hidden="true">↗</span></span>
+        </a>
+        <div class="video-details">
+          <div class="source-line"><span class="source-avatar" id="source-avatar" aria-hidden="true">G</span><a id="source-link" target="_blank" rel="noopener noreferrer">Geography Now</a><span class="source-type" id="source-type">CHANNEL</span><span class="selection-position" id="selection-position"></span></div>
+          <h2 id="video-title">Finding your daily video…</h2>
+          <div id="video-facts" class="video-facts"></div>
+          <details id="video-description-panel" class="video-description" hidden><summary>About this video</summary><p id="video-description"></p><div id="video-tags" class="video-tags"></div><a id="video-metadata-download" class="text-button" hidden download>Full metadata JSON ↓</a></details>
+          <div id="video-playlists" class="video-playlists"></div>
+          <div class="video-actions"><a class="primary-button" id="watch-link" target="_blank" rel="noopener noreferrer">Watch on YouTube <span aria-hidden="true">↗</span></a><button class="secondary-button" id="copy-video"><span aria-hidden="true">⧉</span> Copy link</button><button class="text-button today-button" id="return-today" hidden>Back to today ↩</button></div>
+        </div>
+      </article>
+
+      <div class="under-card"><span><span class="tiny-dot olive"></span><span id="next-pick">Next pick at local midnight</span></span><span>Same day. Same library. Same video.</span></div>
+
+      <section class="library-details" aria-labelledby="collection-heading">
+        <div><p class="eyebrow">THE COLLECTION</p><h2 id="collection-heading">A whole channel to rediscover.</h2><p class="muted" id="collection-description"></p></div>
+        <div class="collection-stat"><strong id="video-count">—</strong><span>videos in your library</span></div>
+      </section>
+      <div class="collection-footer"><span id="index-date"></span><div><button class="text-button" id="export-index">Export library ↓</button><button class="text-button" id="update-index">Update library ↻</button><button class="text-button danger" id="remove-index">Remove</button></div></div>
+      <section id="insights" class="insights" aria-labelledby="insights-heading" hidden>
+        <div class="insights-heading"><div><p class="eyebrow">THE BIGGER PICTURE</p><h2 id="insights-heading">A channel, through time.</h2></div><span class="capture-label" id="metadata-captured"></span></div>
+        <div class="insight-stats" id="insight-stats"></div>
+        <div class="chart-card">
+          <div class="chart-heading"><div><h3 id="chart-heading">The publishing rhythm</h3><p id="chart-explanation"></p></div><div class="metric-switch" role="group" aria-label="Chart metric"><button data-metric="videos" aria-pressed="true">Uploads</button><button data-metric="view_count" aria-pressed="false">Views</button><button data-metric="like_count" aria-pressed="false">Likes</button></div></div>
+          <div class="chart-controls"><label>Group by <select id="chart-interval"><option value="year">Year</option><option value="month">Month</option></select></label><label>Period <select id="chart-range"><option value="all">All time</option><option value="5y">Last 5 years</option><option value="12m">Last 12 months</option></select></label></div>
+          <p id="chart-empty" class="chart-empty" hidden></p>
+          <div id="chart-scroll" class="chart-scroll"><svg id="upload-chart" role="group" aria-labelledby="chart-heading" aria-describedby="chart-explanation chart-coverage"></svg></div>
+          <div id="chart-tooltip" class="chart-tooltip" role="status" aria-live="polite">Select a bar to explore a period.</div>
+          <p id="chart-coverage" class="chart-coverage"></p>
+          <details id="chart-table-panel" class="chart-table-panel"><summary>View chart data</summary><div class="chart-table-scroll"><table><caption id="chart-table-caption"></caption><thead><tr><th scope="col">Published</th><th scope="col">Value</th><th scope="col">Videos with data</th></tr></thead><tbody id="chart-table-body"></tbody></table></div></details>
+        </div>
+        <section class="playlist-explorer" aria-labelledby="playlists-heading"><div class="playlists-heading"><div><p class="eyebrow">CURATED BY THE CREATOR</p><h3 id="playlists-heading">Explore the playlists</h3></div><label class="playlist-search-label"><span class="sr-only">Search playlists</span><input id="playlist-search" type="search" placeholder="Find a playlist…"></label></div><p id="playlists-coverage" class="chart-coverage"></p><div id="playlist-grid" class="playlist-grid"></div><button id="playlists-more" class="secondary-button" hidden>Show more playlists</button></section>
+      </section>
+      <footer class="page-footer"><span class="footer-mark">daily.</span><p>Let curiosity choose the next click.</p><span>No account. No endless feed.</span></footer>
+    </section>
+  </main>
+
+  <dialog id="import-dialog" aria-labelledby="import-heading">
+    <button class="close-button icon-button" data-close="import-dialog" aria-label="Close import dialog">×</button>
+    <p class="eyebrow">MAKE IT YOURS</p><h2 id="import-heading">Add to your daily rotation.</h2>
+    <p class="dialog-intro">Import a saved channel or playlist index. Your videos stay in this browser.</p>
+    <section id="suggestion-setup" class="suggestion-setup" hidden aria-labelledby="setup-title">
+      <h3 id="setup-title"></h3>
+      <p id="setup-description"></p>
+      <label for="suggestion-url">Channel or playlist URL</label>
+      <input id="suggestion-url" type="url" placeholder="https://www.youtube.com/@channel" autocomplete="off">
+      <p id="suggestion-url-error" class="inline-error" role="alert" hidden></p>
+      <pre><code id="suggestion-command"></code></pre>
+      <button class="secondary-button" id="copy-index-command">Copy index command</button>
+      <p>Run the command from the app folder, then import <code>my-library.json</code> below.</p>
+    </section>
+    <label class="drop-zone" id="drop-zone" for="index-file"><span class="upload-icon" aria-hidden="true">↑</span><strong>Drop a video index here</strong><span>or choose a JSON file · up to 50 MB</span><input id="index-file" type="file" accept=".json,application/json"></label>
+    <p id="import-error" class="inline-error" role="alert" hidden></p>
+    <details class="create-index"><summary>First time? Create an index</summary><p>Run this once on your computer, then import <code>my-library.json</code>. Use a channel handle or a playlist URL.</p><pre><code>uv run tools/index_source.py '@periodicvideos' --output my-library.json</code></pre><p>YouTube prevents websites from reading its full listings directly. A saved index keeps Daily independent of a server or API key.</p><p>Channel indexes exclude Shorts. Playlist indexes keep the videos you put in the playlist, including Shorts.</p></details>
+    <p class="dialog-footnote">Updating an existing source replaces its saved list and can change daily picks. Export its current library first if you want to keep it.</p>
+  </dialog>
+
+  <dialog id="suggestions-dialog" aria-labelledby="suggestions-heading">
+    <button class="close-button icon-button" data-close="suggestions-dialog" aria-label="Close suggestions">×</button>
+    <p class="eyebrow">FOLLOW YOUR CURIOSITY</p><h2 id="suggestions-heading">Find your next daily ritual.</h2>
+    <p class="dialog-intro">Channels and playlists from your reading list. Ready libraries open with one tap, on any device.</p>
+    <p id="bundled-status" class="muted" role="status"></p>
+    <div class="suggestion-filters">
+      <label><span>Search</span><input id="suggestion-search" type="search" placeholder="Channel, topic, or keyword…" autocomplete="off"></label>
+      <label><span>Category</span><select id="suggestion-category"><option value="">All categories</option></select></label>
+      <label class="new-only"><input id="suggestion-new-only" type="checkbox"> Added since GitHub</label>
+    </div>
+    <p id="suggestion-results-count" class="muted" aria-live="polite"></p>
+    <div id="suggestion-results" class="suggestion-grid"></div>
+    <p id="suggestion-no-results" class="muted" hidden>No suggestions match. Try another name or category.</p>
+    <nav class="suggestion-pagination" aria-label="Suggestion pages"><button id="suggestion-previous" class="secondary-button">← Previous</button><span id="suggestion-page"></span><button id="suggestion-next" class="secondary-button">Next →</button></nav>
+    <p class="suggestion-attribution">From the <a href="https://docs.google.com/document/d/1M5kvDldTCDCNgrlNx6fcDF1h81fnKX6Ovvm20L06Jtk/edit" target="_blank" rel="noopener noreferrer">YouTube Channels document</a>, pasted October 1, 2026. Matching links from <a href="https://github.com/PrejudiceNeutrino/YouTube_Channels" target="_blank" rel="noopener noreferrer">PrejudiceNeutrino's list</a>. “Find on YouTube” opens a search when the source link is unknown. Libraries marked “Not indexed yet” are not available in this site version.</p>
+  </dialog>
+
+  <dialog id="about-dialog" aria-labelledby="about-heading">
+    <button class="close-button icon-button" data-close="about-dialog" aria-label="Close explanation">×</button>
+    <p class="eyebrow">A SMALL DAILY RITUAL</p><h2 id="about-heading">Less choosing.<br>More discovering.</h2>
+    <p class="dialog-intro">Daily turns a channel or playlist into one video for each day.</p>
+    <ol class="how-list"><li><strong>Start with a library.</strong><span>Choose a ready collection in Browse suggestions, use Geography Now, or import your own.</span></li><li><strong>Let the date decide.</strong><span>We hash your device's local date with SHA-256 and pick a video from the sorted list.</span></li><li><strong>Come back tomorrow.</strong><span>The selection changes with the date. Videos can repeat; this isn't a no-repeat schedule.</span></li></ol>
+    <p class="dialog-footnote">The app runs entirely in your browser. Library updates are manual. Thumbnails and watch links connect to YouTube; imported files stay local.</p>
+  </dialog>
+  <dialog id="remove-dialog" aria-labelledby="remove-heading"><h2 id="remove-heading">Remove this library?</h2><p id="remove-description"></p><div class="dialog-actions"><button class="secondary-button" data-close="remove-dialog">Keep library</button><button class="primary-button" id="confirm-remove">Remove</button></div></dialog>
+  <div class="toast" id="toast" role="status" hidden></div>
+  <noscript><div class="banner error">Enable JavaScript to use the daily picker.</div></noscript>
+</body>
+</html>
